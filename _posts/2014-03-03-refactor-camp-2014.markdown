@@ -1,0 +1,25 @@
+---
+layout: post
+template: post
+date: 2014-03-03
+tags:
+- refactor camp
+title: "Refactor Camp 2014"
+permalink: /post/78419248865/refactor-camp-2014
+description: "Refactor Camp 2014"
+---
+This weekend I attended [Refactor Camp](http://refactorcamp.org/) and it was amazing.
+
+Refactor Camp is a weekend retreat / unconference thrown by Ventkat Rao of [ribbonfarm](http://www.ribbonfarm.com/). RibbonFarm is a delightfully geeky blog which explores themes of complex systems, civilization, technology, psychology, etc. Venkat also has an online community, of which I've been a member for a while, which discusses those themes and current articles / events related to them. Refactor Camp is an annual gathering of that community.
+
+This weekend was composed of lightening talks and unconference group sessions. The talks were by attendees and the breakout group topics were chosen by the participants. The venue was the [Computer History Museum](http://www.computerhistory.org/), which proved a great setting for the discussion and the exhibits were a fun break from the main content.
+
+The entire weekend was a blast. The participants were all awesome, the lightening talks were stimulating, and the breakout groups were insightful; the conversations happening in the negative space - between planned events - were all incredible, too.
+
+I'm don't think I learned any major, new concepts but there were still many benefits to attending - beyond the joy of the conversations.
+
+We discussed the upside to analyzing, refactoring the world and developing better models. The consensus, which I agree with, is that it better prepares one to engage with problems and uncertainty as they appear. Pasteur has a quote about fortune favoring the prepared mind; I find analytical exercises, model building, and conceptual refactoring to be excellent at preparing one's mind.
+
+I gave one of the lightening talks today. The topics was Collaborative Production - something I've been discussing for ages and been meaning to write a blog post (or several) about. Refactor Camp was a good catalyst to solidify and articulate my thinking. I was extremely pleased with the reception of the talk and the conversation it spurred! I might throw the slides online but I'll probably just translate them into a blog post.
+
+The weekend was excellent and I'm looking forward to continuing the discussions, online. On a final note, Refactor Camp made me grateful that I get to have incredible, in-person conversations year round because I'm surround by amazing, brilliant people who also like to geek out about everything!

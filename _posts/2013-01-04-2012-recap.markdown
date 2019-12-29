@@ -1,0 +1,74 @@
+---
+layout: post
+template: post
+date: 2013-01-04
+tags:
+- recap
+title: "2012 Recap"
+permalink: /post/39671408702/2012-recap
+description: "2012 Recap"
+---
+2012 has been a crazy, awesome year. I joined and sold a company, took my coding to the next level, and finally got hooked on blogging.
+
+### Meetings.io
+I started 2012 still in "fun-employment" mode:
+
+*   Consulting for startups
+*   Researching my own ideas 
+*   Still learning to code
+*   Taking every opportunity to meet with awesome people building cool products and companies
+
+By late winter, I felt that there was no problem I was extremely excited about solving via my own startup. While I could keep consulting indefinitely, I was eager to work on one problem for an extended time with a great team.
+
+Soon after I heard from the [Meetings.io](http://meetings.io) founders, [Denis Mars](https://twitter.com/denismars) and [Arend Naylor](https://twitter.com/arendn). I had consulted for them twice before; I knew they were brilliant entrepreneurs and that I enjoyed working with them. The previous fall I had helped them figure out what Meetings.io should be (it was a pivot) and they had just launched the new product to great acclaim. They were ready to start growing the team and asked me to join as the COO (i.e. "Business Guy").
+
+I joined full-time in May and had a blast from day one. My day-to-day ranged from Finance to Marketing, Strategy to PR, and I was even committing a bit of code each week. There was a wide diversity of intellectual challenges and I got to use all parts of the MBA; it was wonderful.
+
+My midsummer we launched a salvo of new features including screen-share, file transfer, and a host of backend upgrades that let us punch through corporate firewalls. The new features were well received and we got a new round of good press.
+
+Before long, we were hearing from companies interested in acquiring us. The acquisition journey was incredibly interesting and I was very active in the entire process. I'll save the details for a later post but it was a fantastic learning experience and a lot of fun; I really like negotiations.
+
+On November 5th we officially sold to Jive Software to become their real-time team; I stayed on as the Product Manager. I spent the remainder of the year managing Meetings.io's transition and creating the roadmap for next year.
+
+From joining Meetings.io to the sale it was just over five months - pretty crazy, but that's what the pace can be in San Francisco. I'm definitely grateful for the experience.
+
+### Coding
+I started 2012 with an okay foundation in programming concepts and some comfort with model-view-controller. Early in the year I picked up Node.js and immediately loved it. My favorite experiment with Node.js was a [data visualization site](http://karma.randylubin.com/) for one's Reddit karma (in collaboration with (Chris Maury)[http://chrismaury.com])
+. Making the site took a synthesis of much of what I had already learned; having finished it, I felt that I could prototype most ideas I might have.
+
+![Reddit Karma](http://i.imgur.com/LZeag.png)
+
+Another coding experiment was an ecosystem using Processing - a computer language built for dynamic, electronic artwork. [Ecosystem](http://randylubin.com/ecosystem/index.html) featured plants, herbivores, and carnivores, which ran around eating each other in a virtual terrarium. It was a lot of fun to make and involved some rudimentary AI. Unfortunately, it doesn't work with all versions of Java so you may not be able to view it with the above link.
+
+![Ecosystem](/images/5ddc934eb6c124e6d735653498a921855a8d5cacb28e3076016db14884a6c6b1.png)
+
+After joining Meetings.io, I was coding a lot less but still got my hands dirty each week with a little bit of HTML/CSS/JS for Meetings.io's front end. I'm hoping to code more often in 2013.
+
+### Blogging
+
+2012 was the year I finally started blogging. Full credit goes to [Iron Blogger](http://iron-blogger-sf.com/) for giving me some social pressure. I wrote 59 posts total and only missed a few weeks. 
+
+I covered a large swath of topics including [economics](http://blog.randylubin.com/post/25841298247/fixing-unemployment-part-3), [board games](http://blog.randylubin.com/post/32659440239/board-games-and-the-mechanics-of-fun), and [entrepreneurship](http://blog.randylubin.com/post/35046027646/a-new-type-of-entrepreneurship). Blogging helped me articulate my own thoughts and led to some great conversations with old friends and the start of some great new friendships.
+
+I also did daily blog posts during my trip to Japan. Two great benefits of this were
+
+1.  I took way more pictures than I otherwise would (I'm notorious for not taking pictures)
+2.  I now have a great record of my trip
+
+![Fushimi Inari-taisha Shrine](/images/323b5556497ce5cdac349eb75af31d1306d1f8af69812000863e8c9e5906f663.jpg)
+
+I aim to continue my blogging in 2013 and hopefully exceed the quality and quantity from 2012. You can check out all my posts in the [archive](http://blog.randylubin.com/archive).
+
+### Social
+
+I continue to love living in San Francisco. There's an incredible concentration of awesome people who are trying to change the world and have funding to do so. I've met so many great people and had so many cool, geeky conversations; there's an endless amount of amazing events, parties, brainstorms, game nights, and concerts. This is, by far, the greatest city for me.
+
+One of my favorite moments was at Treasure Island Music Festival this fall. Best Coast had taken the stage and they were rocking _The Only Place_. I was gazing over the SF skyline at sunset, surrounded by good friends, as the lead singer belted out:
+
+&gt; ♩ Why would you live anywhere else? ♩
+&gt;
+&gt; ![Treasure Island Sunset](/images/cfb3e9fc3b04ca04c57c0583244f0a31f8383963dff25b20564aa4d08d98d594.jpg)
+&gt;
+&gt; ♩ This is the only place for me ♩
+
+2012 was an amazing year - I'm excited to make 2013 even better.

@@ -1,0 +1,9 @@
+---
+layout: post
+template: post
+date: 2018-08-13
+title: "Salons"
+permalink: /post/176937310148/salons
+description: "Salons"
+---
+<p>I’ve been attending a bunch of salons (as in group discussions, not beauty parlors) – they’ve been a mixed bag and I’d love to see them done better.</p><p>In the last couple weeks I’ve been to salons on: the fall of the nation state, the future of storytelling, 21st century monopolies, and tools for decision making. They’ve all been organized by and filled with different brilliant folks but that doesn’t always lead to productive sessions.<br></p><p>Some of the salons have similar anti-patterns:&nbsp;<br></p><ul><li>Lack of focus or depth to the conversation</li><li>Problem participants who hog the spotlight or are disruptive</li><li>Too much time spent on defining things rather than exploring the consequences<br></li></ul><p>I’ve deeply appreciated when the salons have a dedicated facilitator who shape the conversation. I also like a particular technique I’ve see where participants have different hand gestures for: following up on a point, starting a new tangent, or asking a clarifying questions. Combined with a facilitator, the gestures help maintain a smooth and productive conversation.<br><br>I’m looking forward to checking out some more salons in the next few weeks and learning some more patterns and anti-patterns. If I’m inspired by any particular topics, I might end up organizing and facilitating some of my own.</p>

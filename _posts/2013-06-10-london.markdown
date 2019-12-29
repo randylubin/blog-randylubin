@@ -1,0 +1,18 @@
+---
+layout: post
+template: post
+date: 2013-06-10
+tags:
+- london
+- travel
+title: "London!"
+permalink: /post/52609887784/london
+description: "London!"
+---
+I'm heading to London this week as part of [ungroundedthinking.com](http://ungroundedthinking.com)
+
+You can read more about the trip through that link but the short of it:  British Airways is flying out 100 entrepreneurs from the Bay Area to brainstorm ways to change the world.
+
+I'll be staying through the 23rd and taking a mid-week trip to Edinburgh for fun. I'll try to blog about it while in country but probably won't make time for the daily posts, like my last few trips.
+
+I'm incredibly excited for this - it'll be my first time back in London since I lived there in 2008.

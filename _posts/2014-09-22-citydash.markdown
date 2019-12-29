@@ -1,0 +1,21 @@
+---
+layout: post
+template: post
+date: 2014-09-22
+tags:
+- games
+title: "Citydash"
+permalink: /post/98125781953/citydash
+description: "Citydash"
+---
+Earlier today, three friends and I spent an hour sprinting around Chinatown as part of [Citydash](http://citydash.fire-hazard.net/), an outdoor game. The game involved running around a 15 square block area, following clues and dodging (in-game) guards.
+
+We were racing the clock as well as other teams - there were bonuses for being the first team to reach a checkpoint. There were points if we got close to a guard without the guard seeing us.
+
+The game had a nice app component where we submitted the codes which confirmed we reached the checkpoint; it also provided hints and displayed a leaderboard.
+
+My team won! And by a nice margin too...
+
+Some of the best moments involve hiding behind cars and in shops and then sprinting away from guards.
+
+Today was the playtest for the full event this Saturday. I highly recommend you check it out! Here's the link: [http://citydash.fire-hazard.net/](http://citydash.fire-hazard.net/). Ticket sales support [Come Out and Play](http://www.comeoutandplay.org/).

@@ -1,0 +1,17 @@
+---
+layout: post
+template: post
+date: 2010-06-29
+title: "Welcome!"
+permalink: /post/748535080/why-blog
+description: "Welcome!"
+---
+<p>Welcome to my personal blog.  I'm hoping to blog somewhat regularly but we'll see if that happens.</p>&#13;
+<p>The posts will be all over the place but here are some I'm considering:</p>&#13;
+<ul><li>Analysis of industry trends and events (mostly consumer web)</li>&#13;
+<li>Concise, simple explanation of complex issues in science and technology</li>&#13;
+<li>Philosophical musings</li>&#13;
+<li>Updates on important events in my life</li>&#13;
+<li>Engaging with other bloggers</li>&#13;
+<li>Sharing my creative writing</li>&#13;
+</ul>

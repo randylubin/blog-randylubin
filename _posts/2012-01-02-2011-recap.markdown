@@ -1,0 +1,17 @@
+---
+layout: post
+template: post
+date: 2012-01-02
+title: "2011 Recap"
+permalink: /post/15162266483/2011-recap
+description: "2011 Recap"
+---
+<p>2011 was an awesome year for me, full of change.</p>&#13;
+<p>I spent the first half of the year wrapping up my MBA program at Stanford.  The final quarter was bittersweet-tons of fun classes, events, and parties but we weren't ready for it to end; the two years had gone by incredibly quickly.  Graduation weeks was excellent and I loved having my parents and grandparents in town.</p>&#13;
+<p>Once school ended, I decided to give myself 3 to 6 months to settle on a start-up idea to build.  I've been churning through concepts since coming to Stanford (earlier, really) and have been ruthless in killing them.  I developed a few theses I liked but couldn't settle on an implementation... I'll try to write separate posts about the different areas of focus.</p>&#13;
+<p>Alongside the start-up brainstorming, I've been consulting for different start-ups. I've had a blast jumping in with different companies and helping out where I can.  The teams I've worked with are amazing and I've learned a tremendous amount from them.  I've also continued teaching myself to code; lately I've been playing with Node.js but I'll defer that to another post.</p>&#13;
+<p>After my on-campus housing ended I stayed with friends in Palo Alto for much of the summer; major thanks to Dani and Tris for letting me stay in their guest bedroom for a month!  As the summer continued I was torn about staying in Palo Alto or moving up to SF.  I chose SF.</p>&#13;
+<p>I've been living in the Mission neighborhood since August and I love it here.  I'm in an awesome apartment in a great location, with incredible roommates.  We have lots of geeky/tech conversations and everyone is involved in the start-up scene.</p>&#13;
+<p>It's been an incredible year and I expect 2012 to be even better.  I'll write another post soon describing what I'm up to these days and some goals for the coming months.</p>&#13;
+&#13;
+ 

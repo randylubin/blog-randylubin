@@ -1,0 +1,27 @@
+---
+layout: post
+template: post
+date: 2013-12-30
+title: "2013 Recap"
+permalink: /post/71609909624/2013-recap
+description: "2013 Recap"
+---
+It's been another great year! This post will be a quick summary of what I've been up and some highlights.
+
+### Professional
+I spent the first eight months at Jive - post Meetings.io acquisition. I learned a lot there and hopefully made an impact. Ultimately, I missed the start-up life and left in September. Since leaving I've been hacking on side projects, exploring startup ideas, and doing some pro bono consulting for a non-profit.
+
+My coding ability keeps improving - my [favorite project](http://blog.randylubin.com/post/63355220714/weekend-project-acting-karaoke) involved real time video (WebRTC), synchronized data (Firebase), and a front end framework (Angular). I feel empowered to prototype just about anything, fairly quickly.
+
+### Personal
+I've moved to an amazing apartment (still in the Mission) with a really great community. There are three of us in our place and we have four friends next door (over a stepladder to get between our roof decks).
+
+There've been plenty of board games and I am working on one of my own (keep an eye out for future posts). Games remain one of my favorite ways of hanging out with friends.
+
+I've been playing lots of guitar, thanks to Rocksmith. I even got to play on stage in front of ~100 people! I'm very happy with how my skill is progressing.
+
+I undertook some fun travel - highlights were a weekend trip to Mexico City and a week in the UK which involved a hackathon on a plane and a meeting with the Prime Minister.
+
+This is my 46th blog post this year. I've hit every week that Iron Blogger was in session - the social pressure really helps! My favorite posts were [Cognitive Exoskeleton](http://blog.randylubin.com/post/68050956629/my-cognitive-exoskeleton-is-atrophying-my-brain) and [Laws vs Norms](http://blog.randylubin.com/post/68769537090/laws-and-norms-complexity-and-reputation).
+
+It's been an awesome year and I'm looking forward to making 2014 even better!

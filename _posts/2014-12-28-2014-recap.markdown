@@ -1,0 +1,55 @@
+---
+layout: post
+template: post
+date: 2014-12-28
+tags:
+- annual recap
+title: "2014 Recap"
+permalink: /post/106430683533/2014-recap
+description: "2014 Recap"
+---
+It's been another great year! In this post, I'll summarize some of my highlights.
+
+### Travel
+
+This was an awesome year for (free!) travel. I went hiking in Nepal as a prelude to my stint as a lecturer at the Innovate Delhi Entrepreneurship Academy. Hiking in the Himalayas was exhilarating and I hope to return some day. India was a lot of fun, though exhausting; I'll definitely make it back but hopefully not in the summer!
+
+![](/images/d54dd9e99e80c797c4b5f7f4df79893a502d3a8246591d74a2dd3c01ffc1117a.jpg)
+
+My other big trip was to Taiwan / Malaysia this fall, to lecture at the MaGIC Startup Academy in Kuala Lumpur. This entire trip was a blast and I look forward to exploring more of Asia before too long.
+
+### Lecturing
+
+This year I was a guest lecturer at startup bootcamps in both Delhi and Kuala Lumpur - both experiences were awesome and I enjoyed talking about start up strategy, business models, negotiations, etc. It was also fun to mentor the young entrepreneurs.
+
+![](/images/b419fb5388d262472c02004193989045a990214142d2e7c4ef53354d872f10bd.jpg)
+
+I also gave a few talks this year on the future of collaboration and the economy. I still need to write them up into blog posts; doing so will be one of my top priorities in the next month.
+
+### Plotypus
+
+My biggest project this year was [Plotypus](http://plotypus.com/), a collaborative storytelling card game.
+
+![](/images/88ad49c0d25de1ead4b97ab04d10c9e3dabf034e5ddf43cab29d2cb95e7d8d9b.jpg)
+
+It was incredibly fun and meaningful to take the game from idea to polished product, and to do a small batch manufacturing run. This has definitely been my most successful project to date. I might revisit Plotypus at some point, perhaps for a Kickstarter, but I'm focused on other projects for now.
+
+### Other Games and Game Design
+
+While Plotypus monopolized much of my game design efforts this year, I have a few other games in development - I'll continue posting updates on them here. Game design is shaping up to be a lifelong hobby. I'm currently reading [Play at the World](http://www.amazon.com/gp/product/0615642047/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0615642047&linkCode=as2&tag=randylubincom-20&linkId=6XDTXHKXBUKL22IQ) which provides a great history of wargaming and RPGs - I'll probably do a lot more thinking and writing about games in the 2015.
+
+In addition to designing games, I played a ton of them. My favorite board game this year was definitely [Sherlock Holmes Consulting Detective](http://blog.randylubin.com/post/103443517593/sherlock-holmes-consulting-detective-game) though I'll give an honorable mention to the [Eclipse](http://blog.randylubin.com/post/74703791524/quick-thoughts-on-eclipse) expansion, [Rise of the Ancients](https://boardgamegeek.com/boardgameexpansion/125898/eclipse-rise-ancients). Other games that saw lots of table play included [Tiny Epic Kingdoms](https://boardgamegeek.com/boardgame/148951/tiny-epic-kingdoms), [Love Letter](https://boardgamegeek.com/boardgame/129622/love-letter), [Space Alert](https://boardgamegeek.com/boardgame/38453/space-alert), and [Descent](https://boardgamegeek.com/boardgame/104162/descent-journeys-dark-second-edition). I recently [GMed my first game](http://blog.randylubin.com/post/105991687963/pen-and-paper-role-playing-games) of the Star Wars RPG Edge of the Empire - I hope to explore RPGs a bit more in the coming year.
+
+### Blogging
+
+This is my 56th post for 2014 - I don't think I missed a week of [Iron Blogger](http://iron-blogger-sf.com/the-rules/) this year. We're starting fresh next week - let me know if you want to join! My favorite post from this year was the one puzzling out [what roles DAOs and worker cooperatives have in the new economy](http://blog.randylubin.com/post/101950195063/competitive-advantage-of-cooperatives-and-daos).
+
+### Professional Work
+
+While I was technically 'funemployed' for 2014, I still engaged in a lot of professional activity. I've already discussed my lecturing on startup topics; I also advised several startups in SF and elsewhere and did a few consulting gigs.
+
+I explored several of my own startup ideas but none of them survived my vetting process. I also received a few job offers but I ultimately turned them down - they didn't meet my criteria. I'll dive back into the search process early next year.
+
+### Final Thoughts
+
+This was an excellent year, full of great experiences and cool outputs. Nonetheless, I know I was much less productive than I could have been. Next week, I'll analyze this shortcoming and set goals for 2015.

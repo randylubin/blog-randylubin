@@ -1,0 +1,14 @@
+---
+layout: post
+template: post
+date: 2019-05-27
+tags:
+- games
+- tokyo
+- game market
+- japan2019
+title: "Tokyo Game Market"
+permalink: /post/185164299973/tokyo-game-market
+description: "Tokyo Game Market"
+---
+<p>This weekend I had a chance to attend the famed Tokyo Game Market and it was great!</p><p>Game Market features tons of Japanese board game and tabletop RPG designers and I had a lot of fun wandering the booths and checking out games, even if I couldn’t understand most of them.<br></p><p>Some of the more unusual games that caught my eye:</p><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/abbe4196b867706acc030afc95cd9210306b562ec1252c239e8214f9c0f47d3e.png" data-orig-height="1024" data-orig-width="1024"></figure><p>“It’s Actually Hard to Take a Photo” A game that involves building a town out of cardboard and then trying to get optimal photos that include as many animals as possible.</p><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/ad2ded38dac01f95811d6d329accb43da8d6e080d48d663ee6c75ba3d7f65130.png" data-orig-height="1024" data-orig-width="1024"></figure><p>“Strange Vending Machine” which involves feeding (fake) coins into different vending machines.</p><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/401e8897eac358244fd400ad426276835de23561c406bd107ae74c49ccab9b77.png" data-orig-height="1024" data-orig-width="1024"></figure><p>Gift10 Industries had a few board games that used phones in interesting ways. The middle one is&nbsp;“Floorplan Cards VR” and has one player using a phone to look around and describe an apartment in VR while the other players race to guess which floorplan they see.</p><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024" style=""><img src="/images/95e6ca5b6dddc526bbbeb8c6770d8053b38909580c4acc74791b07862672b24f.png" data-orig-height="1024" data-orig-width="1024"></figure><p>“Group Date TRPG” is a storytelling game about Japanese Gokon (group dates). One of the character archetypes is&nbsp;“unrequited love”<br></p><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/bab9be2d6f4acdcbb580ce0ad61e708ec9c1bee3f32dbaf53954a3e8b1e83f95.png" data-orig-height="1024" data-orig-width="1024"></figure><p>“Summon Skate” has plaers saving the world through figure skating by skating out symbols that summon monsters to help your cause.</p><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/3efa6131845606347f4c5cdf2cdad8ddb502b4906049cf04417972c9630ab7af.png" data-orig-height="1024" data-orig-width="1024"></figure><p>In “Karepo” you play a woman trying to live her best life, from 20-80 years old. Designed by a financial planner!</p><p>I had a great time wandering through Game Market and would definitely go again if I happen to be in town!</p>

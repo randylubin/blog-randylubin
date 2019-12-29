@@ -1,0 +1,35 @@
+---
+layout: post
+template: post
+date: 2014-12-29
+tags:
+- goals
+title: "2015 Goals"
+permalink: /post/106531740593/2015-goals
+description: "2015 Goals"
+---
+My last post [recapped 2014](http://blog.randylubin.com/post/106430683533/2014-recap), this post will look at some goals for 2015.
+
+### Full-time Endeavors
+
+One short term goal is to find something to work on full-time. Ideally this would be my own startup but I'm very leery of founding something for the sake of having a startup  - I've seen too many founders fall into that trap. I'll keep brainstorming and validating ideas but I'm not going to force it.
+
+Barring my own startup, I'm looking for awesome teams to join. Here is some of my criteria:
+
+*  Stage: early, potentially pre-product/market fit
+*  Team: mostly technical - I love being the first business guy
+*  Role:  COO / business generalist, with a hand in strategy, growth, and product
+*  Sector: the future of work and decentralization of the economy 
+
+If you know of an interesting opportunity - please send it my way!
+
+### Projects / Productivity
+
+As I noted in my last post, I want to amp up my output this year. I tend to be most productive when I have a tight feedback loop - e.g. when I know I'm going to share the results in the near future. To that end - feel free to hold me accountable by scheduling time to discuss or provide thoughts on what I'm working on!
+
+I'm also very open to collaboration - my most productive periods last year all involved varying degrees of partnership. Things I aim to create this year include:
+
+*  More board / card games
+*  Short stories
+*  Little programming experiments / art
+*  Long-form blog posts exploring trends in technology

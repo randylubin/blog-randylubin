@@ -1,0 +1,13 @@
+---
+layout: post
+template: post
+date: 2017-01-09
+tags:
+- art
+- p5js
+- procedural generation
+title: "Making procedurally generated art for our living room"
+permalink: /post/155608732383/making-procedurally-generated-art-for-our-living
+description: "Making procedurally generated art for our living room"
+---
+<p>My fiancee Avital and I have started a new annual tradition – making art for our house.</p><p>This year we decided to use&nbsp;<a href="https://p5js.org/">p5.js</a>&nbsp;to create procedurally generated art. p5.js is an amazing open source project that empowers you to code all sorts of great static, animated, and interactive art pieces.<br></p><p>We focused on random patterns of shapes and explored various combinations of different figures and colors. Ultimately we settled on white squares with black borders, all of random sizes and angles. We also played with how many iterations the program would run (i.e. how many squares it would create). Here’s a sample output:</p><figure class="tmblr-full" data-orig-height="5760" data-orig-width="5760"><img src="/images/0105a9a0e4a5ca9f618e702c124fc6e78f1e390f48058b20128e402a1c236eab.png" data-orig-height="5760" data-orig-width="5760"></figure><p>The art was for our living room and we decided to make it a triptych of one sequence at three different stages. We tried many different iterations across scores of different seeds (random generations) before picking the final one: Seed 156 at steps 60, 350, and 3000.</p><figure class="tmblr-full" data-orig-height="1440" data-orig-width="4320"><img src="/images/442d902cf53ae82c4adfd0e19c05c7f19af13f3912ff41d18802e540d18e90d3.jpg" data-orig-height="1440" data-orig-width="4320"></figure><p>We then wrote the code to output the image as a high resolution png and stitched the images together into one big image. Then we uploaded the file to the Costco photo center and had them print on 20″ by 20″ canvases.</p><p>Here’s the final output on our wall:</p><figure class="tmblr-full" data-orig-height="2448" data-orig-width="3264"><img src="/images/7884f75ceeb53f7f27dd313d2b2ac6111bceafe09765023ef1c188124d10fa86.jpg" data-orig-height="2448" data-orig-width="3264"></figure><p>We’re going to give all of our art ridiculous, overblown names. This piece is called (Assassination of an Artist at the Hands of a Computer)² Seed 156</p><p>The project was a blast and we’re looking forward to more art projects!</p><p>If you’re interested in playing around with the code, <a href="https://github.com/randylubin/Art-Projects">the files are up on GitHub</a>&nbsp;and pretty well documented. If you have any question, I’m happy to offer help or advice!</p>

@@ -1,0 +1,17 @@
+---
+layout: post
+template: post
+date: 2014-01-06
+title: "2014 Goals"
+permalink: /post/72444792327/2014-goals
+description: "2014 Goals"
+---
+My last post [recapped 2013](http://blog.randylubin.com/post/71609909624/2013-recap). This post will talk a bit about my goals for 2014.
+
+My primary goal is to be more productive. Borrowing from a friend's idea - I'm going to start measuring the daily percentage of time spent productively and aim to keep improving that number.
+
+For me, productivity can be many things - working on side projects, interviewing potential customers, volunteering, focused learning, prototyping, etc. I'm going to break out my hours and might set sub-goals each week. I'm not sure how I'm going to track them but I've heard good things about https://www.rescuetime.com/
+
+Some other tactics I'll try include: scheduling coworking days with friends, putting specific appointments on my calendar for different specific productivity goals, finding collaborators for specific side projects or learning challenges.
+
+I'll be posting some of the successes and failures of these methods here - I'm hoping [Hawthorn Effect](http://en.wikipedia.org/wiki/Hawthorn_effect) alone will be able to drive a huge increase in output. We'll see!
