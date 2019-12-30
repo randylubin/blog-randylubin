@@ -1,0 +1,38 @@
+<div class="my-5">
+  <div class="row">
+    <div class="col-sm-4 offset-sm-3">
+      <h2 class="post-list-heading"><a href="/" class="black-link">{{ page.list_title | default: "Randy Lubin's Blog" }}</a></h2>
+    </div>
+    <div class="col-sm-2 my-auto">
+      <a href="/">Archive</a> |
+      <a href="/feed.xml">RSS</a> |
+      <a href="#search" onmousedown="showSearch()">Search</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-6 offset-sm-3">
+      <script>
+              var showSearch = function(){
+                  document.getElementById("searchArea").style.visibility = "visible";
+                  document.getElementById("searchArea").style.height = "66px";
+              }
+          </script>
+    	<div id="searchArea" style="visibility: hidden; height: 0px">
+        <script>
+            (function() {
+              var cx = '012371662592136889745:ry9bjbwplie';
+              var gcse = document.createElement('script');
+              gcse.type = 'text/javascript';
+              gcse.async = true;
+              gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                  '//www.google.com/cse/cse.js?cx=' + cx;
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(gcse, s);
+            })();
+          </script>
+          <gcse:search></gcse:search>
+      </div>
+      <hr/>
+    </div>
+  </div>
+</div>
