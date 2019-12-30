@@ -18,8 +18,5 @@ fields:
   name: title
   label: title
 - type: text
-  name: permalink
-  label: permalink
-- type: text
   name: description
   label: description
