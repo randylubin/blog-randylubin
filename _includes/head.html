@@ -4,6 +4,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
+  <meta name="twitter:url" content="{{page.Permalink}}"/>
+  <meta name="twitter:site" content="@randylubin"/>
+  <meta name="twitter:creator" content="@randylubin"/>
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{page.title}}"/>
+  <meta name="twitter:description" content="{{page.description}}"/>
+  <meta name="twitter:image" content="https://blog.randylubin.com/images/profile.png"/>
+
   {% if site.tags != "" %}
     {% include collecttags.html %}
   {% endif %}
