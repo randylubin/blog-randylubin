@@ -23,8 +23,14 @@ comments: true
 
         <div class="post-content e-content mb-5" itemprop="articleBody">
           {{ content }}
-        </div>
 
+          <!--<span>Tags:
+            {% for tag in page.tags %}
+              {% capture tag_name %}{{ tag }}{% endcapture %}
+              <a href="/tagged/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+            {% endfor %}
+          </span>-->
+        </div>
 
           {%- include disqus_comments.html -%}
 
