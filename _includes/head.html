@@ -13,6 +13,11 @@
   <meta name="twitter:description" content="{{page.description}}"/>
   <meta name="twitter:image" content="https://blog.randylubin.com/images/profile.png"/>
 
+  <meta property="og:title" content="{{page.title}}">
+  <meta property="og:description" content="{{page.description}}">
+  <meta property="og:image" content="https://blog.randylubin.com/images/profile.png">
+  <meta property="og:url" content="{{page.Permalink}}">
+
   {% if site.tags != "" %}
     {% include collecttags.html %}
   {% endif %}
