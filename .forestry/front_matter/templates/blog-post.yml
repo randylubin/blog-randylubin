@@ -23,3 +23,5 @@ fields:
 - type: text
   name: description
   label: description
+pages:
+- _posts/vr-is-missing-the-weird.md
