@@ -28,3 +28,15 @@ Back in January, I started advising [Remotion](http://remotion.com/) – an ear
 Since them I've been running their business operations and growth initiatives and it's been both fun and meaningful. I think our product is fantastic and so does Avital – her company was in the Alpha test before I started consulting! If you're on a team that uses macOS and you're looking to better have quick chats to solve problems and be more creative, give us a shot! I'd love your feedback...
 
 Avital has also been incredibly busy; in early March she completely reinvented her company from in-person experiences to virtual events. She has a great [blog post](https://medium.com/@avitalungar/how-i-reinvented-our-company-in-5-days-24353c12819f) about how her team navigated the crisis and she's due to write a follow-up post soon. They did a fantastic job of iterating their way into a new business model and are thriving. It's been awesome to see them pull through the initial crisis even stronger than they were before.
+
+## Games and more Games
+
+A bit to my own surprise, 2020 has been very productive on the game design front. I've released four games so far, two serious and two consumer oriented.
+
+## Premise: Setting, Character Plot
+
+I started working on Premise way back in 2016. It was on the backburner for a while as I prioritized larps and other types of games but my interest in it returned and I published the game in February.
+
+![](https://img.itch.zone/aW1nLzI5OTI1MDkucG5n/original/a1zzZN.png)
+
+Premise is a quick and collaborative storytelling game where players expand a world and its characters by simultaneously building on each others ideas. At the end of the game you reveal the final creations which are inevitably weirder and more interesting than what anyone would have developed on their own. I'm very happy with how the game turned out and you can [check it out on Itch.io](https://randylubin.itch.io/premise-setting-character-plot).
