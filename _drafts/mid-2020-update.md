@@ -40,3 +40,11 @@ I started working on Premise way back in 2016. It was on the backburner for a wh
 ![](https://img.itch.zone/aW1nLzI5OTI1MDkucG5n/original/a1zzZN.png)
 
 Premise is a quick and collaborative storytelling game where players expand a world and its characters by simultaneously building on each others ideas. At the end of the game you reveal the final creations which are inevitably weirder and more interesting than what anyone would have developed on their own. I'm very happy with how the game turned out and you can [check it out on Itch.io](https://randylubin.itch.io/premise-setting-character-plot).
+
+## Imagining Health Futures
+
+This summer I had the fun opportunity to team up with Jason Morningstar to create Imagining Health Futures, in support of UNICEF's Office of Innovation. We created the game to help UNICEF explore how adolescents though about the future of health care and health related issues.
+
+The game is designed to be run with 3-6 teenagers and starts with some worldbuilding of the year 2035, continues with them creating characters that are their age but in 2035. Next, the participants see their characters through a series of crises and obstacles, many that relate to health. The game ends with each participant creating an in-character artifact (e.g. a blog post) that captures their experience.
+
+If you're interested in learning more, you can read the [Overview and Facilitator's Guide](https://drive.google.com/file/d/1ZWTMnG3gqjG2R2Mc95uodPoNo-GnNR5V/view?usp=sharing) and check out the [Facilitation Slides](https://docs.google.com/presentation/d/11cUVWaS8WhEmfNyv71km_UUzb89Yg9E6dduEX4yscIk/edit?usp=sharing) used during the game.
