@@ -23,7 +23,7 @@ email: randylubin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Randy Lubin's personal blog. Contains writing on travel, startups, technology, games, and more.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://randylubin.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.randylubin.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: randylubin
 github_username:  randylubin
 permalink: /:slug
