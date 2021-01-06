@@ -13,9 +13,9 @@ _A few weeks ago, Mike Masnick and I ran a 4-hour workshop to explore positive f
 
 [_Original Thread_](https://twitter.com/randylubin/status/1339699477695791104)
 
-On December 17th, [@mmasnick](https://twitter.com/mmasnick) and I had the pleasure of running a 4-hour workshop on Positive AI Economic Futures for [@wef](https://twitter.com/wef) and [@CHAI_Berkeley](https://twitter.com/CHAI_Berkeley) We're thrilled with how it went – here's an overview with details on the goals, exercises, and output.
+On December 17th, [Mike Masnick](https://twitter.com/mmasnick) and I had the pleasure of running a 4-hour workshop on Positive AI Economic Futures for the [World Economic Forum](https://twitter.com/wef) and [Berkeley's Center for Human-compatible AI](https://twitter.com/CHAI_Berkeley) We're thrilled with how it went – here's an overview with details on the goals, exercises, and output.
 
-The event was part of a broader [Positive AI + Economy initiative](https://www.weforum.org/agenda/2020/10/the-secret-to-designing-a-positive-vision-for-ai-imagination/) that will include reports, scenarios, and an [@xprize](https://twitter.com/xprize) film competition that will build on the workshop’s outputs.
+The event was part of a broader [Positive AI + Economy initiative](https://www.weforum.org/agenda/2020/10/the-secret-to-designing-a-positive-vision-for-ai-imagination/) that will include reports, scenarios, and an [X Prize](https://twitter.com/xprize) film competition that will build on the workshop’s outputs.
 
 We had \~90 attendees, including top economists, technologists, and sci-fi authors – they were awesome and brought a ton of creativity, energy, and expertise!
 
@@ -37,11 +37,11 @@ Exercise 4 focused on the new essential institutions, participatory organization
 
 Groups were very creative in generating future tensions:[![This group focused on debat...](https://pbs.twimg.com/media/EpePp9DU0AECOwV.png)](https://pbs.twimg.com/media/EpePp9DU0AECOwV.png)
 
-Exercise 5, designed by [@ruthhickin](https://twitter.com/ruthhickin), zoomed in to the individual level. Participants adopted future personas and held in-character discussions about difficult questions about their obligations to society and finding meaning in a post-work world.
+Exercise 5, designed by [Ruth Hickin](https://twitter.com/ruthhickin), zoomed in to the individual level. Participants adopted future personas and held in-character discussions about difficult questions about their obligations to society and finding meaning in a post-work world.
 
 We’re thrilled with how the event turned out and we’ll be sharing the output in the future. Also, keep an eye out for the reports and X-Prize competition next year.
 
-Deep thanks to [@Caro_Jeanmaire](https://twitter.com/Caro_Jeanmaire) and [@ConorSanchez](https://twitter.com/ConorSanchez) for bringing us in and being great collaborators on the workshop design! Also thanks to the dozen facilitators who helped each group stay on track and create great visions of the future.
+Deep thanks to [Caroline_Jeanmaire](https://twitter.com/Caro_Jeanmaire) and [Conor Sanchez](https://twitter.com/ConorSanchez) for bringing us in and being great collaborators on the workshop design! Also thanks to the dozen facilitators who helped each group stay on track and create great visions of the future.
 
 You can check out [Mike's thread](https://twitter.com/mmasnick/status/1339691201365065728) for more details and highlights of the experience:
 
@@ -51,7 +51,7 @@ With 5 collaborative exercises and \~90 participants, this was one of our most a
 
 [_Original Thread_](https://twitter.com/randylubin/status/1340097524351168512)
 
-Yesterday I wrote about running an interactive \~90 person workshop on positive AI economic futures. Today I want to share some of the experience design patterns that [@mmasnick](https://twitter.com/mmasnick) and I used to ensure that it was smooth and successful.
+Yesterday I wrote about running an interactive \~90 person workshop on positive AI economic futures. Today I want to share some of the experience design patterns that Mike and I used to ensure that it was smooth and successful.
 
 We were able to employ a bunch of techniques that we've been exploring over the past few years and hopefully you'll find them interesting, especially if you want to run interactive events. This event was on Zoom but many of these patterns apply on any platform, or even offline.
 
