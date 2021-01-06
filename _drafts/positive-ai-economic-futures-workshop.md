@@ -21,20 +21,20 @@ We had \~90 attendees, including top economists, technologists, and sci-fi autho
 
 We ran 5 highly interactive and collaborative exercises to envision the world after transformational AI remade society. Each exercise was done in breakout groups of 4-6 participants. Here's a quick dive into each one:
 
-Exercise 1 focused on what will be newly abundant in the futures and what scarcities and consequences might ensue.  
-  
+Exercise 1 focused on what will be newly abundant in the futures and what scarcities and consequences might ensue.
+
 Here's an example of one of the group submissions:[![this group explored an abun...](https://pbs.twimg.com/media/EpeN5oKU0AANmGF.png)](https://pbs.twimg.com/media/EpeN5oKU0AANmGF.png)
 
-Exercise 2 had participants creating Metrics Dashboards to guide humanity and then discussing the tradeoffs and unexpected consequences of their chosen metrics. The groups had some great debates and critiques.  
-  
+Exercise 2 had participants creating Metrics Dashboards to guide humanity and then discussing the tradeoffs and unexpected consequences of their chosen metrics. The groups had some great debates and critiques.
+
 Here's a sample dashboard:[![This group chose to focus o...](https://pbs.twimg.com/media/EpeOtFKUUAAFOFr.png)](https://pbs.twimg.com/media/EpeOtFKUUAAFOFr.png)
 
-Exercise 3 had each group pick a final hurdle (economic, power / political, meaningfulness) for humanity to overcome. The groups then told the story of overcoming those hurdles through a series of news headlines.  
-  
+Exercise 3 had each group pick a final hurdle (economic, power / political, meaningfulness) for humanity to overcome. The groups then told the story of overcoming those hurdles through a series of news headlines.
+
 The group stories ranged from serious to zany but all were great:[![This example sees Elon Musk...](https://pbs.twimg.com/media/EpePNa7VoAExB_a.png)](https://pbs.twimg.com/media/EpePNa7VoAExB_a.png)
 
-Exercise 4 focused on the new essential institutions, participatory organizations, and social moments that might play a critical role in the future. We had groups do this both before and after a major earthquake.  
-  
+Exercise 4 focused on the new essential institutions, participatory organizations, and social moments that might play a critical role in the future. We had groups do this both before and after a major earthquake.
+
 Groups were very creative in generating future tensions:[![This group focused on debat...](https://pbs.twimg.com/media/EpePp9DU0AECOwV.png)](https://pbs.twimg.com/media/EpePp9DU0AECOwV.png)
 
 Exercise 5, designed by [@ruthhickin](https://twitter.com/ruthhickin), zoomed in to the individual level. Participants adopted future personas and held in-character discussions about difficult questions about their obligations to society and finding meaning in a post-work world.
@@ -57,6 +57,8 @@ We were able to employ a bunch of techniques that we've been exploring over the 
 
 I’ll start by talking about the overall event design and then shift to cover how we scaffolded and supported the exercises. The event was four hours, had \~90 participants, five exercises, and 5 speeches scattered throughout. A lot of moving parts!
 
+### Team and Planning
+
 Ahead of time, we created a detailed Run of Show doc that included down-to-the-minute timing and info related to different responsibilities. We also created a few specific roles to make sure things didn’t fall through the cracks.
 
 The event was on Zoom so we had one person was responsible for managing breakout groups and making sure folks were in the right place (more on that in a bit).
@@ -73,17 +75,23 @@ Our breakout room manager was able to pre-assign the group facilitators to each 
 
 For one exercise, we had each group do an activity on their own and then we paired groups up for critique. The breakout manager was able to quickly drag folks from one room into another and it all went smoothly. This was a cool interaction pattern and provoked great discussions.
 
+### Groups Interaction Patterns
+
 The groups themselves were 4-6 participants. We’ve found that to be optimal for group collaboration and co-creation – any more is unwieldy and any less is fragile to folks dropping out or being shy.
 
 Halfway through the event we reshuffled the breakout groups. This brought an infusion of new ideas and energy; plus, it enabled participants to meet more people throughout the day.
 
 Reshuffling groups also made the event more friendly to having participants drop in and out throughout the day. Groups were rebalanced and latecomers didn’t have to get up to speed on the two hours of previous work.
 
+### Flexible Timing
+
 To make the event resilient to delays, we built in “crumple zones” – parts of the schedule that we could shrink or skip if we were running late. Ex: we could easily trim down or remove post-exercise recaps where we shared different teams outputs.
 
 We also scheduled a break in the middle that could be 10-20min depending on how much time we needed back. The first exercise started 10 minutes late but we were able to catch back up to schedule by the mid-way point. We even ended the event 10 minutes early!
 
 The break was also crucial given that the event was 4-hours long – we wanted to give folks some time off-camera to stretch, grab a snack, etc. We immediately followed the break with two short talks; folks wouldn’t miss any exercises if they were running late or still eating.
+
+### Experience Design and Collaboration Tools
 
 The workshop consisted of five exercises that explored possible, positive futures focused on AI and economics. The exercises started high level and abstract, and then each exercise zoomed in: Humanity -> Institutions -> Individual POV
 
