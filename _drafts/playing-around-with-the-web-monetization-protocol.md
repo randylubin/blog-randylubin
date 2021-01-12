@@ -4,7 +4,8 @@ template: post
 date: 2021-01-12 22:29:14 +0000
 tags: []
 title: Playing around with the Web Monetization Protocol
-description: ''
+description: An overview of how and why I enabled the Web Monetization Protocol on
+  my sites.
 
 ---
 _Originally posted_ [_on Twitter_](https://twitter.com/randylubin/status/1335982410345840640)_, lightly edited for this post._
