@@ -9,7 +9,7 @@ description: All about Story Synth, a web platform for prompt-driven storytellin
   games.
 
 ---
-A few months back I launched Story Synth, a web platform for designing, playing, and sharing prompt-driven storytelling games. I'm loving how it's shaping up and hope to continue expanding it for years to come. This post will cover the past, present, and future of the platform.
+A few months back I launched Story Synth, a web platform for designing, playing, and sharing prompt-driven storytelling games. I'm loving how it's shaping up and hope to continue expanding it for years to come. This post covers the past, present, and future of the platform.
 
 ![](/images/screen-shot-2021-01-22-at-8-58-21-am.png)
 
