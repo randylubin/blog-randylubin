@@ -44,19 +44,25 @@ Last month I launched a new game format and designed a game to accompany it. The
 
 Since launching the platform, I've been busy adding new formats and features. Developing Story Synth has a wonderful feedback loop where I'm inspired to make a game based on the platforms capabilities and then I add new capabilities because of features I want for my game.
 
-My roadmap of ways to extend the platform keeps growing and my guess is that I'll 
+My roadmap for the platform keeps growing and my guess is that I'll be happy working on Story Synth and designing games with it for a very long time to come.
 
-## Creating a Game
+## How to Create a Game
 
-Designers create new games by adding their content to Google Sheets. There are templates available for a variety of game types, most of which involve different ways of presenting prompts to the players (Ex: For the Queen, A Quiet Year).
+Designers create new games by adding their content to a Google Sheet. There are [templates](https://docs.storysynth.org/guide/formats.html) available for a variety of game formats, most of which involve different ways of presenting prompts to the players (Ex: For the Queen, A Quiet Year).
+
+![](/images/screen-shot-2021-01-22-at-9-09-09-am.png)
 
 After crafting their game in the sheet, Designers can paste a link to that sheet into the Story Synth homepage. The app then uses the sheet data to automatically assemble the game.
 
+![](/images/screen-shot-2021-01-22-at-9-10-41-am.png)
+
 The designer then has access to a page for their game that lets them generate new sessions. The game page isn't automatically shared anywhere but the designer can distribute the link as broadly as they like. When in a game session, everyone at the same URL sees the same content in realtime, which makes it easy to play online.
+
+![](/images/screen-shot-2021-01-22-at-9-11-33-am.png)
 
 From there, designers can iterate on their game as easily as updating their sheet and refreshing their webpage.
 
-**_Customizing a Game_**
+## Customizing a Game
 
 There's also plenty of room for game customization in both style and meta-data. By adding 'option' rows in the Google Sheet, designers can tweak the visual style of their game (with CSS). They can also add a cover image, game title, byline, blurb and other information about the game.
 
@@ -64,7 +70,7 @@ Further - the prompts themselves can contain HTML elements, which enable advance
 
 None of this advanced customization is necessary though - you can design games on Story Synth with zero coding at all.
 
-**_Formats_**
+## Formats
 
 Story Synth currently has six game formats:
 
@@ -75,10 +81,10 @@ Story Synth currently has six game formats:
 * Slot Machine – a series of cards with randomized content, drawn from each of several lists
 * Phases – the game rotates through a series of a phases, with each phase drawing from a corresponding deck
 
-**_What's Next_**
+You can read more about them and grab their templates on the [Formats and Templates](https://docs.storysynth.org/guide/#available-formats-and-templates) page of the documentation.
 
-I'm going to keep adding new features, formats, extensions and more. In the short term, I'm working on a series of extensions (e.g. dice roller, standard card deck, lists, light state tracking, etc).
+## What's Next
 
-I'm also keen to get more designers making and sharing games on Story Synth and I'd love to help out if you have any interest!
+I'm going to keep adding new features, formats, extensions and more, likely prioritized based on the games that I want to make or that I hear other designers want to make.
 
-Don't hesitate to reach out if you have any questions, suggestions or feature requests...
+I'm excited to get more designers designing and sharing games on Story Synth and I'd love to help out if you have any interest. Don't hesitate to reach out if you have any questions, suggestions or feature requests!
