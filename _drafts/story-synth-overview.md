@@ -4,19 +4,21 @@ template: post
 date: 2021-01-22 16:31:08 +0000
 tags:
 - Story Synth
-title: Story Synth Overview
+title: Overview of Story Synth, my web platform for storytelling games
 description: All about Story Synth, a web platform for prompt-driven storytelling
   games.
 
 ---
 A few months back I launched Story Synth, a web platform for designing, playing, and sharing prompt-driven storytelling games. I'm loving how it's shaping up and hope to continue expanding it for years to come. This post will cover the past, present, and future of the platform.
 
+![](/images/screen-shot-2021-01-22-at-8-58-21-am.png)
+
 Quick links:
 
-* [https://storysynth.org](https://storysynth.org "https://storysynth.org") - the platform
-* [https://docs.storysynth.org](https://storysynth.org "https://storysynth.org") - the guides and documentation
-* [Dawn of the Monster Invasion](https://storysynth.org) - my first game on the platform
-* [Around the Realm](https://storysynth.org/#/Games/Around-The-Realm/) - my second game on the platform
+* [Story Synth](https://storysynth.org "Story Synth") - the platform
+* [Story Synth Documentation](https://storysynth.org "https://storysynth.org") - the guides and documentation
+* [Dawn of the Monster Invasion](https://storysynth.org) - my first game on the platform, a silly monster movie spoof
+* [Around the Realm](https://storysynth.org/#/Games/Around-The-Realm/) - my second game on the platform, a fast paced fantasy travelogue
 
 ## The Goal
 
@@ -30,9 +32,19 @@ One side effect of pandemic social distancing is that it's become difficult to q
 
 I'd looked into online tabletop tools like Roll20, Tabletopia, and Virtual Tabletop Simulator, but they all suffered from steep learning curves, tedious asset pipelines (getting content into the platform), and they optimized for much more complex games than I was envisioning (e.g. board games, games with miniatures on a map). With no good tool at hand, I decided to create my own platform, specifically geared toward lightweight prompt driven games.
 
+![](/images/screen-shot-2021-01-22-at-8-56-54-am.png)
+
 I built the Story Synth platform to initially support [Dawn of the Monster Invasion](https://storysynth.org), which became my [Golden Cobra](http://goldencobra.org/) submission. Soon after finishing the game, I launched the Story Synth platform to the public so that other designers could create games through it. The game + platform ended up winning the Golden Cobra prize for Best New Tool which was a nice honor!
 
+![Image](https://pbs.twimg.com/media/Epn0UQ4VgAAcdSZ?format=jpg&name=medium)
+
+Last month I launched a new game format and designed a game to accompany it. The format, Phases, enables games where you rotate through a series of decks, each with their own prompts. I made the game [Around the Realm](https://storysynth.org/#/Games/Around-The-Realm/) to show off its capabilities and am very happy with how it turned out.
+
 ## The Forever Project
+
+Since launching the platform, I've been busy adding new formats and features. Developing Story Synth has a wonderful feedback loop where I'm inspired to make a game based on the platforms capabilities and then I add new capabilities because of features I want for my game.
+
+My roadmap of ways to extend the platform keeps growing and my guess is that I'll 
 
 ## Creating a Game
 
