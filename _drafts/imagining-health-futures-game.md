@@ -20,4 +20,14 @@ The main goal of the game was to better understand the preferences and expectati
 
 ## The Game
 
+### Worldbuilding
+
+![6 magazine covers of different futures, focused on economic, health, climate, and justice trends](/images/2020-12-15.png)
+
+### Character Creation
+
+### Storytelling
+
+### Artifact Creation
+
 ## Next Steps
