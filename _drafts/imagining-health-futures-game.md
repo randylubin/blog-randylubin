@@ -22,7 +22,7 @@ The main goal of the game was to better understand the preferences and expectati
 
 The game itself was built to be played with 1-2 facilitators and 3-6 teenagers in \~2 hours over video chat. We broke the game into four stages to ease the participants into playing and to best capture the output. Here's an overview of the four stages with some commentary on our design decisions.
 
-### Worldbuilding
+### Stage 1: Worldbuilding
 
 We opened up play with a worldbuilding round which served a few purposes:
 
@@ -39,12 +39,12 @@ We explored a variety of worldbuilding approaches and knew that we wanted player
 
 We had the players then choose one trend from each group to be clearly negative; these trends would play a key role in influencing the rest of play. We presented the trends to the players via fake magazine covers, which Jason did a phenomenal job designing!
 
-### Character Creation
+### Stage 2: Character Creation
 
-The next stage 
+The next stage had players creating characters who were roughly their age, but in 2035.
 
-### Storytelling
+### Stage 3: Storytelling
 
-### Artifact Creation
+### Stage 4: Artifact Creation
 
-## Next Steps
+## Closing thoughts
