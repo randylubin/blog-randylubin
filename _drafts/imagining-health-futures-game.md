@@ -1,13 +1,13 @@
 ---
 layout: post
 template: post
-date: 2021-01-26 16:30:53 +0000
+date: 2021-01-30 16:30:53 +0000
 tags: []
 title: 'Serious Game: Imagining Health Futures'
 description: ''
 
 ---
-Last summer, Jason Morningstar and I co-designed Imagining Health Futures, a game about the future of health and adolescence. We made the game in support of UNICEF's Office of Innovation. Here's a quick overview about the game and our design choices.
+Last summer, Jason Morningstar and I co-designed Imagining Health Futures, a game about the future of health and adolescence, in support of UNICEF's Office of Innovation. Here's a quick overview of the game and our design choices.
 
 Here are the quick links to the game resources:
 
@@ -16,7 +16,7 @@ Here are the quick links to the game resources:
 
 ## The Goal
 
-The main goal of the game was to better understand the preferences and expectations of today's youth and what might the future of health and well being for 20-year-olds be in 2030-2050. Another goal was for the game to produce outputs that might inspire science fiction short stories by professional authors that would further share insights generated during the game.
+The main goal of the game was to better understand the preferences and expectations of today's youth and what might be the future of health and wellbeing for adolescents in 2030-2050. Another goal was for the game to produce outputs that might inspire science fiction short stories by professional authors that would further share insights generated during the game.
 
 ## The Game
 
