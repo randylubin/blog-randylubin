@@ -7,7 +7,7 @@ title: 'Serious Game: Imagining Health Futures'
 description: ''
 
 ---
-Last summer, Jason Morningstar and I co-designed Imagining Health Futures, a game about the future of health and adolescence, in support of UNICEF's Office of Innovation. Here's a quick overview of the game and our design choices.
+Last summer, [Jason Morningstar](https://bullypulpitgames.com/about/jason/) and I co-designed Imagining Health Futures, a game about the future of health and adolescence, in support of UNICEF's Office of Innovation. Here's a quick overview of the game and our design choices.
 
 Here are the quick links to the game resources:
 
