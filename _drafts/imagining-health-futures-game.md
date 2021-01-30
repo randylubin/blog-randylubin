@@ -16,13 +16,15 @@ Here are the quick links to the game resources:
 
 ## The Goal
 
-The main goal of the game was to better understand the preferences and expectations of today's youth and what might be the future of health and wellbeing for adolescents in 2030-2050. Another goal was for the game to produce outputs that might inspire science fiction short stories by professional authors that would further share insights generated during the game.
+The high level goal of the game was to better understand the preferences and expectations of today's youth as it relates to health and wellness now and in the coming decades 2030-2050. Another goal was for the game to produce outputs that might inspire science fiction short stories by professional authors that would further share insights generated during the game.
 
 ## The Game
 
-The game itself was built to be played with 1-2 facilitators and 3-6 teenagers in \~2 hours over video chat. We broke the game into four stages to ease the participants into playing and to best capture the output. Here's an overview of the four stages with some commentary on our design decisions.
+The game itself was built to be played with 1-2 facilitators and 3-6 teenagers in \~2 hours over video chat. We broke the game into four stages to ease the participants into playing and to best capture their creative output.
 
 Throughout the game, we have players logging their decisions in a Google Form which enables us to review and share their creative output after the session and allows facilitators to focus on the players rather than on note-taking.
+
+Here's an overview of the four stages with some commentary on our design decisions.
 
 ### Stage 1: Worldbuilding
 
@@ -43,9 +45,11 @@ We had the players then choose one trend from each group to be clearly negative;
 
 ### Stage 2: Character Creation
 
-The next stage had players creating characters who were roughly their age, but in 2035. The character creation process involved players answering a series of questions on their own, including picking an archetype (e.g. activist, academic, joker) and defining how their characters are both similar to and different from themselves. We wanted them to be able to draw on their own experiences but also have some distance between themselves and their characters.
+The next stage had players creating characters who were roughly their age, but in 2035. We broke this into two parts: players did some initial creative work on their own and then finished character creation with the whole group.
 
-Once everyone had answered their initial questions, they shared their characters with the group and then each player had to answer one new question about their character in front of the group. The player always had two questions to choose from, which gave them flexibility in building out their character. The facilitator can then use the player's answer to create connections with other characters. For instance, if the question was "What volunteer organization are you involved with?" then, after the player answers, the facilitator might ask "Who else is involved with that organization?" which helps tie the characters and setting together.
+The character creation process involved players answering a series of questions on their own, including picking an archetype (e.g. activist, academic, joker) and defining how their characters are both similar to and different from themselves. We wanted them to be able to draw on their own experiences but also keep some distance between themselves and their characters.
+
+Once everyone had answered their initial questions, they shared their characters with the group and then each player had to answer one new question about their character. The player always had two questions to choose from, which gave them flexibility in building out their character. The facilitator could then use the player's answer to create connections with other characters. For instance, if the question was "What volunteer organization are you involved with?" then, after the player answers, the facilitator might ask "Who else is involved with that organization?" which helps tie the characters and setting together.
 
 ### Stage 3: Storytelling
 
@@ -57,7 +61,7 @@ The first round of storytelling takes place in the days after the malware attack
 
 > Water is being rationed after the failure of the city’s air well condensers and desalination plants. You know a local family is cheating the distribution scheme, but you also know they are caring for sick relatives. What do you do?
 
-Players share their answers with the group.
+Players then narrate their characters' actions to the group.
 
 #### Round 2: Conversations
 
@@ -84,7 +88,7 @@ One of our aims was to make the game easy to facilitate, even for folks unused t
 * Providing a walkthrough of the game and responsibilities in the [facilitator guide](https://drive.google.com/file/d/1ZWTMnG3gqjG2R2Mc95uodPoNo-GnNR5V/view?usp=sharing), with extra advice and examples
 * Including all instructions and prompts in the [facilitator slides](https://docs.google.com/presentation/d/11cUVWaS8WhEmfNyv71km_UUzb89Yg9E6dduEX4yscIk/edit?usp=sharing) so that they don't need to flip back and forth between the slides and the guide
 * Creating space to welcome the players and introduce norms and expectations for the session
-* Having players capture their activity in a Google Form so the facilitator doesn't have to take notes
+* Having players capture their activity in a Google Form so that the facilitator doesn't have to take notes
 
 Beyond that, we designed the sequence of activities to be as smooth as possible by:
 
