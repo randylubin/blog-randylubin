@@ -3,7 +3,7 @@ layout: post
 template: post
 date: 2021-01-30 16:30:53 +0000
 tags: []
-title: 'Serious Game: Imagining Health Futures'
+title: 'Serious Games: Imagining Health Futures'
 description: An overview of the Imagining Health Future game designed by Randy Lubin
   and Jason Morningstar
 
