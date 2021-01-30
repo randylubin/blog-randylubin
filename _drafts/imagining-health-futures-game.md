@@ -75,10 +75,24 @@ The final stage of play has players creating an artifact that captures their cha
 
 The framing of the section is that the news media and politicians have gotten the crisis wrong, downplaying the harm and overlooking the hard work done by people in their community.
 
+If there's time, players then share their artifacts and then the facilitator leads a quick debrief.
+
 ## Facilitator scaffolding
 
 One of our aims was to make the game easy to facilitate, even for folks unused to these types of games. We used a variety of techniques to support facilitators, including:
 
 * Providing a walkthrough of the game and responsibilities in the [facilitator guide](https://drive.google.com/file/d/1ZWTMnG3gqjG2R2Mc95uodPoNo-GnNR5V/view?usp=sharing), with extra advice and examples
-* Including all instructions and prompts in the [facilitator slides](https://docs.google.com/presentation/d/11cUVWaS8WhEmfNyv71km_UUzb89Yg9E6dduEX4yscIk/edit?usp=sharing)
-* Having player activity captured in a Google Form so the facilitator doesn't have to take notes
+* Including all instructions and prompts in the [facilitator slides](https://docs.google.com/presentation/d/11cUVWaS8WhEmfNyv71km_UUzb89Yg9E6dduEX4yscIk/edit?usp=sharing) so that they don't need to flip back and forth between the slides and the guide
+* Creating space to welcome the players and introduce norms and expectations for the session
+* Having players capture their activity in a Google Form so the facilitator doesn't have to take notes
+
+Beyond that, we designed the sequence of activities to be as smooth as possible by:
+
+* Keeping each activity focused and highly scaffolded
+* Ensuring that the player always has obvious options to fall back on
+* Having each activity be a foundation for the next one (worldbuilding -> character -> plot)
+* Starting with low-intensity activities (e.g. worldbuilding) and get more intense over the course of play (e.g. roleplaying)
+
+## Final thoughts
+
+This was a lot of fun to design and test. Making a serious game during the pandemic for a adolescent audience was tricky but
