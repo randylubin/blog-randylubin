@@ -88,11 +88,9 @@ One of our aims was to make the game easy to facilitate, even for folks unused t
 
 Beyond that, we designed the sequence of activities to be as smooth as possible by:
 
-* Keeping each activity focused and highly scaffolded
+* Keeping each activity focused and highly scaffolded with clear instructions and easy individual steps
 * Ensuring that the player always has obvious options to fall back on
 * Having each activity be a foundation for the next one (worldbuilding -> character -> plot)
 * Starting with low-intensity activities (e.g. worldbuilding) and get more intense over the course of play (e.g. roleplaying)
 
-## Final thoughts
-
-This was a lot of fun to design and test. Making a serious game during the pandemic for a adolescent audience was tricky but
+Designing a serious game for adolescents to play remotely during a pandemic was an interesting design problem and I'm proud of how the game turned out. I hope you've found this overview helpful and I'm excited to reuse many of these design patterns in the future.
