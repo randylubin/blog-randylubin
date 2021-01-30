@@ -41,7 +41,9 @@ We had the players then choose one trend from each group to be clearly negative;
 
 ### Stage 2: Character Creation
 
-The next stage had players creating characters who were roughly their age, but in 2035.
+The next stage had players creating characters who were roughly their age, but in 2035. The character creation process involved players answering a series of questions on their own, including picking an archetype (e.g. activist, academic, joker) and defining how their characters are both similar to and different from themselves. We wanted them to be able to draw on their own experiences but also have some distance between themselves and their characters.
+
+Once everyone had answered their initial questions, they shared their characters with the group and then each player had to answer one new question about their character in front of the group. The player always had two questions to choose from, which gave them flexibility in building out their character. The facilitator can then use the player's answer to create connections with other characters. For instance, if the question was "What volunteer organization are you involved with?" then, after the player answers, the facilitator might ask "Who else is involved with that organization?" which helps tie the characters and setting together.
 
 ### Stage 3: Storytelling
 
