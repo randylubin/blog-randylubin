@@ -93,4 +93,6 @@ Beyond that, we designed the sequence of activities to be as smooth as possible 
 * Having each activity be a foundation for the next one (worldbuilding -> character -> plot)
 * Starting with low-intensity activities (e.g. worldbuilding) and get more intense over the course of play (e.g. roleplaying)
 
+## Closing thoughts
+
 Designing a serious game for adolescents to play remotely during a pandemic was an interesting design problem and I'm proud of how the game turned out. I hope you've found this overview helpful and I'm excited to reuse many of these design patterns in the future.
