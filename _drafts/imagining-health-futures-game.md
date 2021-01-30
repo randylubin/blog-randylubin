@@ -22,6 +22,8 @@ The main goal of the game was to better understand the preferences and expectati
 
 The game itself was built to be played with 1-2 facilitators and 3-6 teenagers in \~2 hours over video chat. We broke the game into four stages to ease the participants into playing and to best capture the output. Here's an overview of the four stages with some commentary on our design decisions.
 
+Throughout the game, we have players logging their decisions in a Google Form which enables us to review and share their creative output after the session and allows facilitators to focus on the players rather than on note-taking.
+
 ### Stage 1: Worldbuilding
 
 We opened up play with a worldbuilding round which served a few purposes:
@@ -47,6 +49,36 @@ Once everyone had answered their initial questions, they shared their characters
 
 ### Stage 3: Storytelling
 
+After the players establish their characters, the players tell stories about they overcome obstacles and engage with their community. This stage of play kicks off with a major crisis upending the characters' world: a massive malware attack that takes down critical infrastructure and tanks the economy. The players explore this crisis through three rounds which span from the immediate aftermath to the recovery.
+
+#### Round 1: Initial Obstacles
+
+The first round of storytelling takes place in the days after the malware attack. Each player is assigned an obstacle or dilemma and describes their character's response. For example:
+
+> Water is being rationed after the failure of the city’s air well condensers and desalination plants. You know a local family is cheating the distribution scheme, but you also know they are caring for sick relatives. What do you do?
+
+Players share their answers with the group.
+
+#### Round 2: Conversations
+
+The story now jumps forward a month, where critical infrastructure is stable but the broader crisis continues. Players pair up to have in-character conversations about different topics. For example:
+
+> With the world suddenly up-ended, many of your character’s friends have been rethinking their longer term plans. Some are devoting themselves to helping in the community and others have seen unexpected opportunities amid the crisis. **Have a conversation** about what might change about your future plans, and how you will make those changes.
+
+#### Round 3: Epilogues
+
+The story continues six months after the attack, as a new normal emerges. Players take turns describing what comes next for their characters.
+
 ### Stage 4: Artifact Creation
 
-## Closing thoughts
+The final stage of play has players creating an artifact that captures their characters' stories from their perspectives. Suggested artifact types include: journal entries (video, audio, or text), letters to the editor, or artwork. Our design goal for these artifacts was that they would capture some of the key facets of the setting, characters, and plot in an easily sharable way.
+
+The framing of the section is that the news media and politicians have gotten the crisis wrong, downplaying the harm and overlooking the hard work done by people in their community.
+
+## Facilitator scaffolding
+
+One of our aims was to make the game easy to facilitate, even for folks unused to these types of games. We used a variety of techniques to support facilitators, including:
+
+* Providing a walkthrough of the game and responsibilities in the [facilitator guide](https://drive.google.com/file/d/1ZWTMnG3gqjG2R2Mc95uodPoNo-GnNR5V/view?usp=sharing), with extra advice and examples
+* Including all instructions and prompts in the [facilitator slides](https://docs.google.com/presentation/d/11cUVWaS8WhEmfNyv71km_UUzb89Yg9E6dduEX4yscIk/edit?usp=sharing)
+* Having player activity captured in a Google Form so the facilitator doesn't have to take notes
