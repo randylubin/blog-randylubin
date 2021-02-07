@@ -8,7 +8,7 @@ description: A look into how I refactored my Vue.js app Story Synth to have cust
   unfurls for different games.
 
 ---
-This weekend I went down a bit of a rabbit hole trying to get social media unfurls to work properly for specific games in Story Synth (which is built in Vue.js). In the end, I got it working but I had to make tweaks up and down the stack to get there!
+This weekend I went down a bit of a rabbit hole trying to get social media unfurls to work properly for specific games in Story Synth (which is built in Vue.js). In the end, I got it working but I had to make tweaks up and down the stack to get there. Warning - this will be fairly technical and in the weeds but if someone else shares this problem hopefully it saves them some time!
 
 ![Around the Realm unfurl, showing the game's logo](/images/screen-shot-2021-02-07-at-8-22-04-am.png "The final unfurl for Around the Realm")
 
@@ -69,14 +69,63 @@ The next issue I faced was switching my entire app from Hash Mode to History Mod
 
 In my main.js file, I just had to change the mode and then add a extra bit of code to make sure the old links would forward properly:
 
-In my main.js file, I just had to change the mode and then add a extra bit of code to make sure the old links would forward properly:const router = new VueRouter({
-  mode: 'history',
-  routes // short for \`routes: routes\`
-})
+    const router = new VueRouter({
+      mode: 'history',
+      routes // short for `routes: routes`
+    })
+    
+    router.beforeEach((to, from, next) => {
+       if (to.fullPath.substr(0,2) === "/#") {
+        const path = to.fullPath.substr(2);
+        next(path);
+        return;
+      }
+      ...
 
-router.beforeEach((to, from, next) => {
-   if (to.fullPath.substr(0,2) === "/#") {
-    const path = to.fullPath.substr(2);
-    next(path);
-    return;
-  }
+I also had to updated my firebase.json so that Firebase Hosting would properly route regardless of the intial url entered:
+
+    {
+      "hosting": {
+        "public": "dist",
+        "ignore": [
+          "firebase.json",
+          "**/.*",
+          "**/node_modules/**"
+        ],
+        "rewrites": [
+            {
+            "source": "**",
+            "destination": "/app.html"
+            },
+            {
+              "source": "/",
+              "destination": "/index.html"
+            }
+        ]
+      }
+    }
+
+With those changes in place, I can now add as many custom games as I want, via the vue.config.js file. Here's the code with just Around the Realm working:
+
+    module.exports = {
+      pluginOptions: {
+        prerenderSpa: {
+          registry: undefined,
+          renderRoutes: [
+            '/',
+            '/Games/Around-The-Realm/'
+          ],
+          useRenderEvent: true,
+          headless: true,
+          onlyProduction: true
+        }
+      }
+    }
+
+Now, when I build and deploy the site, it automatically build the full pages for Around the Realm in an unfurl friendly way – success!
+
+## Next Steps
+
+Now that I have the basic unfurl working, I'll go back and make sure it works for all of my existing games and demos. After that, I'll ask other folks if they want unfurls for their games and start adding their game URLs to my prerender list.
+
+My hope is that these unfurls make Story Synth even easier to use and share!
