@@ -69,15 +69,14 @@ The next issue I faced was switching my entire app from Hash Mode to History Mod
 
 In my main.js file, I just had to change the mode and then add a extra bit of code to make sure the old links would forward properly:
 
-    const router = new VueRouter({
-      mode: 'history',
-      routes // short for `routes: routes`
-    })
-    
-    router.beforeEach((to, from, next) => {
-       if (to.fullPath.substr(0,2) === "/#") {
-        const path = to.fullPath.substr(2);
-        next(path);
-        return;
-      }
-      
+In my main.js file, I just had to change the mode and then add a extra bit of code to make sure the old links would forward properly:const router = new VueRouter({
+  mode: 'history',
+  routes // short for \`routes: routes\`
+})
+
+router.beforeEach((to, from, next) => {
+   if (to.fullPath.substr(0,2) === "/#") {
+    const path = to.fullPath.substr(2);
+    next(path);
+    return;
+  }
