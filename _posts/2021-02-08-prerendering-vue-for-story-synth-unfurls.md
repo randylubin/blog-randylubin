@@ -1,7 +1,7 @@
 ---
 layout: post
 template: post
-date: 2021-02-08 19:14:15 +0000
+date: 2021-02-08 16:20:15 +0000
 tags: []
 title: Prerendering Vue for Story Synth Unfurls
 description: A look into how I refactored my Vue.js app Story Synth to have custom
@@ -126,6 +126,6 @@ Now, when I build and deploy the site, it automatically build the full pages for
 
 ## Next Steps
 
-Now that I have the basic unfurl working, I'll go back and make sure it works for all of my existing games and demos. After that, I'll ask other folks if they want unfurls for their games and start adding their game URLs to my prerender list.
+Now that I have the basic unfurl working, I'll go back and make sure it works for all of my existing games and demos. If you've made a game on Story Synth and want an unfurl for it – let me know and I'll add one.
 
 My hope is that these unfurls make Story Synth even easier to use and share!
