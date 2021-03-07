@@ -16,4 +16,6 @@ The workshops shared a three-part structure that started with two worldbuilding 
 
 The second exercise in each event was a round of [Premise: Setting](https://randylubin.itch.io/premise-setting-character-plot), with locations inspired by the themes that emerged from the first exercise. Premise is a game that has players simultaneously adding onto each other's ideas in format that is a bit exquisite corpse and a bit Mad Libs – the result is always more novel and interesting than any one idea that a person might develop on their own.
 
-The final exercise for the workshops was solo-writing. Participants drew on the locations and ideas from the earlier exercises to craft micro-fiction that explores the workshop's themes. To focus the exercise, we asked them to create works in 
+The final exercise for the workshops was solo-writing. Participants drew on the locations and ideas from the earlier exercises to craft micro-fiction that explores the workshop's themes. To focus the exercise, we asked them to create diegetic works that could exist in a broader fictional world – for example, we had players create advertisements, diary entries, ballot propositions, user manuals, emails, and more, all from a fictional perspective.
+
+Both workshops were well received and participants seemed to love the opportunity to collaborate on worldbuilding and engage in focused creative writing. I'm looking forward to iterating on the workshop format and bring it to new audiences. If you're interested in hosting one, please reach out!
