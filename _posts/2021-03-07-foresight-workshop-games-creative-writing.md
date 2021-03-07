@@ -1,7 +1,7 @@
 ---
 layout: post
 template: post
-date: 2021-03-07 18:35:06 +0000
+date: 2021-03-07 19:35:06 +0000
 tags: []
 title: 'Foresight Workshop: Games + Creative Writing'
 description: An overview of the workshops I've done that involve collaborative worldbuilding
