@@ -57,9 +57,13 @@ Over the course of the game, players engaged in a variety of activities but one 
 
 Interventions would be collaboratively authored by the players in breakout groups and then shared to the entire session at the end of each round. Then, the game facilitators would evaluate the interventions and update the state of the game for the following round.
 
-Another player activity was making decisions related to the city's influencers who would come to them with dilemmas and opportunities. For example, the shadowy Hacker Collective gained access to MegaCorp's systems and asked Humanity United whether they should take down the MegaScrip processing network or 
+Another player activity was making decisions related to the city's influencers who would come to them with dilemmas and opportunities. For example, the shadowy Hacker Collective gained access to MegaCorp's systems and asked Humanity United whether they should take down the MegaScrip processing network or instead find and leak secret reports on worker abuses.
+
+In the final round of the game, players drafted plans and speeches to promote their factions vision for the future of the city. Then players and the non-player influencers all voted on which vision they wanted to see win.
 
 ## The Platform
+
+We ran the game on [Spatial Chat](https://spatial.chat/)
 
 ## Design Notes
 
