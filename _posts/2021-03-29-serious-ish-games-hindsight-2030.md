@@ -11,7 +11,9 @@ Back in November 2020, I teamed up with Mike Masnick and Leigh Beadon to run a l
 
 The core loop was simple – each team picks a headline from 2030 and then develops a series of 5 headlines that get us from today to that future situation. Then, each team presents their arc with everyone and we all guess what happens next. Here was our example version:
 
-![2021: Copyright bill compromises DNS system, adds harsh new penalties for file-sharers
+!\[Hindsight Slide\]([https://pbs.twimg.com/media/EoGfZWHVgAAOotz?format=png&name=small](https://pbs.twimg.com/media/EoGfZWHVgAAOotz?format=png&name=small "https://pbs.twimg.com/media/EoGfZWHVgAAOotz?format=png&name=small"))
+
+2021: Copyright bill compromises DNS system, adds harsh new penalties for file-sharers
 
 2023: Can copyright infringement disqualify you from UBI? The courts are split
 
@@ -21,7 +23,7 @@ The core loop was simple – each team picks a headline from 2030 and then devel
 
 2029: SatTorrent protocol sparks panic in Hollywood, author still a mystery
 
-2030: Massive lawsuit threatens Pirate Party’s satellite broadband network](https://pbs.twimg.com/media/EoGfZWHVgAAOotz?format=png&name=small)
+2030: Massive lawsuit threatens Pirate Party’s satellite broadband network
 
 While designing the game, we had a fun time brainstorming the initial 2030 Headline prompts ahead of time. The prompts focused on future tech intersecting with social or regulatory trends. We ended up with 27 prompts (3 options per table) that covered an array of futures...
 
