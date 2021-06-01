@@ -7,6 +7,8 @@ title: 'Serious Games: Future of Money (run at Mozfest)'
 description: ''
 
 ---
+_Update: we've released a facilitator guide and all assets under a CC-BY license,_ [_check it out_](https://copia.is/projects/money-city/)_!_
+
 Over the past two weeks we've run a game about the Future of Money at Mozilla's conference MozFest. The game was sponsored by [Grant for the Web](grantfortheweb.org) and I co-designed it with Mike Masnick and Leigh Beadon of [Techdirt](https://www.techdirt.com/) / [Copia](https://copia.is/). The sessions went smoothly and players seemed to have a great time!
 
 This post will give an overview of the game and provide some insight into the design choices we made.
@@ -102,7 +104,7 @@ Much of the game involved players brainstorming and pitching interventions. We d
 
 ![](/images/screen-shot-2021-03-21-at-8-23-11-pm.png)
 
-The game state was relatively light for this game, compared to some of our other designs. 
+The game state was relatively light for this game, compared to some of our other designs.
 
 We tracked the relative market share / transaction volume of the different currencies over the course of the game which was driven by the facilitator interpretations of the player interventions. That way players had a quick feedback loop for how their actions were affecting the world.
 
@@ -110,7 +112,7 @@ We tracked the relative market share / transaction volume of the different curre
 
 We also had gauges that tracked city residents' sentiment around happiness, trust, and hope. And we had qualitative tracking of the state of the MegaCorp and also factions' goals which we would update each round.
 
-These different elements of state were a good balance of providing feedback to the players and remaining manageable for us to quickly update during the short post-round intermissions. 
+These different elements of state were a good balance of providing feedback to the players and remaining manageable for us to quickly update during the short post-round intermissions.
 
 ## Next Steps
 
