@@ -71,16 +71,26 @@ One idea for a product line that didn't happen was a charcuterie chalet (like a 
 
 ## Story Synth and fun games
 
-Public domain game jam
+I kept working on Story Synth throughout the year, making new games and new formats. I ran a one-hour game jam to show how easy it is to make games and it was a success.
 
-Story Synth
+[Raph D'Amico](http://www.raphdamico.com/) and I teamed up to make the [Generator](https://www.loom.com/embed/2d813a53f3a649dcba72edf999fc298f) and [HexFlower](https://diegeticgames.com/blog/2021/08/30/story-synth-hexflower-format.html) formats and they both look fantastic (he get's all credit for the visuals)!
 
-Podcasts / Vlogs
+![](https://diegeticgames.com/uploads/hexflower.gif)
 
-Story Synth + teaser
+My brother and I used the generator format to make [Æethelred’s Acadmey for Aspiring Heroes](https://storysynth.org/Games/Aethelreds-Academy/) – a very silly game about would-be adventurers going on quests to get certified in heroic skills.
+
+![](https://diegeticgames.com/uploads/screen-shot-2021-07-16-at-10-55-56-am.png)
+
+I also released [Clash at Ikara](https://diegeticgames.com/blog/2021/02/28/new-game-clash-at-ikara.html) a quick Story Synth game inspired by the film Seven Samurai. Go check it out if that sounds like your jam!
+
+This week, I'm refreshing some of the Story Synth visuals and the new look should ship pretty soon. I also have some thrilling news about a Story Synth grant that I can't share just yet – that announcement should drop in just a few weeks.
+
+Unrelated to Story Synth, I wrote about making [plot guides](https://diegeticgames.com/blog/2021/06/15/plot-roadmaps-for-storytelling-games.html) for rules light storytelling games and created [Save the Galaxy](https://randylubin.itch.io/save-the-galaxy) to show how it could work. The Jewish games anthology Doikayt also shipped this year and I've shared my chapter for free online: [Jewish Inspirations for Worldbuilding and Adventuring](https://diegeticgames.com/uploads/jewish-inspirations-for-worldbuilding-and-adventuring.pdf).
+
+I was also interviewed twice about game design – once with [Draw Your Dice](https://shows.acast.com/dydpodcast/episodes/slice-dice-randy-lubin-story-synth) and once with [Plus One Exp](https://www.youtube.com/watch?v=taSOkBdDT5w).
 
 ## On to 2022
 
-We haven’t done too much planning for 2021, given the massive uncertainty, but we’re sure it will be full of creative projects, hikes, and digital catch-ups with friends and family.
+We just finished our first round of planning for 2022 and it's going to be an excited and jam packed year.
 
-On that note – please reach out! We haven’t been great about proactively scheduling calls but we always get excited when old friends reach out to chat. Shoot us an email and we’ll get something on the calendar.
+Also - we haven’t been great about proactively scheduling calls but we always get excited when old friends reach out to chat. Shoot us an email and we’ll get something on the calendar!
