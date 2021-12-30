@@ -43,6 +43,26 @@ My work life has been busy with a mix of consulting and foresight game design (m
 
 I also got paid to help [Amble Studio](http://amble.studio/) with their Story Synth powered games which was very exciting for me! Separately I advised a consulting firm on some educational games they were making, in a way that bridged my strategy and game design backgrounds.
 
+## Leveraged Play and foresight games
+
+This was a busy year on the foresight games front, though I can't share all of the details yet.
+
+In the spring we ran our game ["Money City" for Mozfest](https://blog.randylubin.com/serious-games-future-of-money-run-at-mozfest) - Mozilla's annual festival. Participants explored the future of web monetization and payments and it was super fun.
+
+![](/images/screen-shot-2021-03-18-at-1-16-10-pm.png)
+
+I won an award this summer: [Next Generation Foresight Partners: Innovative Methods](https://blog.randylubin.com/award-next-generation-foresight-practitioner-innovative-methods) and it's been fun getting to know foresight folks around the world and talk to them about foresight and games.
+
+I also ran a couple [foresight games + creative writing](https://blog.randylubin.com/foresight-workshop-games-creative-writing) workshops, where participants played a worldbuilding game and then wrote flash fiction. They were a delight to facilitate and I hope to run more next year.
+
+Engine teaser
+
+UN teaser
+
+Kickstarter teaser
+
+Techdirt podcasts
+
 ## Avital Tours
 
 Avital had a very busy year with her company, with plenty of ups and downs as we tried to adapt to the shifting pandemic. Ultimately it ended up being a good year but it was a rollercoaster of a year. By the end of year she had launched a bunch of new product lines, brought back in-person in SF and NY.
@@ -52,22 +72,6 @@ One of the product lines was a water tasing experience and it was inspired by Av
 One idea for a product line that didn't happen was a charcuterie chalet (like a ginger bread house). She didn't launch it for customers but we did it for her company holiday party and we had a blast.
 
 ![](/images/img_1023.png)
-
-## Leveraged Play and foresight games
-
-NGFP [https://blog.randylubin.com/award-next-generation-foresight-practitioner-innovative-methods](https://blog.randylubin.com/award-next-generation-foresight-practitioner-innovative-methods "https://blog.randylubin.com/award-next-generation-foresight-practitioner-innovative-methods")
-
-Mozfest [https://blog.randylubin.com/serious-games-future-of-money-run-at-mozfest](https://blog.randylubin.com/serious-games-future-of-money-run-at-mozfest "https://blog.randylubin.com/serious-games-future-of-money-run-at-mozfest")
-
-Engine teaser
-
-UN teaser
-
-Kickstarter teaser
-
-Foresight fiction [https://blog.randylubin.com/foresight-workshop-games-creative-writing](https://blog.randylubin.com/foresight-workshop-games-creative-writing "https://blog.randylubin.com/foresight-workshop-games-creative-writing")
-
-Techdirt podcasts
 
 ## Story Synth and fun games
 
