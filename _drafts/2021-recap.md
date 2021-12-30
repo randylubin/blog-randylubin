@@ -55,13 +55,9 @@ I won an award this summer: [Next Generation Foresight Partners: Innovative Meth
 
 I also ran a couple [foresight games + creative writing](https://blog.randylubin.com/foresight-workshop-games-creative-writing) workshops, where participants played a worldbuilding game and then wrote flash fiction. They were a delight to facilitate and I hope to run more next year.
 
-Engine teaser
+I have several games that are in development – one with the United Nations and one with a non-profit advocacy group. I can't share more about either yet but keep an eye out for more news next year!
 
-UN teaser
-
-Kickstarter teaser
-
-Techdirt podcasts
+I've also continued working on an upcoming Kickstarter game about whistleblowers in a shady government agency but work has been intermittent due to the pandemic and other work taking priority. Hopefully we'll launch the KS in 2022.
 
 ## Avital Tours
 
