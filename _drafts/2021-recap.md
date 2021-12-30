@@ -7,11 +7,13 @@ title: 2021 Recap
 description: ''
 
 ---
-2021 went by super fast for us! We're happy and healthy and here's a recap of what we've up to.
+![](/images/avital-and-randy-palace-of-fine-arts.png)
+
+2021 went by super fast for us! We're happy and healthy and here's what our year looked like:
 
 ## Life
 
-Some of this year's highlights were when we got to hang out with family and friends once we were all vaccinated.
+Some of this year's highlights were when we got to hang out with family and friends once we were all vaccinated. It was amazing to return to in person gatherings after a long time of virtual and distant hangouts.
 
 ### Family
 
@@ -35,11 +37,19 @@ We've dabbled in a few other hobbies this year. Avital got into pottery and took
 
 ![](/images/screen-shot-2021-12-30-at-10-06-10-am.png)
 
-## Consulting and Avital Tours
+## Consulting
 
-Consulting - amble, game design, Darpa
+My work life has been busy with a mix of consulting and foresight game design (more on that in a minute). A can't talk about much of my consulting because it's under NDA but I did get to work with DARPA on the [SemaFor](https://www.darpa.mil/news-events/2021-03-02), trying to detect and deter algorithmic propaganda.
 
-Avital Tours, water somm charcuterie challet
+I also got paid to help [Amble Studio](http://amble.studio/) with their Story Synth powered games which was very exciting for me! Separately I advised a consulting firm on some educational games they were making, in a way that bridged my strategy and game design backgrounds.
+
+## Avital Tours
+
+Avital had a very busy year with her company, with plenty of ups and downs as we tried to adapt to the shifting pandemic. Ultimately it ended up being a good year but it was a rollercoaster of a year. By the end of year she had launched a bunch of new product lines, brought back in-person in SF and NY.
+
+One of the product lines was a water tasing experience and it was inspired by Avital's obsession with water this year. She even became a certified water sommelier!
+
+One idea for a product line that didn't happen was a charcuterie chalet (like a ginger bread house). She didn't launch it for customers but we did it for her company holiday party and we had a blast.
 
 ![](/images/img_1023.png)
 
