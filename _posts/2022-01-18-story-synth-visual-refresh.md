@@ -15,7 +15,7 @@ First up, there's a sharp new logo:
 
 We gave the homepage a complete redesign and it looks much more modern and professional than the previous iteration. The new styling carries over to the Gallery page and the new [Formats](https://storysynth.org/Formats/) page.
 
-![](https://storysynth.org/img/story-synth-logotype.svg)![](https://storysynth.org/img/story-synth-logotype.svg)![a screen shot of the 'create a game' section of the story synth home page](/images/screen-shot-2022-01-18-at-11-55-44-am.png)
+![a screen shot of the 'create a game' section of the story synth home page](/images/screen-shot-2022-01-18-at-11-55-44-am.png)
 
 Finally, we redesigned the in-game "session" pages. The previous and next buttons now float alongside the cards on big screens, and underneath on small screens. All the other buttons now live in a menu modal, accessible from the top of the screen. This is a huge improvement over the cluttered look of the old interface.
 
