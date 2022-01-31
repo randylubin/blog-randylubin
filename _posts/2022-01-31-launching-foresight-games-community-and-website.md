@@ -7,9 +7,9 @@ title: 'Launching: Foresight Games community and website'
 description: Announcing a new site and community for practitioners of foresight games
 
 ---
-I'm in the process of building a website and community for games that explore the future.
+I'm in the process of building a website and community for games that explore the future. My aim is to encourage more organizations to incorporate foresight games into their work and to help more game designers succeed in the space.
 
-It will be at [Foresight.Games](http://foresight.games) and it will likely include:
+It will be at [Foresight.Games](https://foresight.games) and it will likely include:
 
 * The Foresight.Games website with information on related games, game designers, consultants, and facilitators
 * A community hub, likely in Slack or Discord
