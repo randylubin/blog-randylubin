@@ -1,7 +1,7 @@
 ---
 layout: post
 template: post
-date: 2022-01-31 20:00:02 +0000
+date: 2022-01-24 20:00:02 +0000
 tags: []
 title: Story Synth Grant Program
 description: Announcing the new story synth microgrant program
