@@ -24,6 +24,7 @@ fields:
   name: description
   label: description
 pages:
+- _posts/1926-game-jam-winners.md
 - _posts/2020-09-28-mid-2020-update.md
 - _posts/2020-12-31-2020-recap.md
 - _posts/2021-01-06-positive-ai-economic-futures-workshop.md
