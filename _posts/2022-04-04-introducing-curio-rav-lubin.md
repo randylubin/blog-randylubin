@@ -9,18 +9,22 @@ description: Meet our son, Curio Rav Lubin
 ---
 We have a son!
 
-Three weeks ago, Avital gave birth to our son Curio Rav Lubin. We’re doing amazing and loving our time together.![](/images/img_1403.png)![](/images/img_1413.png)
+Three weeks ago, Avital gave birth to our son Curio Rav Lubin. We’re doing amazing and loving our time together.
+
+![](/images/img_1474.png)
 
 ## About his name
 
 His first name is Curio, inspired by our core value of “Persistent Curiosity.” His middle name, Rav, is Hebrew for abundance and guide/teacher and it’s also in honor of my uncle Robby.
 
-## Birth Story
+## Birth story
 
 Curio was born a month before his due date. Avital went in for a routine checkup when they diagnosed her with pre-eclampsia and they decided to induce labor that night. She gave birth the next day and both she and Curio are healthy and happy.
 
 Curio ended up spending a week in the NICU until he gained enough weight, which he did quickly. He’s home now and it’s wonderful having him here!
 
-## Get Updates
+## Get updates
 
-We won’t be posting to social media much, but feel free to sign up to our newsletter for occasional updates: TK
+We won’t be posting to social media much, but feel free to sign up to our newsletter for occasional updates: [https://lubinletters.substack.com/](https://lubinletters.substack.com/ "https://lubinletters.substack.com/")
+
+![](/images/img_1403.png)![](/images/img_1413.png)
