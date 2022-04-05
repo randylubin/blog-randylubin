@@ -1,7 +1,7 @@
 ---
 layout: post
 template: post
-date: 2022-04-04 00:45:20 +0000
+date: 2022-04-05 00:45:20 +0000
 tags: []
 title: 'Introducing: Curio Rav Lubin'
 description: Meet our son, Curio Rav Lubin
