@@ -25,6 +25,6 @@ Curio ended up spending a week in the NICU until he gained enough weight, which 
 
 ## Get updates
 
-We won’t be posting to social media much, but feel free to sign up to our newsletter for occasional updates: [https://lubinletters.substack.com/](https://lubinletters.substack.com/ "https://lubinletters.substack.com/")
+We won’t be posting to social media much, but feel free to sign up to our newsletter for occasional updates: [https://tinyletter.com/thelubinletters/](https://tinyletter.com/thelubinletters "https://tinyletter.com/thelubinletters")
 
 ![](/images/img_1403.png)![](/images/img_1413.png)
