@@ -1,12 +1,14 @@
 ---
 layout: post
 template: post
-date: 2021-03-29 03:58:07 +0000
+date: 2021-03-29T03:58:07.000+00:00
 tags: []
 title: 'Serious(ish) Games: Hindsight 2030'
 description: ''
 
 ---
+_Update: you can now get a CC-BY version of_ [_Hindsight 2030 on Itch.io_](https://randylubin.itch.io/hindsight-2030)
+
 Back in November 2020, I teamed up with Mike Masnick and Leigh Beadon to run a light and silly foresight game called Hindsight 2030. Our goal was to make a fun game to play in under an hour, perfect for a happy hour at the end of a long week – we succeeded!
 
 The core loop was simple – each team picks a headline from 2030 and then develops a series of 5 headlines that get us from today to that future situation. Then, each team presents their arc with everyone and we all guess what happens next. Here was our example version:
