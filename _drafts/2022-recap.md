@@ -26,13 +26,23 @@ I had a very busy year on the serious game front, mostly focused on "foresight g
 
 #### Startup Trail
 
+![](/images/startuptrail-1200x630.png)
+
 In April, we launched [Startup Trail](https://startuptrail.engine.is/) ([blog](https://blog.randylubin.com/new-game-startup-trail)) a browser based game that explores the intersection of startups and tech policy. Players face a series of dilemmas as they grow their company from founding to exit (or bankruptcy). The game was warmly received, with 10,000s of folks playing the game; we also got covered in [The Verge](https://www.theverge.com/2022/4/28/23045333/startup-trail-game-oregon). I'm thrilled with how the game turned out and we'll be making more browser based games in 2023.
 
 #### United Nations Election Game
 
 I've also spent most of the year working with the United Nations on a foresight game to explore threats and opportunities around elections. We ran pilot sessions in Southeast Asia in late spring and then created a generalized guide for how to adapt the game for other national contexts – the guide should launch early this year and I'll post about it when it's live. Working with the United Nations was a treat – it's important that my games are impactful (not just fun) and the UN is a strong vector for affecting positive change.
 
-#### Talks, Workshops, and More
+#### Talks, Workshops, Minigames, and More
+
+While I've worked on a few bigger games over the course of the year, I can't talk about them publicly yet. I can share two smaller games though: Coastalia Refugee Crisis and Hindsight 2030.
+
+![](/images/coastalia-slide.png)
+
+I created [Coastalia Refugee Crisis](https://randylubin.itch.io/costalia-refugee-crisis) for a VZOR and SOIF's series on Peaceful Futures. Players explored how institutions might respond to a fraught situation that threatens to descend into violent conflict.
+
+![](/images/hindsight2030.png)
 
 I gave a handful of talks and workshops throughout 2022 and I've enjoyed honing my "Why Foresight Games?" pitch. 
 
