@@ -20,6 +20,8 @@ Parenting has been a blast – especially since I get to do it with Avital. We'r
 
 We've had tons of great family time beyond Curio too, with my parents flying in once a month and Avital's parents visiting at least once a week. It's super fun to see them spending time with their grandchild!
 
+Newsletter TK
+
 ## Work
 
 ### Leveraged Play
