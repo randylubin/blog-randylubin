@@ -14,7 +14,7 @@ description: 'What I was up to in 2022: Curio, Games, and more!'
 
 ## Family
 
-Curio Rav Lubin was born in March – he's almost ten months old now – and we've loved growing with him over the past year. He's incredibly happy most of the time and quick to smile and laugh. His face is deeply expressive, especially his eyebrows, and we love seeing a small window into his mind. In the last few weeks he's gotten very quick at crawling and climbing (on us, on furniture, on toys). It's wild to see friends' kids who are only a year older and think about how much more will change in the very near future.
+Curio Rav Lubin was [born](https://blog.randylubin.com/introducing-curio-rav-lubin) in March – he's almost ten months old now – and we've loved growing with him over the past year. He's incredibly happy most of the time and quick to smile and laugh. His face is deeply expressive, especially his eyebrows, and we love seeing a small window into his mind. In the last few weeks he's gotten very quick at crawling and climbing (on us, on furniture, on toys). It's wild to see friends' kids who are only a year older and think about how much more will change in the very near future.
 
 Parenting has been a blast – especially since I get to do it with Avital. We're having nonstop fun and it just keeps getting better. One surprise for me, shortly after Curio was born, was that I kept bursting into improvised song about his day. I'm not particularly into musicals but making up songs was a way to connect with Curio and to embrace the omnipresent repetition of those early months. It turns out that I'm not alone in this and our friend Kathryn Hymes ended up writing an article for the Atlantic on the topic (featuring me and Curio!): [What Babies Hear When You Sing to Them]().
 
@@ -36,7 +36,7 @@ In April, we launched [Startup Trail](https://startuptrail.engine.is/) ([blog](h
 
 I've also spent most of the year working with the United Nations (in collaboration with Mike Masnick) on a foresight game to explore threats and opportunities around elections. We ran pilot sessions in Southeast Asia in late spring and then created a generalized guide for how to adapt the game for other national contexts – the guide should launch early this year and I'll post about it when it's live. Working with the United Nations was a treat – it's important that my games are impactful (not just fun) and the UN is a strong vector for affecting positive change.
 
-#### Talks, Workshops, Minigames, and More
+#### Minigames, Talks, Workshops, and More
 
 While I've worked on a few bigger games over the course of the year, I can't talk about them publicly yet. I can share two smaller games though: Coastalia Refugee Crisis and Hindsight 2030.
 
@@ -62,24 +62,47 @@ In June I officially launched the [Foresight Games Community](https://foresight.
 
 Avital created a new brand this fall, [Edible Architecture](https://ediblearchitecture.com/), which sells the first commercially available Charcuterie Chalet Kit. I've enjoyed watching her prototype and launch this new business line and seeing her go from concept to reality in just a few, quick months – her kits have even gone viral on social media!
 
-* Consumer games
-  * Working the case + Po1
-  * Behind the Magic in German
-  * Story Synth
-    * Visuals
-    * Story Synth: Hexmap
-    * Microgrants
-  * Gaming Like It’s XX
-* Serious Games
-  * Amble podcast
-  * SOIF, CAL100, VZOR
-    * Costalia
-    * Talks and minigames
-  * UN Cambodia
-  * Startup Trail
-  * Foresight Games community
+## Consumer Games and Story Synth
+
+### Working the Case
+
+![the mystery board from working the case](https://diegeticgames.com/uploads/screen-shot-2022-07-19-at-6-05-09-pm.png)
+
+Much of my game designer energy was focused on foresight games but I still found time to design and playtest consumer games. Most of time here was spent on [Working the Case](https://diegeticgames.com/working-the-case/) – my 30min mystery game where you collectively create and solve a murder. I playtest the game 20 times, with several different playsets (e.g. space station, fantasy) and I am very happy with how it's shaping up! This year I'll look to publish it in digital form (new Story Synth format?) or as a physical card version.
+
+The always incredible Jeff Stormer had me on his podcast [Party of One](https://podcasts.apple.com/no/podcast/337-working-the-case-with-randy-lubin/id1055535537?i=1000574944007) where we played the game and solved a twisted tale of murder on Vacation Station – give it a listen!
+
+#### Behind the Magic released in Germany
+
+![behind the magic cover, german edition](/images/behind-the-magic-german-cover.png)
+
+The folks at System Matters translated Behind the Magic, my fantasy mockumentary game, into German (my first international games translation) and I love their new illustrations. You can send your German-speaking gamer friends to their [online store](https://www.system-matters.de/shop/behind-the-magic/) but it's also being sold in German game shops.
+
+#### Story Synth: Microgrants and Hexmaps
+
+![collage of story synth games](https://diegeticgames.com/uploads/microgrant-gallery-min.png)
+
+2022 was a huge year for Story Synth, my free web platform for storytelling games. Based on my rough analytics, more than 10,000 folks came to the site and over new 100 games were created.
+
+I teamed up with Big Bad Con to run a [microgrant program](https://www.bigbadcon.com/story-synth-microgrants/), with financial support from the wonderful folks at Grant for the Web. We distributed $30,000 as 100 microgrants of $300 to designers of marginalized identities, many of whom were first time designers. I love helping this cohort make games and they inspired me to add many extra features to the Story Synth Platform. You can check out some of their games in the [Microgrant Gallery](https://storysynth.org/Microgrant-Gallery/).
+
+Early in the year, I launched a visual refresh for Story Synth, with significant help from Raph D'Amico and I think the new design is working well. Check it out yourself at [storysynth.org](https://storysynth.org).
+
+![](https://diegeticgames.com/uploads/screenshot-2022-12-31-at-8-46-13-am.png)
+
+Finally, on December 31st I launched the new [Hexmap Format](https://diegeticgames.com/blog/2022/12/31/story-synth-hexmap-format.html) (also with Raph's advice – thanks Raph!) which makes it easy for designers to create maps of various sizes with plenty of room for customization. I'm excited to see what folks build with it!
+
+#### Gaming Like It's 19XX
+
+## Hobbies
+
 * Hobbies
   * Writing
   * Joan Henry Italian
   * Piano and Ukulele
-* 2023 + Catchup!
+
+## 2023 and Catch-up!
+
+We just finished our first round of planning for 2023 and it’s going to be an excited and jam packed year.
+
+Also - we haven’t been great about proactively scheduling calls but we always get excited when old friends reach out to chat. Shoot us an email and we’ll get something on the calendar!
