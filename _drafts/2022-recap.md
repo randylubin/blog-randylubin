@@ -94,7 +94,11 @@ Finally, on December 31st I launched the new [Hexmap Format](https://diegeticgam
 
 #### Gaming Like It's 19XX
 
+TK
+
 ## Hobbies
+
+On the hobby front – I've been expanding my musical dabbling on two fronts. I've been playing a lot of ukulele for Curio and have been leaving the instrument upstairs where I can easily pick it up for a minute and strum – I highly recommend it for anyone who is curious. I've also been learning piano and just upgraded from my small 2-octave midi controller to a 61 key keyboard. I'm looking forward to learning basic jazz improvisation and am enjoying it a lot so far!
 
 * Hobbies
   * Writing
