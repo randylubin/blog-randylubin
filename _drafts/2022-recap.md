@@ -96,16 +96,19 @@ Finally, on December 31st I launched the new [Hexmap Format](https://diegeticgam
 
 #### Gaming Like It's 19XX
 
-TK
+Last year was the fourth year of our annual public domain game jam. Check out the winners on the [1926 page](https://itch.io/jam/gaming-like-its-1926) or join us this month for the [1927 jam](https://itch.io/jam/gaming-like-its-1927). I really love this annual tradition.
 
 ## Hobbies
 
-On the hobby front – I've been expanding my musical dabbling on two fronts. I've been playing a lot of ukulele for Curio and have been leaving the instrument upstairs where I can easily pick it up for a minute and strum – I highly recommend it for anyone who is curious. I've also been learning piano and just upgraded from my small 2-octave midi controller to a 61 key keyboard. I'm looking forward to learning basic jazz improvisation and am enjoying it a lot so far!
+### Music
 
-* Hobbies
-  * Writing
-  * Joan Henry Italian
-  * Piano and Ukulele
+I've been expanding my musical dabbling on two fronts. I've been playing a lot of ukulele for Curio and have been leaving the instrument upstairs where I can easily pick it up for a minute and strum – I highly recommend it for anyone who is curious. I've also been learning piano and just upgraded from my small 2-octave midi controller to a 61 key keyboard. I'm looking forward to learning basic jazz improvisation and am enjoying it a lot so far!
+
+### Writing
+
+I spent a bit of time outlining short stories but didn't make much progress on actually writing. I'm hoping to change that this year and get a few stories out in the same shared setting. I'll share more info soon and hope to do a bit more working in public on this front.
+
+Also - my story Joan Henry vs the Algorithm was translated into Italian (my first fiction writing translation) and it's included in the [Internetwork anthology](https://www.futurefiction.org/internetwork/) as Joan Henry Contro l’Algoritmo.
 
 ## 2023 and Catch-up!
 
