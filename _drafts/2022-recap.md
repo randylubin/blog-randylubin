@@ -14,9 +14,13 @@ description: 'What I was up to in 2022: Curio, Games, and more!'
 
 ## Family
 
-Curio Rav Lubin was [born](https://blog.randylubin.com/introducing-curio-rav-lubin) in March – he's almost ten months old now – and we've loved growing with him over the past year. He's incredibly happy most of the time and quick to smile and laugh. His face is deeply expressive, especially his eyebrows, and we love seeing a small window into his mind. In the last few weeks he's gotten very quick at crawling and climbing (on us, on furniture, on toys). It's wild to see friends' kids who are only a year older and think about how much more will change in the very near future.
+![Curio](/images/img_6150.png)
+
+Curio Rav Lubin was [born](https://blog.randylubin.com/introducing-curio-rav-lubin) in March – he's almost ten months old now – and we've loved growing with him over the past year. He's incredibly happy most of the time and quick to smile and giggle. His face is deeply expressive, especially his eyebrows, and we love seeing a small window into his mind. In the last few weeks he's gotten very quick at crawling and climbing (on us, on furniture, on toys). It's wild to see friends' kids who are only a year older and think about how much more will change in the very near future.
 
 Parenting has been a blast – especially since I get to do it with Avital. We're having nonstop fun and it just keeps getting better. One surprise for me, shortly after Curio was born, was that I kept bursting into improvised song about his day. I'm not particularly into musicals but making up songs was a way to connect with Curio and to embrace the omnipresent repetition of those early months. It turns out that I'm not alone in this and our friend Kathryn Hymes ended up writing an article for the Atlantic on the topic (featuring me and Curio!): [What Babies Hear When You Sing to Them]().
+
+![](/images/img_1190.png)
 
 We've had tons of great family time beyond Curio too, with my parents flying in once a month and Avital's parents visiting at least once a week. It's super fun to see them spending time with their grandchild!
 
@@ -32,19 +36,19 @@ I had a very busy year on the serious game front, mostly focused on "foresight g
 
 ![startup trail logo](/images/startuptrail-1200x630.png)
 
-In April, we launched [Startup Trail](https://startuptrail.engine.is/) ([blog](https://blog.randylubin.com/new-game-startup-trail)) a browser based game that explores the intersection of startups and tech policy. Players face a series of dilemmas as they grow their company from founding to exit (or bankruptcy). The game was warmly received, with 10,000s of folks playing the game; we also got covered in [The Verge](https://www.theverge.com/2022/4/28/23045333/startup-trail-game-oregon). I'm thrilled with how the game turned out and we'll be making more browser based games in 2023.
+In April, we (Leveraged Play, Copia Institute, Engine) launched [Startup Trail](https://startuptrail.engine.is/) ([blog](https://blog.randylubin.com/new-game-startup-trail)) a browser based game that explores the intersection of startups and tech policy. Players face a series of dilemmas as they grow their company from founding to exit (or bankruptcy). The game was warmly received, with 10,000s of folks playing the game; we also got covered in [The Verge](https://www.theverge.com/2022/4/28/23045333/startup-trail-game-oregon). I'm thrilled with how the game turned out and we'll be making more browser-based games in 2023.
 
 #### United Nations Election Game
 
-I've also spent most of the year working with the United Nations (in collaboration with Mike Masnick) on a foresight game to explore threats and opportunities around elections. We ran pilot sessions in Southeast Asia in late spring and then created a generalized guide for how to adapt the game for other national contexts – the guide should launch early this year and I'll post about it when it's live. Working with the United Nations was a treat – it's important that my games are impactful (not just fun) and the UN is a strong vector for affecting positive change.
+I've also spent most of the year working with the United Nations (in collaboration with Mike Masnick) on a foresight game to explore threats and opportunities around elections. We ran pilot sessions in Southeast Asia in late spring and then created a generalized guide for how to adapt the game for other national contexts – the guide should launch early this year and I'll post about it when it's live. Working with the United Nations was a great opportunity – it's important that my games are impactful (not just fun) and the UN is a strong vector for affecting positive change.
 
 #### Minigames, Talks, Workshops, and More
 
-While I've worked on a few bigger games over the course of the year, I can't talk about them publicly yet. I can share two smaller games though: Coastalia Refugee Crisis and Hindsight 2030.
+While I've worked on a few other bigger games over the course of the year, I can't talk about them publicly yet. I can share two smaller games though: Coastalia Refugee Crisis and Hindsight 2030.
 
 ![a slide from Costalia Refugee Crisis showing the region](/images/coastalia-slide.png)
 
-I created [Coastalia Refugee Crisis](https://randylubin.itch.io/costalia-refugee-crisis) for a VZOR and SOIF's series on Peaceful Futures. Players explored how institutions might respond to a fraught situation that threatens to descend into violent conflict. The short crisis game format is potent and I look forward to making more designs like it this year.
+I created [Coastalia Refugee Crisis](https://randylubin.itch.io/costalia-refugee-crisis) for a VZOR and SOIF's series on Peaceful Futures. Players explored how institutions might respond to a fraught situation that threatens to descend into violent conflict. The short crisis game format has potential and I look forward to making more designs like it in 2023.
 
 ![Hindsight 2030 logo](/images/hindsight2030.png)
 
@@ -52,7 +56,7 @@ I also collaborated with The Copia Institute to launch a remixable version of [H
 
 #### Talks and more
 
-I gave a handful of talks and workshops throughout 2022 and I've enjoyed honing my "Why Foresight Games?" pitch and seeing what resonates with different audiences. I was also interviewed on the [Amble Podcast](https://amble.studio/episode-11-foresight-games-with-randy-lubin/) where we had a lovely conversation about applications for foresight games.
+I gave a handful of talks and workshops throughout 2022 (e.g. for California 100 and SOIF) and I've enjoyed honing my "Why Foresight Games?" pitch and seeing what resonates with different audiences. I was also interviewed on the [Amble Podcast](https://amble.studio/episode-11-foresight-games-with-randy-lubin/) where we had a lovely conversation about applications for foresight games.
 
 #### Launching the Foresight Games Community
 
@@ -70,31 +74,33 @@ Avital created a new brand this fall, [Edible Architecture](https://ediblearchit
 
 ![the mystery board from working the case](https://diegeticgames.com/uploads/screen-shot-2022-07-19-at-6-05-09-pm.png)
 
-Much of my game designer energy was focused on foresight games but I still found time to design and playtest consumer games. Most of time here was spent on [Working the Case](https://diegeticgames.com/working-the-case/) – my 30min mystery game where you collectively create and solve a murder. I playtest the game 20 times, with several different playsets (e.g. space station, fantasy) and I am very happy with how it's shaping up! This year I'll look to publish it in digital form (new Story Synth format?) or as a physical card version.
+Much of my game designer energy was focused on foresight games but I still found time to design and playtest consumer games. Most of time here was spent on [Working the Case](https://diegeticgames.com/working-the-case/) – my 30-minute mystery game where you collectively create and solve a murder. I playtested the game 20 times, with several different playsets (e.g. space station, fantasy) and I am very happy with how it's shaping up. This year I'll look to publish it in digital form (new Story Synth format?) or as a physical card version.
 
-The always incredible Jeff Stormer had me on his podcast [Party of One](https://podcasts.apple.com/no/podcast/337-working-the-case-with-randy-lubin/id1055535537?i=1000574944007) where we played the game and solved a twisted tale of murder on Vacation Station – give it a listen!
+The always incredible Jeff Stormer had me on his podcast [Party of One](https://podcasts.apple.com/no/podcast/337-working-the-case-with-randy-lubin/id1055535537?i=1000574944007) where we played the game and told a twisted tale of murder on Vacation Station – give it a listen!
 
 #### Behind the Magic released in Germany
 
 ![behind the magic cover, german edition](/images/behind-the-magic-german-cover.png)
 
-The folks at System Matters translated Behind the Magic, my fantasy mockumentary game, into German (my first international games translation) and I love their new illustrations. You can send your German-speaking gamer friends to their [online store](https://www.system-matters.de/shop/behind-the-magic/) but it's also being sold in German game shops.
+The folks at System Matters translated Behind the Magic, my fantasy mockumentary game, into German (my first international game translation) and I love their new illustrations. You can send your German-speaking gamer friends to their [online store](https://www.system-matters.de/shop/behind-the-magic/) and it's also being sold in German game shops.
 
 #### Story Synth: Microgrants and Hexmaps
 
 ![collage of story synth games](https://diegeticgames.com/uploads/microgrant-gallery-min.png)
 
-2022 was a huge year for Story Synth, my free web platform for storytelling games. Based on my rough analytics, more than 10,000 folks came to the site and over new 100 games were created.
+2022 was a huge year for Story Synth, my free web platform for storytelling games. Based on my rough analytics, more than 10,000 folks came to the site and over 100 new games were created.
 
-I teamed up with Big Bad Con to run a [microgrant program](https://www.bigbadcon.com/story-synth-microgrants/), with financial support from the wonderful folks at Grant for the Web. We distributed $30,000 as 100 microgrants of $300 to designers of marginalized identities, many of whom were first time designers. I love helping this cohort make games and they inspired me to add many extra features to the Story Synth Platform. You can check out some of their games in the [Microgrant Gallery](https://storysynth.org/Microgrant-Gallery/).
+I teamed up with Big Bad Con to run a [microgrant program](https://www.bigbadcon.com/story-synth-microgrants/), with financial support from the wonderful folks at [Grant for the Web](https://www.grantfortheweb.org/). We distributed $30,000 as 100 microgrants of $300 to designers of marginalized identities, many of whom were first time designers. I love helping this cohort make games and they inspired me to add many extra features to the Story Synth platform. You can check out some of their games in the [Microgrant Gallery](https://storysynth.org/Microgrant-Gallery/).
 
-Early in the year, I launched a visual refresh for Story Synth, with significant help from Raph D'Amico and I think the new design is working well. Check it out yourself at [storysynth.org](https://storysynth.org).
+Early in the year, I launched a visual refresh for Story Synth, with significant help from [Raph D'Amico](http://www.raphdamico.com/) and I think the new design is working well. Check it out yourself at [storysynth.org](https://storysynth.org).
 
 ![](https://diegeticgames.com/uploads/screenshot-2022-12-31-at-8-46-13-am.png)
 
-Finally, on December 31st I launched the new [Hexmap Format](https://diegeticgames.com/blog/2022/12/31/story-synth-hexmap-format.html) (also with Raph's advice – thanks Raph!) which makes it easy for designers to create maps of various sizes with plenty of room for customization. I'm excited to see what folks build with it!
+Finally, on December 31st, I launched the new [Hexmap Format](https://diegeticgames.com/blog/2022/12/31/story-synth-hexmap-format.html) (also with Raph's advice – thanks Raph!) which makes it easy for designers to create maps of various sizes with plenty of room for customization. I'm excited to see what folks build with it!
 
-#### Gaming Like It's 19XX
+Speaking of Raph, I also wrote a "twist" expansion called "The Glitch" for Raph's game [The Zone (Kickstarter)](https://www.kickstarter.com/projects/raphdamico/the-zone-rpg/description),  which will be released later this year.
+
+#### Gaming Like It's 1926/7
 
 Last year was the fourth year of our annual public domain game jam. Check out the winners on the [1926 page](https://itch.io/jam/gaming-like-its-1926) or join us this month for the [1927 jam](https://itch.io/jam/gaming-like-its-1927). I really love this annual tradition.
 
