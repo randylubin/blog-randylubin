@@ -1,7 +1,7 @@
 ---
 layout: post
 template: post
-date: 2023-01-16 19:20:29 +0000
+date: 2023-01-23 16:20:29 +0000
 tags: []
 title: Near future worldbuilding with Dungeon23
 description: a short post on a micro-worldbuilding exercise
