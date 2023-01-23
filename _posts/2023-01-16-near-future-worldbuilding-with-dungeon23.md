@@ -4,7 +4,7 @@ template: post
 date: 2023-01-16 19:20:29 +0000
 tags: []
 title: Near future worldbuilding with Dungeon23
-description: ''
+description: a short post on a micro-worldbuilding exercise
 
 ---
 A bunch of indie RPG designers are doing a challenge called Dungeon23 where they create a new room of a megadungeon every day of 2023. Instead of creating a dungeon, I'm creating locations for a near-future science fiction setting in which I'm planning to write a handful of short stories.
