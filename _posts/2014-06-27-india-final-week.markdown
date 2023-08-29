@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2014-06-27
+title: 'India: Final Week'
+date: 2014-06-27 00:00:00 Z
+permalink: "/post/90087150608/india-final-week"
 tags:
 - travel
 - india
 - innovate delhi
-title: "India: Final Week"
-permalink: /post/90087150608/india-final-week
-description: "India: Final Week"
+layout: post
+template: post
+description: 'India: Final Week'
 ---
+
 I'm writing this from the comfort of my SF apartment - it was an amazing month in India but I'm excited to be home!
 
 ### Innovate Delhi Finale

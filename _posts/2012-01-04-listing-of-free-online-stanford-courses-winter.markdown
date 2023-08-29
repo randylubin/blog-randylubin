@@ -1,11 +1,12 @@
 ---
+title: Listing of Free Online Stanford Courses (Winter 2012)
+date: 2012-01-04 00:00:00 Z
+permalink: "/post/15280095283/listing-of-free-online-stanford-courses-winter"
 layout: post
 template: post
-date: 2012-01-04
-title: "Listing of Free Online Stanford Courses (Winter 2012)"
-permalink: /post/15280095283/listing-of-free-online-stanford-courses-winter
-description: "Listing of Free Online Stanford Courses (Winter 2012)"
+description: Listing of Free Online Stanford Courses (Winter 2012)
 ---
+
 <p>This fall, Stanford opened three of its courses to free online enrollment: Machine Learning, Databases, and Artificial Intelligence.  Over 100,000 people signed up.</p>&#13;
 <p>This winter they've expanded to 16 courses.  I didn't see a directory anywhere so here is the complete listing:</p>&#13;
 <h2>Starting late January</h2>&#13;

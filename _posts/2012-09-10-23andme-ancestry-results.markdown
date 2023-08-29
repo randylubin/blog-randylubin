@@ -1,11 +1,12 @@
 ---
+title: '23andMe: Ancestry Results'
+date: 2012-09-10 00:00:00 Z
+permalink: "/post/31258490133/23andme-ancestry-results"
 layout: post
 template: post
-date: 2012-09-10
-title: "23andMe: Ancestry Results"
-permalink: /post/31258490133/23andme-ancestry-results
-description: "23andMe: Ancestry Results"
+description: '23andMe: Ancestry Results'
 ---
+
 <p>Last <a href="http://blog.randylubin.com/post/30779279027/23andme-results-im-3-2-neanderthal">post</a> I shared the health findings of my 23andMe genome sequencing, in the post I'll talk about the Ancestry results.</p>&#13;
 <p>I had to wait a week extra for the Ancestry portion of the results and I'm a bit underwhelmed. Here's the breakdown of major info:</p>&#13;
 <p><strong>Maternal and Paternal Haplogroups</strong>: H and J2, respectively. These indicate which regions my ancestors were likely from and in which migration wave they took part. The maternal group: H is a broad indicator of early migration to Europe... it's prevalent in many Europeans. The paternal group, J2 is highly prevalent in the Middle East and southern Europe. no surprise in either of these findings.</p>&#13;

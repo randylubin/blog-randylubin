@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2013-11-04
+title: Fun-employment Update
+date: 2013-11-04 00:00:00 Z
+permalink: "/post/65962642391/fun-employment-update"
 tags:
 - funemployment
-title: "Fun-employment Update"
-permalink: /post/65962642391/fun-employment-update
-description: "Fun-employment Update"
+layout: post
+template: post
+description: Fun-employment Update
 ---
+
 It's just under two months since I left Jive and I've been busy!
 
 The [first few weeks](http://blog.randylubin.com/post/61539885652/failing-at-fun-employment) were incredibly busy and fun, though not as productive as I wanted. I was much more focused in October and launched two side projects - [Jam-Sync](http://blog.randylubin.com/post/64003279316/side-project-jam-sync) and [Acting Karaoke](http://blog.randylubin.com/post/63355220714/weekend-project-acting-karaoke). I also visited St. Louis for my brother's Parents Weekend and I spent the past week moving to my new apartment. It's been a lot of fun but I'm increasingly ready to jump back into startup mode.

@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-03-03
+title: Refactor Camp 2014
+date: 2014-03-03 00:00:00 Z
+permalink: "/post/78419248865/refactor-camp-2014"
 tags:
 - refactor camp
-title: "Refactor Camp 2014"
-permalink: /post/78419248865/refactor-camp-2014
-description: "Refactor Camp 2014"
+layout: post
+template: post
+description: Refactor Camp 2014
 ---
+
 This weekend I attended [Refactor Camp](http://refactorcamp.org/) and it was amazing.
 
 Refactor Camp is a weekend retreat / unconference thrown by Ventkat Rao of [ribbonfarm](http://www.ribbonfarm.com/). RibbonFarm is a delightfully geeky blog which explores themes of complex systems, civilization, technology, psychology, etc. Venkat also has an online community, of which I've been a member for a while, which discusses those themes and current articles / events related to them. Refactor Camp is an annual gathering of that community.

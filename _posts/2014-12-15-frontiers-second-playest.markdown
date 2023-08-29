@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2014-12-15
+title: 'Frontiers: Second Playest'
+date: 2014-12-15 00:00:00 Z
+permalink: "/post/105250788403/frontiers-second-playest"
 tags:
 - frontiers
 - game design
 - playtesting
-title: "Frontiers: Second Playest"
-permalink: /post/105250788403/frontiers-second-playest
-description: "Frontiers: Second Playest"
+layout: post
+template: post
+description: 'Frontiers: Second Playest'
 ---
+
 Today I conducted the second playtest for Frontiers, the storytelling game I [recently mentioned](http://blog.randylubin.com/post/104060436293/frontiers-my-next-storytelling-game).
 
 In this iteration, I added a special, initial adventure phase which focuses on establishing how the crew came to join up and exploring the initial world they're leaving. In practice, this led to us having a better grasp of the character motivations and the internal logic of the world they inhabit.

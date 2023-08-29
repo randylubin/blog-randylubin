@@ -1,16 +1,16 @@
 ---
-layout: post
-template: post
-date: 2019-12-25
+title: Live Present Slides - my first Chrome Extension
+date: 2019-12-25 00:00:00 Z
+permalink: "/post/189866209658/live-present-slides-my-first-chrome-extension"
 tags:
 - chrome extensions
 - google slides
 - presentation hack
-title: Live Present Slides - my first Chrome Extension
-permalink: "/post/189866209658/live-present-slides-my-first-chrome-extension"
+layout: post
+template: post
 description: Live Present Slides - my first Chrome Extension
-
 ---
+
 <p>I just published my first Chrome extension: <a href="https://chrome.google.com/webstore/detail/live-present-slides/fgnaekpcnnenhhdnkidokjmogogjbkkm">Live Present Slides</a>
 
 <p><i>Update: now <a href="https://addons.mozilla.org/en-US/firefox/addon/live-present-slides/">available for Firefox</a></i></p>

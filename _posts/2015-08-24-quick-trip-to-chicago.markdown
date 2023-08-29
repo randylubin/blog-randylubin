@@ -1,9 +1,10 @@
 ---
+title: Quick Trip to Chicago
+date: 2015-08-24 00:00:00 Z
+permalink: "/post/127446848228/quick-trip-to-chicago"
 layout: post
 template: post
-date: 2015-08-24
-title: "Quick Trip to Chicago"
-permalink: /post/127446848228/quick-trip-to-chicago
-description: "Quick Trip to Chicago"
+description: Quick Trip to Chicago
 ---
+
 <figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/eb593ec0d829a780fe84969dea8b02574b77c7e15579bbdf8719f621ce966297.png" data-orig-height="768" data-orig-width="1024"></figure><p>I just got back from a great, quick trip to Chicago with Avital. I was there for a close friend’s wedding but was able to sneak in some tourism, too.</p><p>We arrived on Thursday and went to the Aviary / Next. Next is a high end restaurant that has a different theme every four months. This month was Spanish Tapas. We had an awesome meal with some very unusual dishes.</p><figure class="tmblr-full" data-orig-height="1024" data-orig-width="768"><img src="/images/36c701e6be35fc20b5eac3868052750ef52ee26fe61c2152842d9a10da717e0f.png" data-orig-height="1024" data-orig-width="768"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="768"><img src="/images/a8803f8a0db01f2333ce412c7b863f89d851116ae5f90025864de4285f8717eb.png" data-orig-height="1024" data-orig-width="768"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="768"><img src="/images/b59dfb5174f6bf2cec2132f1b68e34bae8193c76b819da27e82d994fe587a12f.png" data-orig-height="1024" data-orig-width="768"></figure><p>On Friday we walked around downtown and took an architecture tour on the river. It was a perfect day to be on the water and the tour was very informative.</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/8c3c67ead12115eb6ee2cac4c9566031fed5fdeb711de8f9213e00e802688ad5.png" data-orig-height="768" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/3e6bcac5b0dfe61dad617f8a15c4d0fd33598f5169ba46f1058b44de755da8fb.png" data-orig-height="768" data-orig-width="1024"></figure><p>The rest of the weekend was focused on the wedding - which was phenomenal. The groomsman preparation was fun, the ceremony was moving, and the party was a blast!</p>

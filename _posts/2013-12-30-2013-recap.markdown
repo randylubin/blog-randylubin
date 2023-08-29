@@ -1,11 +1,12 @@
 ---
+title: 2013 Recap
+date: 2013-12-30 00:00:00 Z
+permalink: "/post/71609909624/2013-recap"
 layout: post
 template: post
-date: 2013-12-30
-title: "2013 Recap"
-permalink: /post/71609909624/2013-recap
-description: "2013 Recap"
+description: 2013 Recap
 ---
+
 It's been another great year! This post will be a quick summary of what I've been up and some highlights.
 
 ### Professional

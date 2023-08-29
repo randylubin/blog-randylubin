@@ -1,13 +1,12 @@
 ---
+title: 'Serious Games: Imagining Health Futures'
+date: 2021-01-30 16:30:53 Z
 layout: post
 template: post
-date: 2021-01-30 16:30:53 +0000
-tags: []
-title: 'Serious Games: Imagining Health Futures'
 description: An overview of the Imagining Health Future game designed by Randy Lubin
   and Jason Morningstar
-
 ---
+
 Last summer, [Jason Morningstar](https://bullypulpitgames.com/about/jason/) and I co-designed Imagining Health Futures, a game about the future of health and adolescence, in support of UNICEF's Office of Innovation. Here's a quick overview of the game and our design choices.
 
 Here are the quick links to the game resources:

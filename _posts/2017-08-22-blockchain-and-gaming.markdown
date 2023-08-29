@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2017-08-22
+title: Blockchain and Gaming
+date: 2017-08-22 00:00:00 Z
+permalink: "/post/164490254538/blockchain-and-gaming"
 tags:
 - blockchain
 - gaming
 - ethereum
-title: "Blockchain and Gaming"
-permalink: /post/164490254538/blockchain-and-gaming
-description: "Blockchain and Gaming"
+layout: post
+template: post
+description: Blockchain and Gaming
 ---
+
 <p>I’ve been exploring blockchain opportunities and which blockchain startups might make sense to found today. One of the sectors I’m intrigued by is gaming, partly because I love playing and making games and partly because gamers are early adopters. This post will look at some of the ways blockchain is already being used by game companies and some way it might be used in the future.<br></p><p>I’ll break it down by use case:</p><ul><li>Currencies</li>
 <li>Virtual Goods</li>
 <li>Gameplay on the Blockchain</li>

@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-03-31
+title: Hiking in Marin
+date: 2014-03-31 00:00:00 Z
+permalink: "/post/81268956931/hiking-in-marin"
 tags:
 - hiking
-title: "Hiking in Marin"
-permalink: /post/81268956931/hiking-in-marin
-description: "Hiking in Marin"
+layout: post
+template: post
+description: Hiking in Marin
 ---
+
 Today I went hiking in Marin and took lots of pictures. It was an awesome day. We did a 7 mile loop with a 1,600 foot climb. The route started in Stinson Beach, went up Matt Davis Trail to Pantoll campground (we ate lunch along the way), down Steep Ravine Trail, and out the Dipsea trail back to Stinson - I highly recommend it!
 
 Here are some of the photos in chronological order.

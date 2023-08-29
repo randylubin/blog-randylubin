@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2017-05-15
+title: Leaving Plethora
+date: 2017-05-15 00:00:00 Z
+permalink: "/post/160675920613/leaving-plethora"
 tags:
 - plethora
 - farewell
-title: "Leaving Plethora"
-permalink: /post/160675920613/leaving-plethora
-description: "Leaving Plethora"
+layout: post
+template: post
+description: Leaving Plethora
 ---
+
 <p>I’ve just left <a href="https://www.plethora.com/">Plethora</a>&nbsp;after a great 15 months with the company. I’ll miss the team but I’m excited to watch them continue to grow and succeed at their mission.&nbsp;</p><h2>My Time at Plethora</h2><p>
 
 During my time there, I played a generalist role, tackling the biggest problems / opportunities the company faced.

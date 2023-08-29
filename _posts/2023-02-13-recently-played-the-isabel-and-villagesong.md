@@ -1,12 +1,11 @@
 ---
+title: 'Recently played: The Isabel and Villagesong'
+date: 2023-02-13 17:23:39 Z
 layout: post
 template: post
-date: 2023-02-13 17:23:39 +0000
-tags: []
-title: 'Recently played: The Isabel and Villagesong'
 description: A quick overview of my recent sessions of The Isabel and Villagesong
-
 ---
+
 This weekend, I played two new storytelling games with Raph and Nick and had a great time! Both are card driven games that effectively use prompts to support a specific type of storytelling.
 
 ![The Isabel being played at the table](/images/the-isabel.png)

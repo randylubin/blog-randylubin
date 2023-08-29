@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2013-12-16
+title: 'More Games: Android Netrunner, Love Letter, Hanabi, Tammany Hall'
+date: 2013-12-16 00:00:00 Z
+permalink: "/post/70175190531/more-games-android-netrunner-love-letter"
 tags:
 - board games
-title: "More Games: Android Netrunner, Love Letter, Hanabi, Tammany Hall"
-permalink: /post/70175190531/more-games-android-netrunner-love-letter
-description: "More Games: Android Netrunner, Love Letter, Hanabi, Tammany Hall"
+layout: post
+template: post
+description: 'More Games: Android Netrunner, Love Letter, Hanabi, Tammany Hall'
 ---
+
 Another month, another back of new games!
 
 ### [Android Netrunner](http://boardgamegeek.com/boardgame/124742/android-netrunner)

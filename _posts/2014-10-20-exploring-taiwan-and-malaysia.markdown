@@ -1,7 +1,7 @@
 ---
-layout: post
-template: post
-date: 2014-10-20
+title: Exploring Taiwan and Malaysia
+date: 2014-10-20 00:00:00 Z
+permalink: "/post/100482587718/exploring-taiwan-and-malaysia"
 tags:
 - taiwan
 - taipei
@@ -9,10 +9,11 @@ tags:
 - kualalumpur
 - magic
 - travel
-title: "Exploring Taiwan and Malaysia"
-permalink: /post/100482587718/exploring-taiwan-and-malaysia
-description: "Exploring Taiwan and Malaysia"
+layout: post
+template: post
+description: Exploring Taiwan and Malaysia
 ---
+
 I spent the past week exploring Taiwan and Malaysia and it was awesome! The main cause of the trip was [MaGIC Startup Academy](http://www.mymagic.my/magic-academy/) - a new startup training program in Malaysia that a friend started. She flew out a few friends and me to lecture at the opening bootcamp and Taiwan was a natural layover.
 
 ### Taiwan

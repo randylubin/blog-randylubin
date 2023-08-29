@@ -1,12 +1,11 @@
 ---
+title: Launching the Foresight Games community and website
+date: 2022-01-31 20:00:20 Z
 layout: post
 template: post
-date: 2022-01-31 20:00:20 +0000
-tags: []
-title: Launching the Foresight Games community and website
 description: Announcing a new site and community for practitioners of foresight games
-
 ---
+
 I'm in the process of building a website and community for games that explore the future. 
 
 We're still in the early days of foresight games being used within organizations. I think we'll see accelerating adoption in the coming years as we hear more success stories and see more games created. My aim is to encourage more organizations to incorporate foresight games into their work and to help more game designers succeed in the space.

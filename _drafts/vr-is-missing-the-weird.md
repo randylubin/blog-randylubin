@@ -1,13 +1,13 @@
 ---
-layout: post
-template: post
-date: 2020-01-23 19:07:57 +0000
+title: VR is Missing the Weird
+date: 2020-01-23 19:07:57 Z
 tags:
 - VR
-title: VR is Missing the Weird
+layout: post
+template: post
 description: ''
-
 ---
+
 When I bought the Oculus Quest back in June, I thought our VR future had arrived and that we are on the verge of mass adoption. Now I'm not so sure, and the limits have nothing to do with the hardware and everything to do with the platform's walled garden approach.
 
 # Initial Hopes

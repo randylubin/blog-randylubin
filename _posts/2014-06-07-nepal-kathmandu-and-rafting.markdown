@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2014-06-07
+title: 'Nepal: Kathmandu and Rafting'
+date: 2014-06-07 00:00:00 Z
+permalink: "/post/88051732848/nepal-kathmandu-and-rafting"
 tags:
 - nepal
 - kathmandu
 - travel
-title: "Nepal: Kathmandu and Rafting"
-permalink: /post/88051732848/nepal-kathmandu-and-rafting
-description: "Nepal: Kathmandu and Rafting"
+layout: post
+template: post
+description: 'Nepal: Kathmandu and Rafting'
 ---
+
 Our Nepal trip started in Pokhara and included amazing trekking in the Annapurna region (blogged about [here](http://blog.randylubin.com/post/87496937233/trekking-in-nepal-days-one-and-two) and [here](http://blog.randylubin.com/post/87768931128/trekking-in-nepal-days-three-and-four)).
 
 Having completed our trek, our next destination was Kathmandu. Originally, we planned to fly but then found a better option - rafting. We signed up for a few hour rafting trip with [Paddle Nepal](http://www.paddlenepal.com/) on the Trisuli River - half way between Pokhara and Kathmandu.

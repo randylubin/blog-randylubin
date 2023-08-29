@@ -1,11 +1,12 @@
 ---
+title: Welcome!
+date: 2010-06-29 00:00:00 Z
+permalink: "/post/748535080/why-blog"
 layout: post
 template: post
-date: 2010-06-29
-title: "Welcome!"
-permalink: /post/748535080/why-blog
-description: "Welcome!"
+description: Welcome!
 ---
+
 <p>Welcome to my personal blog.  I'm hoping to blog somewhat regularly but we'll see if that happens.</p>&#13;
 <p>The posts will be all over the place but here are some I'm considering:</p>&#13;
 <ul><li>Analysis of industry trends and events (mostly consumer web)</li>&#13;

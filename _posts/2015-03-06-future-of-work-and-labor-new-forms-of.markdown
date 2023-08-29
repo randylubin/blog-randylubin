@@ -1,7 +1,7 @@
 ---
-layout: post
-template: post
-date: 2015-03-06
+title: 'Future of Work and Labor: New Forms of Organization'
+date: 2015-03-06 00:00:00 Z
+permalink: "/post/112884228393/future-of-work-and-labor-new-forms-of"
 tags:
 - future of work
 - future of labor
@@ -9,10 +9,11 @@ tags:
 - organizations
 - startups
 - technology
-title: "Future of Work and Labor: New Forms of Organization"
-permalink: /post/112884228393/future-of-work-and-labor-new-forms-of
-description: "Future of Work and Labor: New Forms of Organization"
+layout: post
+template: post
+description: 'Future of Work and Labor: New Forms of Organization'
 ---
+
 This is the fourth post in my series on the future of work and labor. Here are the earlier posts:
 
 *   [Macro Trends](http://blog.randylubin.com/post/111157362883/the-future-of-work-and-labor-macro-trends)

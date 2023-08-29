@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-05-13
+title: 'Mexico City: Day 2'
+date: 2013-05-13 00:00:00 Z
+permalink: "/post/50319621005/mexico-city-day-2"
 tags:
 - mexico city
 - travel
-title: "Mexico City: Day 2"
-permalink: /post/50319621005/mexico-city-day-2
-description: "Mexico City: Day 2"
+layout: post
+template: post
+description: 'Mexico City: Day 2'
 ---
+
 Picking up where last post [left off](http://blog.randylubin.com/post/50214687346/mexico-city-day-1):
 
 The Argentina steak last night lived up to our expectations; it was amazing and sent us right to sleep.

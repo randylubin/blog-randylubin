@@ -1,11 +1,12 @@
 ---
+title: Building my own PC
+date: 2013-12-23 00:00:00 Z
+permalink: "/post/70876837493/building-my-own-pc"
 layout: post
 template: post
-date: 2013-12-23
-title: "Building my own PC"
-permalink: /post/70876837493/building-my-own-pc
-description: "Building my own PC"
+description: Building my own PC
 ---
+
 This weekend I built my own desktop computer. It was the first time I've every built my own PC and relied heavily on my friend Arend for help (thanks Arend!).
 
 It was a fun process but a bit stressful - it seemed like there were a million things that could go catastrophically wrong. This was my first practical exposure to computer hardware / electronics and it was interesting to learn about them more deeply.

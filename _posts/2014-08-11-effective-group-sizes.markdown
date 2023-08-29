@@ -1,11 +1,12 @@
 ---
+title: Effective Group Sizes
+date: 2014-08-11 00:00:00 Z
+permalink: "/post/94408643643/effective-group-sizes"
 layout: post
 template: post
-date: 2014-08-11
-title: "Effective Group Sizes"
-permalink: /post/94408643643/effective-group-sizes
-description: "Effective Group Sizes"
+description: Effective Group Sizes
 ---
+
 I recently was in a conversation about different effective group sizes. I brought up Falkvinge's (founder of the Pirate Party) book / manual 'Swarmwise' as commenting heavily on it. Here's a brief summary:
 
 Falkvinge identifies three magic group sizes : 7, 30, 150

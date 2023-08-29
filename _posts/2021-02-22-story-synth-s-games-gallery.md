@@ -1,13 +1,12 @@
 ---
+title: Story Synth's Games Gallery
+date: 2021-02-22 00:15:42 Z
 layout: post
 template: post
-date: 2021-02-22 00:15:42 +0000
-tags: []
-title: Story Synth's Games Gallery
 description: Story Synth now has a gallery where you can find and play great games
   on the platform.
-
 ---
+
 I just created a gallery page for Story Synth, check it out: [Story Synth Gallery](https://storysynth.org/Gallery/)
 
 ![](/images/screen-shot-2021-02-21-at-4-19-39-pm.png)

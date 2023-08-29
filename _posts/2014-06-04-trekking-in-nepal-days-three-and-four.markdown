@@ -1,16 +1,17 @@
 ---
-layout: post
-template: post
-date: 2014-06-04
+title: Trekking in Nepal (Days Three and Four)
+date: 2014-06-04 00:00:00 Z
+permalink: "/post/87768931128/trekking-in-nepal-days-three-and-four"
 tags:
 - nepal
 - trekking
 - annapurna
 - travel
-title: "Trekking in Nepal (Days Three and Four)"
-permalink: /post/87768931128/trekking-in-nepal-days-three-and-four
-description: "Trekking in Nepal (Days Three and Four)"
+layout: post
+template: post
+description: Trekking in Nepal (Days Three and Four)
 ---
+
 Following from [Days One and Two](http://blog.randylubin.com/post/87496937233/trekking-in-nepal-days-one-and-two)
 
 ### Trekking Day Three: Ghorepani to Ghandruk

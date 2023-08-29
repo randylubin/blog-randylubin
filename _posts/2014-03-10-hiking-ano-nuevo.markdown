@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-03-10
+title: Hiking Ano Nuevo
+date: 2014-03-10 00:00:00 Z
+permalink: "/post/79142421782/hiking-ano-nuevo"
 tags:
 - hiking
-title: "Hiking Ano Nuevo"
-permalink: /post/79142421782/hiking-ano-nuevo
-description: "Hiking Ano Nuevo"
+layout: post
+template: post
+description: Hiking Ano Nuevo
 ---
+
 Today I went hiking at [Ano Nuevo State Park](http://www.parks.ca.gov/?page_id=523) and it was great!
 
 ![](/images/d12888f31ddaa418d2b1e37c782f3469d4e7dc5c899066787271085c792b203e.jpg)

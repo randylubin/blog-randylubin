@@ -1,11 +1,12 @@
 ---
+title: 'Level Up: Intermediate Programmer'
+date: 2012-03-02 00:00:00 Z
+permalink: "/post/18617696504/level-up-intermediate-programmer"
 layout: post
 template: post
-date: 2012-03-02
-title: "Level Up: Intermediate Programmer"
-permalink: /post/18617696504/level-up-intermediate-programmer
-description: "Level Up: Intermediate Programmer"
+description: 'Level Up: Intermediate Programmer'
 ---
+
 <p>I started learning computer science / programming a year ago (December 2010).  This past week, I've built two very different web apps and everything is clicking.</p>&#13;
 <p>I'll write more posts on the apps when I launch them but one enables people to give away cool product/app/website ideas and the other (in collaboration with <a href="http://www.chrismaury.com" target="_blank">Chris Maury</a>) is a data visualizer for Reddit users (shows them what subreddits give them the most Karma).</p>&#13;
 <p>I built both projects in Node.JS and used these other tools:</p>&#13;

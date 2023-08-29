@@ -1,9 +1,10 @@
 ---
+title: Searching for leveraged ways to fight
+date: 2017-01-30 00:00:00 Z
+permalink: "/post/156570766718/searching-for-leveraged-ways-to-fight"
 layout: post
 template: post
-date: 2017-01-30
-title: "Searching for leveraged ways to fight"
-permalink: /post/156570766718/searching-for-leveraged-ways-to-fight
-description: "Searching for leveraged ways to fight"
+description: Searching for leveraged ways to fight
 ---
+
 <p>Like almost everyone I know, I’m frightened by the new regime and the harm it intends for so many vulnerable innocents. I’m trying to figure out how I can best aid the resistance.</p><p>It’s been heartening to see the organized resistance over the past few weeks: the Women’s march last weekend and the airport protests today and yesterday. I’m sure we’ll see a lot more and, though I’m not a protest guy, I might attend a few.</p><p>I’m struggling to figure out how I want to get involved. My general approach is to look for the point of highest leverage: what can I build that empowers many others to have a larger impact.</p><p>A year and a half ago, two friends and I&nbsp;<a href="http://blog.randylubin.com/post/124417803773/launching-democracyio">launched</a> <a href="https://democracy.io/">Democracy.io</a>&nbsp;and the EFF agreed to promote and maintain it. Democracy.io enables you to easily message your senators and representatives in congress. I was proud to create a tool that empowers folks to engage with our civic institutions.</p><p>Since the election, we’ve seen a huge increase in folks asking for API access so they can contact congress and protest the new regime. It feels great but now I want to do more.</p><p>I’m looking for new tools or platforms to build that can empower resistance or activism. It might be something reactive to specific executive orders or proactive to organize and enable direct action.</p><p>Another avenue might be using my experience around game design and storytelling to create new games or experiences that build empathy and understanding across disparate communities.</p><p>If you have any suggestions, please send them my way!</p>

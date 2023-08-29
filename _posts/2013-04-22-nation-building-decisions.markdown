@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-04-22
+title: 'Nation Building: Decisions'
+date: 2013-04-22 00:00:00 Z
+permalink: "/post/48596319498/nation-building-decisions"
 tags:
 - nation building
 - game design
-title: "Nation Building: Decisions"
-permalink: /post/48596319498/nation-building-decisions
-description: "Nation Building: Decisions"
+layout: post
+template: post
+description: 'Nation Building: Decisions'
 ---
+
 Short update today. I haven't been putting in nearly as much time as I'd like into Nation Building.
 
 This week I built the guts of the Player Decision engine. This allows me to present a decision to the player and have them choose among multiple choices.

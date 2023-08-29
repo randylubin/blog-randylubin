@@ -1,11 +1,12 @@
 ---
-layout: post
-template: post
-date: 2015-09-21
+title: Tour of the SF Mead Company
+date: 2015-09-21 00:00:00 Z
+permalink: "/post/129544789153/tour-of-the-sf-mead-company"
 tags:
 - mead
-title: "Tour of the SF Mead Company"
-permalink: /post/129544789153/tour-of-the-sf-mead-company
-description: "Tour of the SF Mead Company"
+layout: post
+template: post
+description: Tour of the SF Mead Company
 ---
+
 <p>Earlier today I toured the <a href="http://www.sfmead.com/">San Francisco Mead Company</a>. It’s been around for a few years and is located in Bayview. Mead is made from fermented honey, sometimes mixed with juice.</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/ccf7205dd7a4250f07737a144d69efe52abfa4748b265bcd7ffab184b4b737d2.png" data-orig-height="768" data-orig-width="1024"></figure><p>We started out by trying some of the mead. My favorite was the California Gold, though all the varieties were tasty. They had a coffee Mead (cold brewed with Ritual coffee that was very interesting.</p><p>Next we toured the facility - SF Mead Company is run out of a small warehouse. We tasted some raw honey and it was delicious.</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/f70311a19cf2c3ebcce3f3fa2a3e15f892fb15a2adb7034ea43bae4ad2ddb4a7.png" data-orig-height="768" data-orig-width="1024"></figure><p>We then saw the vats where the new batch was fermenting and tried some very young mead that had only been in there for a few days - it tasted like apple juice.</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/6d032790b1a2a40c49c3575bad007ebbc5145e18317caaafe8caf9ab3d6e07ef.png" data-orig-height="768" data-orig-width="1024"></figure><p>We also tasted some of the mead aging in in steel drums. The mead usually ages one to three years. There was a delicious blackberry mead that was a few years old.</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/288133e2b41db89f6ca4d62cf2654567b2a93a48ce7f55ef4a2d9c7563109189.png" data-orig-height="768" data-orig-width="1024"></figure><p>Overall it was a fun tour and I learned a bit more about mead. They’re open to the public every Saturday afternoon if you want to check it out.</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/d1728f5e4ab1a14fe7612aec915754e399c44f28e7fbade8ff97272e08d45cdd.png" data-orig-height="768" data-orig-width="1024"></figure>

@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2012-11-18
+title: Off to Japan
+date: 2012-11-18 00:00:00 Z
+permalink: "/post/35972468634/off-to-japan"
 tags:
 - japan
-title: "Off to Japan"
-permalink: /post/35972468634/off-to-japan
-description: "Off to Japan"
+layout: post
+template: post
+description: Off to Japan
 ---
+
 <p>It's Thanksgiving in a few days so naturally I'm off to Japan!</p>&#13;
 <p>My roommate Adam scored some cheap tickets so we're setting off tomorrow for a week-long trip.</p>&#13;
 <p>Our schedule is almost totally inchoate but we're flying into Tokyo and out of Osaka. Along the way we might drop by:</p>&#13;

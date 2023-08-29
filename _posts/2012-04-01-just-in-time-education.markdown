@@ -1,11 +1,12 @@
 ---
+title: Just-in-time Education
+date: 2012-04-01 00:00:00 Z
+permalink: "/post/20303102731/just-in-time-education"
 layout: post
 template: post
-date: 2012-04-01
-title: "Just-in-time Education"
-permalink: /post/20303102731/just-in-time-education
-description: "Just-in-time Education"
+description: Just-in-time Education
 ---
+
 <p>In a world with accelerating change, we need a flexible education system which enables people to learn new concepts and skills on demand. In The Matrix, the&nbsp;characters&nbsp;download skills directly into their brains. &nbsp;I've thought about a more realistic method, but first a little history.</p>
 <p><iframe frameborder="0" height="315" src="http://www.youtube.com/embed/6vMO3XmNXe4" width="420"></iframe></p>
 <p>Just-in-time is a production strategy made popular by Toyota as part of their lean manufacturing&nbsp;philosophy. &nbsp;This gist is that parts are only delivered to a plant immediately before they are needed. &nbsp;This enables plants to rapidly change the types of goods produced, to facilitate mass customization, and to avoid the costs of maintaining high inventory levels.</p>

@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2014-02-10
+title: Web Audio - early results
+date: 2014-02-10 00:00:00 Z
+permalink: "/post/76203495016/web-audio-early-results"
 tags:
 - coding
 - webaudio
 - programming
-title: "Web Audio - early results"
-permalink: /post/76203495016/web-audio-early-results
-description: "Web Audio - early results"
+layout: post
+template: post
+description: Web Audio - early results
 ---
+
 As per [my last post](http://blog.randylubin.com/post/75460203979/experimenting-with-html5-web-audio), I've been playing with WebAudio. So far I've been loving it - the API is very powerful and there are some great tutorials around the web.
 
 I've made two little things so far. Both experiments use the WebAudio APIs (should work on everything - including mobile - except IE) - they also use Angular.js and [Easel.js](http://www.createjs.com/#!/EaselJS) (a great library for interacting with HTML5 Canvas.

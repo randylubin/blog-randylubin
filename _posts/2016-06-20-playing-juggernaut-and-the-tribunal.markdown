@@ -1,12 +1,13 @@
 ---
-layout: post
-template: post
-date: 2016-06-20
+title: Playing Juggernaut and The Tribunal
+date: 2016-06-20 00:00:00 Z
+permalink: "/post/146193741793/playing-juggernaut-and-the-tribunal"
 tags:
 - larp
 - games
-title: "Playing Juggernaut and The Tribunal"
-permalink: /post/146193741793/playing-juggernaut-and-the-tribunal
-description: "Playing Juggernaut and The Tribunal"
+layout: post
+template: post
+description: Playing Juggernaut and The Tribunal
 ---
+
 <p>I recently got to try a new type of storytelling / gaming: Parlor LARP (or Theater LARP). These games have the players staying in character for a few hours and interacting with each other. It’s sort of like serious improv theater without an audience. The two games I tried were <a href="http://bullypulpitgames.com/games/juggernaut/">Juggernaut</a> and <a href="https://nordiclarp.org/wiki/The_Tribunal">The Tribunal</a>.</p><h2>Juggernaut</h2><p>The first Parlor LARP I tried was Juggernaut, written by Jason Morningstar, the creator of Fiasco. In this game, five players took on the roles of scientists and government employees at the debut of a new super computer that can supposedly predict the future; it’s also set in 1950 at the start of the Korean War.</p><p>The only components are a deck of predictions that represent the computer. At any time, a player can pull a prediction from the top of the deck; that prediction must come true by the end of the game. The game end when all of the predictions have been read.</p><p>I played a politician that was extremely skeptical of the computer and suspected the results were rigged. As the game went on, I was slowly won over and had to wrestle with some harrowing predictions. The game lasted two or three hours and it was a blast. I haven’t done any length of acting in a long time and it was really fun to take on a role. It was also a fun challenge to figure out how to make the predictions come true and set up the other players for interesting moments.</p><h2>The Tribunal</h2><p>This game was a bit larger - we had 9 players and a facilitator. There was about 30 minutes of warm up exercises and then 90 minutes of actual play. The premise: we’re privates in an army unit and about to testify before a tribunal - two members of our unit are accused of stealing bread, a crime punishable by death. We know they didn’t commit the crime (they were with us at the time) but the corrupt tribunal needs a scapegoat. If everyone provides the same alibi, we might be able to save the innocent but not everyone wants to see that happen. We had 90 minutes to get our story straight before testifying one at a time, in private.&nbsp;The stakes were incredibly high - if we contradicted each other, our necks might be on the line.</p><p>It played out a bit like 12 Angry Men, some characters were opposed to exonerating the innocent and others weren’t willing to lie (the truth might not be enough). Over the course of the game, we overcame objections and agreed with a plausible story.</p><p>At the end, we were pulled out of the room one at a time to testify. I was toward the end and it was incredibly tense as our group got smaller - we had no clue if the initial characters had stuck to the agreed upon story.</p><p>The Tribunal was a very fun experience and I enjoyed the drama and tension of the setup. With 9 players, interesting group dynamics emerged as we talked together and then split into smaller groups only to reform later.</p><h2>Final Thoughts</h2><p>I’m glad I’ve had a chance to check out this style of storytelling - acting is a lot of fun and it’s been missing from my life for a while. I’m also intrigued by the ability of Parlor LARPs to build empathy for people in drastically different situations. I’m keen to try out some more and I’ll probably try to write one at some point. Definitely check these out if you’re curious - Juggernaut seems like a great one for beginners.</p>

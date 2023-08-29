@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2013-01-04
+title: 2012 Recap
+date: 2013-01-04 00:00:00 Z
+permalink: "/post/39671408702/2012-recap"
 tags:
 - recap
-title: "2012 Recap"
-permalink: /post/39671408702/2012-recap
-description: "2012 Recap"
+layout: post
+template: post
+description: 2012 Recap
 ---
+
 2012 has been a crazy, awesome year. I joined and sold a company, took my coding to the next level, and finally got hooked on blogging.
 
 ### Meetings.io

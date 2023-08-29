@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-04-01
+title: Update on Nation Builder
+date: 2013-04-01 00:00:00 Z
+permalink: "/post/46828584882/update-on-nation-builder"
 tags:
 - nation building
 - game design
-title: "Update on Nation Builder"
-permalink: /post/46828584882/update-on-nation-builder
-description: "Update on Nation Builder"
+layout: post
+template: post
+description: Update on Nation Builder
 ---
+
 After a several week break, I finally returned to coding Nation Builder. I only logged a few hours this weekend but I'm hoping to pick up the pace and maybe post an hour or two per night.
 
 I've decided to put the current pre-alpha online. Disclaimer: it's not really a game yet - there's no winning, there's no balance, and it's missing some key elements in the game loop. I just though it'd be nice to post what I've written so far.

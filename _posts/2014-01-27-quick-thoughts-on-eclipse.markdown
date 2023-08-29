@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-01-27
+title: Quick thoughts on Eclipse
+date: 2014-01-27 00:00:00 Z
+permalink: "/post/74703791524/quick-thoughts-on-eclipse"
 tags:
 - board games
-title: "Quick thoughts on Eclipse"
-permalink: /post/74703791524/quick-thoughts-on-eclipse
-description: "Quick thoughts on Eclipse"
+layout: post
+template: post
+description: Quick thoughts on Eclipse
 ---
+
 Today I played a board game called [Eclipse](http://www.boardgamegeek.com/boardgame/72125/eclipse) for the first time in ages.
 
 ![](/images/380c4114aee009200aaf5d316c3290e0ddfd6b0e21befba536c94536e7116bc0.jpg)

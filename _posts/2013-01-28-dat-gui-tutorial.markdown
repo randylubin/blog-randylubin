@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2013-01-28
+title: Dat-GUI Tutorial
+date: 2013-01-28 00:00:00 Z
+permalink: "/post/41673541855/dat-gui-tutorial"
 tags:
 - programming
-title: "Dat-GUI Tutorial"
-permalink: /post/41673541855/dat-gui-tutorial
-description: "Dat-GUI Tutorial"
+layout: post
+template: post
+description: Dat-GUI Tutorial
 ---
+
 This post will empower you to easily use [Dat-GUI](https://code.google.com/p/dat-gui/) to quickly iterate on your web design.
 
 ![](/images/94c31fdcfe9fed965a9d9b56d9f94fe79adc122cd9ce1a77de1b20a2f84e3d59.png)

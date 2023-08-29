@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-09-06
+title: Plotypus Development Process
+date: 2014-09-06 00:00:00 Z
+permalink: "/post/96741460723/plotypus-development-process"
 tags:
 - plotypus
 - game design
-title: "Plotypus Development Process"
-permalink: /post/96741460723/plotypus-development-process
-description: "Plotypus Development Process"
+layout: post
+template: post
+description: Plotypus Development Process
 ---
+
 _Update: I've launched the game at [Plotypus.com](http://plotypus.com/) and am [taking orders](https://docs.google.com/forms/d/11JkmwRjOYLij3mYyOxODymbVG3jB3fj5bhIpfKU5QB8/viewform?usp=send_form) for a limited time._
 
 [Plotypus](http://plotypus.com/), the collaborative storytelling card game, is almost ready for launch. I'm doing one final design tweak and then I'll be sharing the files online. For updates, please [subscribe to the mailing list](http://plotypus.us9.list-manage1.com/subscribe?u=e4f0b45dd4eb576171853a903&id=0a9e661929).

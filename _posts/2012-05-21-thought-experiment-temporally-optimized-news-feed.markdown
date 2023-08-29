@@ -1,11 +1,12 @@
 ---
+title: 'Thought Experiment: Temporally Optimized News Feed'
+date: 2012-05-21 00:00:00 Z
+permalink: "/post/23471531730/thought-experiment-temporally-optimized-news-feed"
 layout: post
 template: post
-date: 2012-05-21
-title: "Thought Experiment: Temporally Optimized News Feed"
-permalink: /post/23471531730/thought-experiment-temporally-optimized-news-feed
-description: "Thought Experiment: Temporally Optimized News Feed"
+description: 'Thought Experiment: Temporally Optimized News Feed'
 ---
+
 <h3>Some Context</h3>&#13;
 <p>I consume a lot of news online, mostly through Google Reader. The blogs I follow (mostly tech) generate roughly 200 posts on weekdays - I read every headline and then end up reading or skimming roughly 25% of the posts. It's a lot of content and that doesn't include opening a Hacker News / Reddit tab or flipping through the New York Times.</p>&#13;
 <p>First thing in the morning and last thing at night I'll go through Google Reader. I'll check in a few times throughout the day and clear out the new posts. It's relatively under control (i.e. I'm not compulsively checking it every few minutes).</p>&#13;

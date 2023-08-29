@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-10-07
+title: 'Weekend Project: Acting Karaoke'
+date: 2013-10-07 00:00:00 Z
+permalink: "/post/63355220714/weekend-project-acting-karaoke"
 tags:
 - programming
 - projects
-title: "Weekend Project: Acting Karaoke"
-permalink: /post/63355220714/weekend-project-acting-karaoke
-description: "Weekend Project: Acting Karaoke"
+layout: post
+template: post
+description: 'Weekend Project: Acting Karaoke'
 ---
+
 This weekend I built a web app that allows you to act out scenes from movies over video chat. Sort of like karaoke but for acting.
 
 ![](/images/2bd8ba6735bc0a16f99ef6c61243199e8824bbcecb89304756e66ff179972dcc.png)

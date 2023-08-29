@@ -1,12 +1,11 @@
 ---
+title: Gaming Like It's 1926
+date: 2022-01-01 21:57:03 Z
 layout: post
 template: post
-date: 2022-01-01 21:57:03 +0000
-tags: []
-title: Gaming Like It's 1926
 description: ''
-
 ---
+
 ![](/images/1926-game-jam-logo-rockwell.png)
 
 It's a new year and that means a new round of works entering the public domain!

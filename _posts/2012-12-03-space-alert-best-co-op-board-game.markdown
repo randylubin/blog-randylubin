@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2012-12-03
+title: Space Alert - Best co-op board game?
+date: 2012-12-03 00:00:00 Z
+permalink: "/post/37102233053/space-alert-best-co-op-board-game"
 tags:
 - board games
-title: "Space Alert - Best co-op board game?"
-permalink: /post/37102233053/space-alert-best-co-op-board-game
-description: "Space Alert - Best co-op board game?"
+layout: post
+template: post
+description: Space Alert - Best co-op board game?
 ---
+
 <p>Roommate <a href="http://chrismaury.com/">Chris Maury</a> recently grabbed the board game <a href="http://www.boardgamegeek.com/boardgame/38453/space-alert">Space Alert</a> for his birthday and it just might be the most fun board game I've ever played.</p>&#13;
 <p>The general concept is that the players on crew on a space mission and need to survive for 10 minutes. The style is cooperative - everyone works together and you win or lose as a group.</p>&#13;
 <p>The 10 minutes are played out in real time and there is an MP3 describing everything that goes wrong: alien attacks, malfunctions, intruders, etc. The players than have to run around the ship and take action by playing cards from their hands.</p>&#13;

@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-04-07
+title: Technology and the Fungibility of Capitals
+date: 2014-04-07 00:00:00 Z
+permalink: "/post/81967999942/technology-and-the-fungibility-of-capitals"
 tags:
 - capital
 - technology
-title: "Technology and the Fungibility of Capitals"
-permalink: /post/81967999942/technology-and-the-fungibility-of-capitals
-description: "Technology and the Fungibility of Capitals"
+layout: post
+template: post
+description: Technology and the Fungibility of Capitals
 ---
+
 Technology is making the myriad forms of [Capital](http://en.wikipedia.org/wiki/Capital_(economics)) more fungible, resulting in new arbitrage opportunities for individuals and organizations. I’m referring to types of Capital such as Financial, Physical (equipment), Natural (land / ecology based), Social (reputation, [guanxi](http://en.wikipedia.org/wiki/Guanxii)),  Intellectual (processes, data, relationships, inside firms) and Human (skill / talent). This essay will explore how they’re becoming more fungible (with themselves and each other) and what that might mean for society. I will stick primarily to Financial, Social, and Human capital and mostly from an individual’s point of view (rather than a corporation).
 
 ###Financial Capital

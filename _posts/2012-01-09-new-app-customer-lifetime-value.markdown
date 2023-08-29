@@ -1,11 +1,12 @@
 ---
+title: 'New App: Customer Lifetime Value'
+date: 2012-01-09 00:00:00 Z
+permalink: "/post/15575039202/new-app-customer-lifetime-value"
 layout: post
 template: post
-date: 2012-01-09
-title: "New App: Customer Lifetime Value"
-permalink: /post/15575039202/new-app-customer-lifetime-value
-description: "New App: Customer Lifetime Value"
+description: 'New App: Customer Lifetime Value'
 ---
+
 <p>I just built a new web app: <a href="http://randylubin.com/customer_lifetime_value" title="Customer Lifetime Value" target="_blank">Customer Lifetime Value</a></p>&#13;
 <p>It was a good excuse to refine my jQuery skills and talk about an important metric: Customer Lifetime Value.</p>&#13;
 <p>Gross LTV measures how much profit a single customer will contribute over the course of their life with the company.  Net LTV is equal to Gross LTV minus the cost of acquiring the customer (e.g. through Adwords).  If Net LTV is negative, the business will lose money... even at scale.</p>&#13;

@@ -1,9 +1,10 @@
 ---
+title: Big Bad Con
+date: 2015-10-19 00:00:00 Z
+permalink: "/post/131473456603/big-bad-con"
 layout: post
 template: post
-date: 2015-10-19
-title: "Big Bad Con"
-permalink: /post/131473456603/big-bad-con
-description: "Big Bad Con"
+description: Big Bad Con
 ---
+
 <p>This weekend I attended <a href="http://www.bigbadcon.com/">BigBadCon</a>, an annual game convention in Oakland. I had a great time and got to play a few different games.</p><p>On Saturday morning, I played&nbsp;‘Dr. Singularity’ an Apocalypse World game set in a post-singularity world. I had played plenty of derivatives of Apocalypse World but never the original. I like it well enough but I think the remixes have refined the system a lot - I’m partial to Dungeon World. Our story was pretty crazy and involved stopping the Kurzweilian Cult from doing malevolent things with their pet AI.</p><p>On Saturday afternoon, I played in a crazy experiment that had four different games going on simultaneously in a shared world. The game used FATE as its system. I hadn’t used FATE before and overall I thought it just so-so; I liked the abstraction of the characters into attributes and stunts but I didn’t love the dice mechanic. The idea of having four tables / games share a world was great in theory but was a little too chaotic in practice. A lot of the game / story was emergent and it felt like the players were out pacing the facilitators and they were scrambling to keep up.</p><p>This morning I played <a href="http://www.bullypulpitgames.com/games/night-witches/">Night Witches</a>&nbsp;an RPG based on the true story of Soviet women who flew bombing raids in rickety old biplanes during World War II. The setting and story were great, we had an excellent GM and I had a blast. The mechanics were pretty cool, too - we alternated between nights where we would go on raids and days when we would recover and prepare for the next night. This game was my favorite from the weekend and I’d definitely play it again.</p><p>Finally, this afternoon I dropped in on a game of D&amp;D 5th Edition - this was my first time playing it as a player - I GMed a campaign of it last winter. The adventure was a pretty straight forward heist in the vein of Ocean’s Eleven. There was some social manipulation, some disabling traps, and a good deal of combat. Overall enjoyable, but the combat dragged on for longer than I’d like. I still like D&amp;D 5th as a system but only if the combat is kept quick and punchy. It’s up to the GM and the players to keep up the cadence.</p><p>The weekend was a lot of fun and I’m glad I got to try out some games and systems that I hadn’t experienced before. I also had some great conversations with fellow game designers. I’d definitely go again next year.</p>

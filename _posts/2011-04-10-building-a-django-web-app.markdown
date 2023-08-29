@@ -1,11 +1,12 @@
 ---
+title: Building a Django Web App
+date: 2011-04-10 00:00:00 Z
+permalink: "/post/4484951008/building-a-django-web-app"
 layout: post
 template: post
-date: 2011-04-10
-title: "Building a Django Web App"
-permalink: /post/4484951008/building-a-django-web-app
-description: "Building a Django Web App"
+description: Building a Django Web App
 ---
+
 <p>Over spring break I taught myself Django/Python and created a full web app: BrainTrust (currently offline)</p>&#13;
 <p>The site isn't pretty, and has fewer features than I'd like, but it works and includes:</p>&#13;
 <ul><li>User Accounts and Registration</li>&#13;

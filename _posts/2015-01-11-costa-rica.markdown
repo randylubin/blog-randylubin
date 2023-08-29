@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2015-01-11
+title: Costa Rica
+date: 2015-01-11 00:00:00 Z
+permalink: "/post/107811595428/costa-rica"
 tags:
 - travel
 - costa rica
-title: "Costa Rica"
-permalink: /post/107811595428/costa-rica
-description: "Costa Rica"
+layout: post
+template: post
+description: Costa Rica
 ---
+
 I was lucky enough to spend the first week of 2015 in Costa Rica with my family. 
 
 ![](/images/446b12e3e449e760a2339b776b5a7319dad6069e28e2f90869548c8e1c234bd1.jpg)

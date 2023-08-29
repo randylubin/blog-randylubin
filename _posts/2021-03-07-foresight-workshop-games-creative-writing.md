@@ -1,13 +1,12 @@
 ---
+title: 'Foresight Workshop: Games + Creative Writing'
+date: 2021-03-07 19:35:06 Z
 layout: post
 template: post
-date: 2021-03-07 19:35:06 +0000
-tags: []
-title: 'Foresight Workshop: Games + Creative Writing'
 description: An overview of the workshops I've done that involve collaborative worldbuilding
   games and creative writing exercises
-
 ---
+
 Both storytelling games and science fiction writing are activities that let us explore possible futures and can inspire bold actions to change the world for the better. So far this year, I've run two workshops that combine storytelling and creative writing to imagine positive futures and they've been a lot of fun!
 
 The workshops had about 15 participants each and ran for about two hours over Zoom. I ran the first one for [Beyond Return](https://beyondreturn.org/) and the second for the Foresight Institute's [Existential Hope](https://foresight.org/existential-hope/) program, where I brought in Mike Masnick to run the event with me. I'm deeply grateful that they asked me to run the events and that they brought wonderful participants.

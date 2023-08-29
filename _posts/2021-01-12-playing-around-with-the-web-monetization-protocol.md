@@ -1,13 +1,12 @@
 ---
+title: Playing around with the Web Monetization Protocol
+date: 2021-01-12 22:29:14 Z
 layout: post
 template: post
-date: 2021-01-12 22:29:14 +0000
-tags: []
-title: Playing around with the Web Monetization Protocol
 description: An overview of how and why I enabled the Web Monetization Protocol on
   my sites.
-
 ---
+
 _Originally posted_ [_on Twitter_](https://twitter.com/randylubin/status/1335982410345840640)_, lightly edited for this post._
 
 I've been playing around with the new Web Monetization Protocol (WMP) and it's been super fun and interesting. Here's a quick overview of WMP and my experience adding it to my sites.

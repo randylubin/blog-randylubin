@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2016-01-14
+title: Bangalore and PNgrowth
+date: 2016-01-14 00:00:00 Z
+permalink: "/post/137303711248/bangalore-and-pngrowth"
 tags:
 - bangalore
 - pngrowth
 - india
 - travel
 - startups
-title: "Bangalore and PNgrowth"
-permalink: /post/137303711248/bangalore-and-pngrowth
-description: "Bangalore and PNgrowth"
+layout: post
+template: post
+description: Bangalore and PNgrowth
 ---
+
 <p>After a great week and a half in <a href="http://blog.randylubin.com/post/136366873888/eating-our-way-through-shanghai">Shanghai</a> and Sri Lanka (<a href="http://blog.randylubin.com/post/136518656368/sri-lanka-part-one-colombo-kandy-sigiriya">part one</a>, <a href="http://blog.randylubin.com/post/136655988373/sri-lanka-part-2-ella-uda-walawe-galle">two</a>), I flew to Bangalore. The main purpose of my trip was helping with <a href="http://www.pngrowth.com/">PNgrowth</a>:&nbsp;an intense three day conference for early-stage Indian startups who were just starting to scale.</p><figure class="tmblr-full" data-orig-height="697" data-orig-width="1024"><img src="/images/4cca08fab2c49b3a84d6027349097199a26705e8ac4661db0e2c895d069aac3c.png" data-orig-height="697" data-orig-width="1024"></figure><p>This was my second time in India, after living there in June 2014 for Innovate Delhi. It was good to be back, and Bangalore was a huge improvement on Delhi; the weather was great, much like San Francisco, and the pollution wasn’t nearly as bad. I had some great food and it didn’t make me sick!</p><p>Unfortunately I didn’t get a lot of time to explore the city - there was a lot of prep work before the conference started. I focused on content for the talks and created the slides. It was fun working with the team from Innovate Delhi again and we had some new team members who were also awesome. From the US, we had a core team from Stanford and Duke and in India we had <a href="http://www.ispirt.in/">iSPIRIT</a> as a phenomenal partner. In addition, we had 15 amazing volunteers from the Indian ecosystem, all successful and incredibly sharp entrepreneurs and investors; it was fun to hear their stories and get their perspectives.</p><p>We held the conference at the Infosys campus in Mysore, a sprawling 350-acre complex that had great facilities - a huge step up from the IIIT campus in Delhi. Our&nbsp;‘students’ were 180 founders who all had some degree of product/market fit and many had early revenue. The curriculum had four main parts:<br></p><ul><li>Vision, Goals, and Scope<br></li><li>Competitive Advantage</li><li>Leveraging the Ecosystem</li><li>Action Plan</li></ul><p>The program was very well received - a few people mentioned that this might have been the best startup conference run in India. We provided a lot of tough feedback for the founders and many are making significant changes to their strategies. We’ll be tracking all the attendees to see how their startups succeed and will likely do a followup event at some point.</p><p>After the conference, I had a chance to explore Bangalore a little. The highlight was a walk through Cubbon Park, a large green space in the center of the city.</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/ef0f87ed9614886e0d4de337e1c12718cf84d15f80de2761969202f42d368f59.png" data-orig-height="768" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/dab860cae0bfa1c651e0d59e54ed5f9b11eae8900f491399aaaa030469193b2b.png" data-orig-height="768" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/4b6b470411344d40dd87fae0d81e8a9648f327318adf20afe32a3e50f623ed9a.png" data-orig-height="768" data-orig-width="1024"></figure><p>I then began the long journey home. It took me about 50 hours, including a 20 hour layover in Sri Lanka, which I spent in a beach town near the airport. Exhausting, but still worth the trip!</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/4185edaaaf419d72834b21a35a1884f423f6bec104b723163132c33b4abc9f14.png" data-orig-height="768" data-orig-width="1024"></figure>

@@ -1,11 +1,12 @@
 ---
+title: Experimenting with HTML5 Web Audio
+date: 2014-02-03 00:00:00 Z
+permalink: "/post/75460203979/experimenting-with-html5-web-audio"
 layout: post
 template: post
-date: 2014-02-03
-title: "Experimenting with HTML5 Web Audio"
-permalink: /post/75460203979/experimenting-with-html5-web-audio
-description: "Experimenting with HTML5 Web Audio"
+description: Experimenting with HTML5 Web Audio
 ---
+
 I've been keeping an eye on HTML5's Web Audio API for a while now. The API allows for easy audio synthesis and manipulation in the browser without any plugins (e.g. Flash). When I first started learning about Web Audio, it wasn't available on Chrome - I held back on tinkering because I like easily sharing my projects. Chrome now enables the full Web Audio API.
 
 I'm most excited about the ability to create oscillators (simple tones) extremely easily. You can synthesize music on demand with no need to pre-create music files for each note / tone.

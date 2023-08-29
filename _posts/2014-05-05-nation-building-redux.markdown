@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-05-05
+title: Nation Building Redux
+date: 2014-05-05 00:00:00 Z
+permalink: "/post/84806005103/nation-building-redux"
 tags:
 - nation building
 - game design
-title: "Nation Building Redux"
-permalink: /post/84806005103/nation-building-redux
-description: "Nation Building Redux"
+layout: post
+template: post
+description: Nation Building Redux
 ---
+
 About this time last year I was working on a game called Nation Building. Inspired by [The Origins of Political Order](https://en.wikipedia.org/wiki/Origins_of_Political_Order), the player would lead a civilization from humble origins as a band of hunter-gathers through tribe and city-state form to eventually form an empire. At least that was the vision. I documented my progress in blog posts here, but I eventually lost steam.
 
 ![](/images/ee4137a50982e209f80515c30737b1452928111e7d17fefb5e69e8c2cef7f773.png)

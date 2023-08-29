@@ -1,11 +1,12 @@
 ---
+title: A Few Short Stories of Mine
+date: 2012-09-24 00:00:00 Z
+permalink: "/post/32185135033/a-few-short-stories-of-mine"
 layout: post
 template: post
-date: 2012-09-24
-title: "A Few Short Stories of Mine"
-permalink: /post/32185135033/a-few-short-stories-of-mine
-description: "A Few Short Stories of Mine"
+description: A Few Short Stories of Mine
 ---
+
 <p>In lieu of a new post this week, I've dredged up some old short stories I wrote. This is the first time I'm posting them on the web. I wrote them for a Fiction Writing course I took Senior year at Wash U.</p>&#13;
 <ul><li><a href="http://randylubin.com/fiction/time-sickness.pdf" target="_blank">Time-Sickness</a></li>&#13;
 <li><a href="http://randylubin.com/fiction/acapulco.pdf">The Vampire of Acapulco</a></li>&#13;

@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-06-10
+title: Innovate Delhi - Week One
+date: 2014-06-10 00:00:00 Z
+permalink: "/post/88360762718/innovate-delhi-week-one"
 tags:
 - innovate delhi
 - india
-title: "Innovate Delhi - Week One"
-permalink: /post/88360762718/innovate-delhi-week-one
-description: "Innovate Delhi - Week One"
+layout: post
+template: post
+description: Innovate Delhi - Week One
 ---
+
 ![](/images/5e497ecd84199dd244cca31afc4c17de2fb69799ade1ec9d5a766ecde048e6f8.jpg)
 
 I arrived in Delhi June 1st to help with [Innovate Delhi Entrepreneurship Academy](http://www.innovatedelhi.com/).

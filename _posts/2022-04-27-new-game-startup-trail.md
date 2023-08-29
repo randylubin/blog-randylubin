@@ -1,13 +1,12 @@
 ---
+title: 'New Game: Startup Trail'
+date: 2022-04-27 19:18:43 Z
 layout: post
 template: post
-date: 2022-04-27 19:18:43 +0000
-tags: []
-title: 'New Game: Startup Trail'
 description: We've launched the game Startup Trail as a way to explore how tech policy
   issues impact startups
-
 ---
+
 We just launched [Startup Trail](http://startuptrail.engine.is/) a new browser-based game where you explore policy issues facing tech startups. Found your company and then navigate a series of thorny dilemmas as you grow.
 
 ![](/images/startuptrail-1200x630.png)

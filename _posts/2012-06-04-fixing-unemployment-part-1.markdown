@@ -1,11 +1,12 @@
 ---
+title: 'Fixing Unemployment: Part 1'
+date: 2012-06-04 00:00:00 Z
+permalink: "/post/24392366236/fixing-unemployment-part-1"
 layout: post
 template: post
-date: 2012-06-04
-title: "Fixing Unemployment: Part 1"
-permalink: /post/24392366236/fixing-unemployment-part-1
-description: "Fixing Unemployment: Part 1"
+description: 'Fixing Unemployment: Part 1'
 ---
+
 <p>Lately, I've been thinking a lot about the state of unemployment and underemployment in the US. Figures last week showed that 12.7 million Americans are unemployed and many more are jobless (i.e. out of work but not seeking employment). This is a gargantuan number.</p>&#13;
 <p>The tragedy is two fold. One, unemployment is rough on the individuals (and their families) from both a psychological and financial perspective. Two, this is a massive lost opportunity for the rest of society; at 40 hours a week, those 12.7 million Americans could be contributing roughly half a billion hours of productivity <strong>per week</strong>.</p>&#13;
 <p>A big part of the problem is what's called <em>structural unemployment</em>. With structural unemployment, the issue isn't a lack of jobs but that the unemployed have the wrong skill set. Here in the Bay Area, startups and tech companies are hiring like crazy but the target of the recruiting tends to be engineers / programmers; most unemployed can't code.</p>&#13;

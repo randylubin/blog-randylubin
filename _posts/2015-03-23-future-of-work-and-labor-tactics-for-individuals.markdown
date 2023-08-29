@@ -1,17 +1,18 @@
 ---
-layout: post
-template: post
-date: 2015-03-23
+title: 'Future of Work and Labor: Tactics for Individuals'
+date: 2015-03-23 00:00:00 Z
+permalink: "/post/114361093308/future-of-work-and-labor-tactics-for-individuals"
 tags:
 - future of work
 - future of labor
 - entrepreneurship
 - freelancing
 - making
-title: "Future of Work and Labor: Tactics for Individuals"
-permalink: /post/114361093308/future-of-work-and-labor-tactics-for-individuals
-description: "Future of Work and Labor: Tactics for Individuals"
+layout: post
+template: post
+description: 'Future of Work and Labor: Tactics for Individuals'
 ---
+
 This is the sixth post in my series on the future of work and labor. Here are the earlier posts:
 
 *   [Macro Trends](http://blog.randylubin.com/post/111157362883/the-future-of-work-and-labor-macro-trends)

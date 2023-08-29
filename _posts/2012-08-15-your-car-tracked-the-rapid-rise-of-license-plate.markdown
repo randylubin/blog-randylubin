@@ -1,11 +1,12 @@
 ---
+title: Link post
+date: 2012-08-15 00:00:00 Z
+permalink: "/post/29503874841/your-car-tracked-the-rapid-rise-of-license-plate"
 layout: post
 template: post
-date: 2012-08-15
-title: "Link post"
-permalink: /post/29503874841/your-car-tracked-the-rapid-rise-of-license-plate
-description: "Your car, tracked: the rapid rise of license plate readers"
+description: 'Your car, tracked: the rapid rise of license plate readers'
 ---
+
 <http://arstechnica.com/tech-policy/2012/08/your-car-tracked-the-rapid-rise-of-license-plate-readers/>
 
 <p>Great <a href="http://arstechnica.com/tech-policy/2012/08/your-car-tracked-the-rapid-rise-of-license-plate-readers/">article</a> by Ars Technica on the use of cameras to read license plates and track cars across communities.</p>&#13;

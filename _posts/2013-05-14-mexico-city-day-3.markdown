@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-05-14
+title: 'Mexico City: Day 3'
+date: 2013-05-14 00:00:00 Z
+permalink: "/post/50391197600/mexico-city-day-3"
 tags:
 - mexico city
 - travel
-title: "Mexico City: Day 3"
-permalink: /post/50391197600/mexico-city-day-3
-description: "Mexico City: Day 3"
+layout: post
+template: post
+description: 'Mexico City: Day 3'
 ---
+
 Day three of our trip to Mexico City, following [Day 2](http://blog.randylubin.com/post/50319621005/mexico-city-day-2)
 
 We woke up early this morning to beat the rush to Teotihuacan. The ancient city is about an hour north of Mexico City and we arrived by 9am.

@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2013-10-23
+title: 'Funemployment Protip: Free Larkspur Ferry'
+date: 2013-10-23 00:00:00 Z
+permalink: "/post/64819486523/funemployment-protip-free-larkspur-ferry"
 tags:
 - funemployment
-title: "Funemployment Protip: Free Larkspur Ferry"
-permalink: /post/64819486523/funemployment-protip-free-larkspur-ferry
-description: "Funemployment Protip: Free Larkspur Ferry"
+layout: post
+template: post
+description: 'Funemployment Protip: Free Larkspur Ferry'
 ---
+
 Today I took advantage of the excellent, free [Larkspur Ferry Deal](http://goldengate.org/MCMPromo/index.php). The ferries are almost empty for reverse commutes so Golden Gate Ferry is allowing free trips to Larkspur in the morning and back in the afternoon.
 
 Larkspur is a town in Marin County, north of SF. In order to get the free return ticket, you need to make a purchase at a local vendor.

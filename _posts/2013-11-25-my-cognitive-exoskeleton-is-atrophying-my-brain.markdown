@@ -1,11 +1,12 @@
 ---
+title: My Cognitive Exoskeleton is Atrophying My Brain
+date: 2013-11-25 00:00:00 Z
+permalink: "/post/68050956629/my-cognitive-exoskeleton-is-atrophying-my-brain"
 layout: post
 template: post
-date: 2013-11-25
-title: "My Cognitive Exoskeleton is Atrophying My Brain"
-permalink: /post/68050956629/my-cognitive-exoskeleton-is-atrophying-my-brain
-description: "My Cognitive Exoskeleton is Atrophying My Brain"
+description: My Cognitive Exoskeleton is Atrophying My Brain
 ---
+
 > My parents: How was your week?
 
 > Me: Great- productive, a lot of fun...

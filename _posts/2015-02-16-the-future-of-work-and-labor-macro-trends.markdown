@@ -1,17 +1,18 @@
 ---
-layout: post
-template: post
-date: 2015-02-16
+title: 'The Future of Work and Labor: Macro Trends'
+date: 2015-02-16 00:00:00 Z
+permalink: "/post/111157362883/the-future-of-work-and-labor-macro-trends"
 tags:
 - future of work
 - future of labor
 - economy
 - technology
 - startups
-title: "The Future of Work and Labor: Macro Trends"
-permalink: /post/111157362883/the-future-of-work-and-labor-macro-trends
-description: "The Future of Work and Labor: Macro Trends"
+layout: post
+template: post
+description: 'The Future of Work and Labor: Macro Trends'
 ---
+
 There are massive trends shaping the future of labor and the economy - changing how people collaborate and the role work plays in our lives. These trends will be incredibly empowering for some segments of society and potentially devastating to others. There are massive startup opportunities that build on and accelerate these shifts.
 
 Over several blog posts, I will talk about the major economic trends and their ramifications. Then, I'll share some of the startup ideas I’ve been exploring. There is too much to cover in just one post; here’s a rough outline of the topics I will cover:

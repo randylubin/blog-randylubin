@@ -1,11 +1,12 @@
 ---
+title: Netflix / House of Cards
+date: 2013-02-11 00:00:00 Z
+permalink: "/post/42829012572/netflix-house-of-cards"
 layout: post
 template: post
-date: 2013-02-11
-title: "Netflix / House of Cards"
-permalink: /post/42829012572/netflix-house-of-cards
-description: "Netflix / House of Cards"
+description: Netflix / House of Cards
 ---
+
 *no spoilers*
 
 This weekend I marathoned House of Cards, Netflix's new series about power and politics in DC. I enjoyed the show (especially all the wheeling and dealing) but grew to hate all the characters by the end of the season.

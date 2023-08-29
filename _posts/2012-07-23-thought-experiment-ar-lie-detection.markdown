@@ -1,11 +1,12 @@
 ---
+title: 'Thought Experiment: AR Lie Detection'
+date: 2012-07-23 00:00:00 Z
+permalink: "/post/27820511355/thought-experiment-ar-lie-detection"
 layout: post
 template: post
-date: 2012-07-23
-title: "Thought Experiment: AR Lie Detection"
-permalink: /post/27820511355/thought-experiment-ar-lie-detection
-description: "Thought Experiment: AR Lie Detection"
+description: 'Thought Experiment: AR Lie Detection'
 ---
+
 <p>I've previously <a href="http://blog.randylubin.com/post/18079173691/eagerly-anticipating-google-glasses-social">speculated</a> on the killer app for Augmented Reality goggles and I've continued to think about functionality. In this post, I'll flesh out a new feature: lie detection.</p>&#13;
 <p>When humans lie, we make small, involuntary <a href="http://en.wikipedia.org/wiki/Microexpression">microexpressions</a>. AR Glasses could use computer vision to identify microexpressions that signal the deception. Upon detection of the lie, the glasses could alert the wearer (and indicated the degree of confidence).</p>&#13;
 <p>This <a href="http://spie.org/x84912.xml">study</a> explains a machine learning algorithm that was able to detect microexpressions and classify them as positive or negative with over 70% accuracy; human accuracy is below 50%. As camera technology and machine learning improve, I expect to see this accuracy increase rapidly. It's a short leap to picture the tech integrated into AR Glasses, like the increasingly hyped Project Glass, by Google.</p>&#13;

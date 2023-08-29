@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-09-22
+title: Citydash
+date: 2014-09-22 00:00:00 Z
+permalink: "/post/98125781953/citydash"
 tags:
 - games
-title: "Citydash"
-permalink: /post/98125781953/citydash
-description: "Citydash"
+layout: post
+template: post
+description: Citydash
 ---
+
 Earlier today, three friends and I spent an hour sprinting around Chinatown as part of [Citydash](http://citydash.fire-hazard.net/), an outdoor game. The game involved running around a 15 square block area, following clues and dodging (in-game) guards.
 
 We were racing the clock as well as other teams - there were bonuses for being the first team to reach a checkpoint. There were points if we got close to a guard without the guard seeing us.

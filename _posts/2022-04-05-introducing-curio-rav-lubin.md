@@ -1,12 +1,11 @@
 ---
+title: 'Introducing: Curio Rav Lubin'
+date: 2022-04-05 00:45:20 Z
 layout: post
 template: post
-date: 2022-04-05 00:45:20 +0000
-tags: []
-title: 'Introducing: Curio Rav Lubin'
 description: Meet our son, Curio Rav Lubin
-
 ---
+
 We have a son!
 
 Three weeks ago, Avital gave birth to our son Curio Rav Lubin. We’re doing amazing and loving our time together.

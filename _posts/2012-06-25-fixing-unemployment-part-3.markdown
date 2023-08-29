@@ -1,11 +1,12 @@
 ---
+title: 'Fixing Unemployment: Part 3'
+date: 2012-06-25 00:00:00 Z
+permalink: "/post/25841298247/fixing-unemployment-part-3"
 layout: post
 template: post
-date: 2012-06-25
-title: "Fixing Unemployment: Part 3"
-permalink: /post/25841298247/fixing-unemployment-part-3
-description: "Fixing Unemployment: Part 3"
+description: 'Fixing Unemployment: Part 3'
 ---
+
 <p><em>This post is a follow-up to <a href="http://blog.randylubin.com/post/24392366236/fixing-unemployment">Part 1 </a>and <a href="http://blog.randylubin.com/post/24873667375/fixing-unemployment-part-2">Part 2</a>. You don't need to read them but it would provide some useful context.</em></p>&#13;
 <p>Technology is improving at an accelerating rate, disrupting myriad industries. This is dramatically improving the productivity per worker but also making many jobs unnecessary / redundant. The resulting loss of jobs is sometimes called <a href="http://en.wikipedia.org/wiki/Technological_unemployment">Technological Unemployment</a>.</p>&#13;
 <p>If technological disruption is sufficiently infrequent then old workers can retrain or retire, and new workers can study gain relevant skills while in school. As the disruptions get more frequent, greater sections of the workforce will have to retrain or exit the job market. As the rate of technological disruption continues to increase, I expect unemployment to grow. Rather than a massive problem, this could be an incredible opportunity to shift the entire employment paradigm.</p>&#13;

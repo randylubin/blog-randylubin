@@ -1,11 +1,12 @@
 ---
+title: CSS3 Tools
+date: 2012-01-09 00:00:00 Z
+permalink: "/post/15575926109/css3-tools"
 layout: post
 template: post
-date: 2012-01-09
-title: "CSS3 Tools"
-permalink: /post/15575926109/css3-tools
-description: "CSS3 Tools"
+description: CSS3 Tools
 ---
+
 <p>CSS3 is awesome.  It allows you to easily make your website stylish, without having to muck about in photoshop.  Without images, the pages load faster.</p>&#13;
 <p>Some things CSS3 allows:</p>&#13;
 <ul><li>Color Gradients</li>&#13;

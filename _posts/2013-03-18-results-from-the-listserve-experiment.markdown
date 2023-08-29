@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2013-03-18
+title: Results from 'The Listserve' Experiment
+date: 2013-03-18 00:00:00 Z
+permalink: "/post/45633748006/results-from-the-listserve-experiment"
 tags:
 - listserve
-title: "Results from 'The Listserve' Experiment"
-permalink: /post/45633748006/results-from-the-listserve-experiment
-description: "Results from 'The Listserve' Experiment"
+layout: post
+template: post
+description: Results from 'The Listserve' Experiment
 ---
+
 Last week I was randomly selected to email 20,000 strangers through [The Listserve](http://thelistserve.com/). As I described [here](http://blog.randylubin.com/post/45094401818/selected-for-the-listserve), I decided to run Milgram's Small World [experiment](http://en.wikipedia.org/wiki/Small_world_experiment). Recipients were instructed to forward the email to a friend who might know me and to keep forwarding the message via friends until it reaches me.
 
 The email went out on Monday morning and the responses started almost immediately. The majority of replies came in the first 48 hours but I continued to receive them throughout the week.

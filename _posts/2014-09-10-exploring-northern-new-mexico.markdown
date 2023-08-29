@@ -1,16 +1,17 @@
 ---
-layout: post
-template: post
-date: 2014-09-10
+title: Exploring Northern New Mexico
+date: 2014-09-10 00:00:00 Z
+permalink: "/post/97099343958/exploring-northern-new-mexico"
 tags:
 - santa fe
 - new mexico
 - travel
 - hiking
-title: "Exploring Northern New Mexico"
-permalink: /post/97099343958/exploring-northern-new-mexico
-description: "Exploring Northern New Mexico"
+layout: post
+template: post
+description: Exploring Northern New Mexico
 ---
+
 The last few days I've been fortunate to join my parents and grandparents in exploring northern New Mexico. We're here for my grandparents' 55th anniversary and they invited me to tag along.
 
 ![](/images/994e0a770df982ca3c69883229eeb214ff13f6224f49b8b22da785d73ac02713.jpg)

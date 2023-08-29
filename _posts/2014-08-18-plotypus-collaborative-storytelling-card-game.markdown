@@ -1,16 +1,17 @@
 ---
-layout: post
-template: post
-date: 2014-08-18
+title: 'Plotypus: Collaborative Storytelling Card Game'
+date: 2014-08-18 00:00:00 Z
+permalink: "/post/95053299523/plotypus-collaborative-storytelling-card-game"
 tags:
 - plotypus
 - storytelling
 - board games
 - game design
-title: "Plotypus: Collaborative Storytelling Card Game"
-permalink: /post/95053299523/plotypus-collaborative-storytelling-card-game
-description: "Plotypus: Collaborative Storytelling Card Game"
+layout: post
+template: post
+description: 'Plotypus: Collaborative Storytelling Card Game'
 ---
+
 _Update: I've launched the game at [Plotypus.com](http://plotypus.com/) and am [taking orders](https://docs.google.com/forms/d/11JkmwRjOYLij3mYyOxODymbVG3jB3fj5bhIpfKU5QB8/viewform?usp=send_form) for a limited time._
 
 I'm extremely excited to share Plotypus - a game I've been developing for the past few months. I just received the first test print from the printer and the cards look great!

@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-03-24
+title: Suburbia review
+date: 2014-03-24 00:00:00 Z
+permalink: "/post/80553989395/suburbia-review"
 tags:
 - board games
-title: "Suburbia review"
-permalink: /post/80553989395/suburbia-review
-description: "Suburbia review"
+layout: post
+template: post
+description: Suburbia review
 ---
+
 This week I played [Suburbia](http://boardgamegeek.com/boardgame/123260/suburbia) - a very good board game about urban development.
 
 You act as urban planner and lay hex tiles that represent residential, industrial, commercial, and civic regions. Each tiles has special attributes - for example, the heavy industry tile grants +1 cash but -1 reputation for each adjacent residential tile.

@@ -1,12 +1,11 @@
 ---
+title: Story Synth Visual Refresh
+date: 2022-01-18 19:52:24 Z
 layout: post
 template: post
-date: 2022-01-18 19:52:24 +0000
-tags: []
-title: Story Synth Visual Refresh
 description: A look at the updated look and feel of Story Synth
-
 ---
+
 Over winter break, [Raph D'Amico](http://www.raphdamico.com/) helped me refresh Story Synth's look and feel. You can check it out at [storysynth.org](https://storysynth.org/) – I love how it turned out!
 
 First up, there's a sharp new logo:

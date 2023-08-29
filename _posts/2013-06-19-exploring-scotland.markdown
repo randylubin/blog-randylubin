@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2013-06-19
+title: Exploring Scotland
+date: 2013-06-19 00:00:00 Z
+permalink: "/post/53389715506/exploring-scotland"
 tags:
 - travel
 - scotland
 - castles
-title: "Exploring Scotland"
-permalink: /post/53389715506/exploring-scotland
-description: "Exploring Scotland"
+layout: post
+template: post
+description: Exploring Scotland
 ---
+
 Just got back from a long day of exploring Scotland. We rented a car and drove west to explore a few different lochs and castles.
 
 Driving west:

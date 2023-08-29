@@ -1,11 +1,12 @@
 ---
+title: A New Type of Entrepreneurship
+date: 2012-11-05 00:00:00 Z
+permalink: "/post/35046027646/a-new-type-of-entrepreneurship"
 layout: post
 template: post
-date: 2012-11-05
-title: "A New Type of Entrepreneurship"
-permalink: /post/35046027646/a-new-type-of-entrepreneurship
-description: "A New Type of Entrepreneurship"
+description: A New Type of Entrepreneurship
 ---
+
 <p>The following is still a bit inchoate but I've been thinking about it for a while and it's time I threw it online. I'm also pretty tired but I haven't blogged in a few weeks and wanted to get something up tonight; apologies for any inarticulateness on my part.</p>&#13;
 <p>Steve Blank has <a href="http://steveblank.com/2010/06/10/you%E2%80%99re-not-a-real-entrepreneur/">identified</a> four flavors of entrepreneurship / startups:</p>&#13;
 <ul><li>Startup -&gt; Small Business (e.g. Mom and Pop shops)</li>&#13;

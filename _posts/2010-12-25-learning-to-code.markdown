@@ -1,11 +1,12 @@
 ---
+title: Learning to Code
+date: 2010-12-25 00:00:00 Z
+permalink: "/post/2461663434/learning-to-code"
 layout: post
 template: post
-date: 2010-12-25
-title: "Learning to Code"
-permalink: /post/2461663434/learning-to-code
-description: "Learning to Code"
+description: Learning to Code
 ---
+
 <p>As an aspiring entrepreneur with no programming knowledge I decided to spend winter break learning the basics of coding.  I used the resources in Stanford's CS106a "Programming Methodology" class to teach myself and completed the course in about two weeks.</p>&#13;
 <p>I  loved the course and highly recommend it.  It is taught in Java but with the aim of setting students up to quickly learn other languages.</p>&#13;
 <p>Resources:</p>&#13;

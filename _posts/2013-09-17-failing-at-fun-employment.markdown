@@ -1,11 +1,12 @@
 ---
+title: Failing at Fun-employment?
+date: 2013-09-17 00:00:00 Z
+permalink: "/post/61539885652/failing-at-fun-employment"
 layout: post
 template: post
-date: 2013-09-17
-title: "Failing at Fun-employment?"
-permalink: /post/61539885652/failing-at-fun-employment
-description: "Failing at Fun-employment?"
+description: Failing at Fun-employment?
 ---
+
 _This post is a personal update on the past two weeks and some speculation on the future._
 
 It's been an amazing two weeks since I [left Jive](http://blog.randylubin.com/post/60216595121/last-day-at-jive). My typical day is filled with three to six meetings or events. I've been hanging out with tons of interesting makers, entrepreneurs, and investors; nearly every day is brimming with great conversations. 

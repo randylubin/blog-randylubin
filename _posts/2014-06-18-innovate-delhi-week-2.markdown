@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2014-06-18
+title: 'Innovate Delhi: Week 2+'
+date: 2014-06-18 00:00:00 Z
+permalink: "/post/89172263753/innovate-delhi-week-2"
 tags:
 - innovate delhi
 - india
 - startups
-title: "Innovate Delhi: Week 2+"
-permalink: /post/89172263753/innovate-delhi-week-2
-description: "Innovate Delhi: Week 2+"
+layout: post
+template: post
+description: 'Innovate Delhi: Week 2+'
 ---
+
 For last week's recap, [click here](http://blog.randylubin.com/post/88360762718/innovate-delhi-week-one)
 
 Innovate Delhi continues to go very well. During the second week, the students learned about different business models and started using the [Lean Canvas](http://leanstack.com/LeanCanvas.pdf). The topic for the week was Health and the students developed some very interesting health startup ideas.

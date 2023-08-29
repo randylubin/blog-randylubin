@@ -1,12 +1,11 @@
 ---
+title: San Bruno Mountain
+date: 2021-07-25 21:47:47 Z
 layout: post
 template: post
-date: 2021-07-25 21:47:47 +0000
-tags: []
-title: San Bruno Mountain
 description: A few photos from a hike up San Bruno Mountain
-
 ---
+
 After ten years of living in SF, I finally made it up to the summit of San Bruno Mountain.
 
 ![](/images/san-bruno-summit.png)

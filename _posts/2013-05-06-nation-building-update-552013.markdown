@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-05-06
+title: Nation Building Update (5/5/2013)
+date: 2013-05-06 00:00:00 Z
+permalink: "/post/49755717622/nation-building-update-552013"
 tags:
 - nation building
 - game design
-title: "Nation Building Update (5/5/2013)"
-permalink: /post/49755717622/nation-building-update-552013
-description: "Nation Building Update (5/5/2013)"
+layout: post
+template: post
+description: Nation Building Update (5/5/2013)
 ---
+
 After a few lazy weeks, I had a very productive day on Nation Building! It feels really good to be coding again. I'll provide a brief overview of my updates. You can check out the latest version [here](http://nationbuilding.randylubin.com/).
 
 ## Keyboard Controls

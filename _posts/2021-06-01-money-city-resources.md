@@ -1,14 +1,14 @@
 ---
-layout: post
-template: post
-date: 2021-06-01 20:37:06 +0000
+title: Money City Resources
+date: 2021-06-01 20:37:06 Z
 tags:
 - serious games
-title: Money City Resources
+layout: post
+template: post
 description: A link to game resources and recaps for the Money City (Future of Money)
   game that we ran for MozFest
-
 ---
+
 A few months back I [wrote all about](https://blog.randylubin.com/serious-games-future-of-money-run-at-mozfest) the 'Future of Money' game that I designed with The Copia Institute and that we ran at MozFest. Now we have lots more to share, with the game renamed to Money City. 
 
 ![](https://ii.techdirt.com/s/t/images/posts/MoneyCity-680px.jpg)

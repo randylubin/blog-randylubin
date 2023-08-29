@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-10-14
+title: 'Side Project: Jam-Sync'
+date: 2013-10-14 00:00:00 Z
+permalink: "/post/64003279316/side-project-jam-sync"
 tags:
 - projects
 - programming
-title: "Side Project: Jam-Sync"
-permalink: /post/64003279316/side-project-jam-sync
-description: "Side Project: Jam-Sync"
+layout: post
+template: post
+description: 'Side Project: Jam-Sync'
 ---
+
 Happy to announce the launch of another side project: [Jam-Sync](http://randylubin.github.io/jam-sync/#/). 
 
 Jam-Sync is a collaboration with my younger brother, [Greg](http://greglubin.com/). It's a simple web app that allows musicians to know what chord to play while jamming. It's meant for multiple musicians in the same room, who can put their phone, tablet, or laptop in view while they play.

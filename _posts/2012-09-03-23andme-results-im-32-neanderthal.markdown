@@ -1,11 +1,12 @@
 ---
+title: 23andMe Results (I'm 3.2% Neanderthal)
+date: 2012-09-03 00:00:00 Z
+permalink: "/post/30779279027/23andme-results-im-32-neanderthal"
 layout: post
 template: post
-date: 2012-09-03
-title: "23andMe Results (I'm 3.2% Neanderthal)"
-permalink: /post/30779279027/23andme-results-im-32-neanderthal
-description: "23andMe Results (I'm 3.2% Neanderthal)"
+description: 23andMe Results (I'm 3.2% Neanderthal)
 ---
+
 <p>A few weeks ago I signed up for a personal genome sequencing through 23andMe (<a href="http://blog.randylubin.com/post/29306630411/just-signed-up-for-23andme">post</a>). I received the first round of results this weekend.</p>&#13;
 <p>The results are broken into two broad categories: Health and Ancestry.</p>&#13;
 <h3>Health</h3>&#13;

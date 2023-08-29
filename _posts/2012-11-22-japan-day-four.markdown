@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2012-11-22
+title: 'Japan: Day Four'
+date: 2012-11-22 00:00:00 Z
+permalink: "/post/36277138626/japan-day-four"
 tags:
 - japan
 - travel
-title: "Japan: Day Four"
-permalink: /post/36277138626/japan-day-four
-description: "Japan: Day Four"
+layout: post
+template: post
+description: 'Japan: Day Four'
 ---
+
 <p>We decided to pass on more Kyoto shrines and caught an early train to Hiroshima. I continue to be amazed at speed and efficiency of the Shinkansen (bullet train) - we covered a huge chunk of the country in under two hours.</p>&#13;
 <p>After dropping our bags off at the hotel we hopped back on the train for a day trip to Miyajima - an island not far from Hiroshima. The island is home to the famous Itsukushima Shrine with its floating Torii gate. Here's a shot from within the shrine:</p>&#13;
 <p><img src="/images/a56e2c01a64d5564113149757cac1121da8986504c41d182d233339fe7fb1e71.jpg" alt="image" /></p>&#13;

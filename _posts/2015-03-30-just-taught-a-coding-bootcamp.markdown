@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2015-03-30
+title: Just Taught a Coding Bootcamp
+date: 2015-03-30 00:00:00 Z
+permalink: "/post/115004996443/just-taught-a-coding-bootcamp"
 tags:
 - coding
 - wustl
 - teaching
-title: "Just Taught a Coding Bootcamp"
-permalink: /post/115004996443/just-taught-a-coding-bootcamp
-description: "Just Taught a Coding Bootcamp"
+layout: post
+template: post
+description: Just Taught a Coding Bootcamp
 ---
+
 I just returned from a quick trip to St. Louis where I taught a coding bootcamp at Washington University.
 
 It was great to be back on campus and I had a blast teaching. The course was all day Saturday and a half day Sunday. It was geared for people who had never coded before and only two of the 22 attendees had tried HTML before.

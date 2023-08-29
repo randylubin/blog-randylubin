@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-05-12
+title: 'Mexico City: Day 1'
+date: 2013-05-12 00:00:00 Z
+permalink: "/post/50214687346/mexico-city-day-1"
 tags:
 - mexico city
 - travel
-title: "Mexico City: Day 1"
-permalink: /post/50214687346/mexico-city-day-1
-description: "Mexico City: Day 1"
+layout: post
+template: post
+description: 'Mexico City: Day 1'
 ---
+
 I'm taking a short trip to Mexico City and aim to do daily blog posts; I really enjoyed blogging my Japan trip last fall.
 
 This trip is a last minute with my roommate Adam and his friend Sara. We have almost no plans and are making it up on the fly.

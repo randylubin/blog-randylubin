@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2012-11-20
+title: 'Japan: Day Two'
+date: 2012-11-20 00:00:00 Z
+permalink: "/post/36136407874/japan-day-two"
 tags:
 - japan
 - travel
-title: "Japan: Day Two"
-permalink: /post/36136407874/japan-day-two
-description: "Japan: Day Two"
+layout: post
+template: post
+description: 'Japan: Day Two'
 ---
+
 <p>Our first full day in Japan was awesome. I'm completely exhausted so I'll keep the recap brief.</p>
 <p>We woke up at 6am to check out the famous fish market. The market was pretty cool - the entire supply chain was there from the fish being brought ashore to auctioning the catch to wholesale for restaurants. After walking around the wholesale market we had some amazing, fresh sashimi - perfect way to start the morning.</p>
 <p>Next we went to the Imperial Gardens, part of the massive Imperial Palace complex in the heart of Tokyo. The gardens were beautiful and serene. Tokyo has great lots of great parkland which provides a break from the bustle of the city.</p>

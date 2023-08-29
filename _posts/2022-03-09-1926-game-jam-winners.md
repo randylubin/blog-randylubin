@@ -1,12 +1,11 @@
 ---
+title: 1926 Game Jam Winners
+date: 2022-03-09 20:00:33 Z
 layout: post
 template: post
-date: 2022-03-09 20:00:33 +0000
-tags: []
-title: 1926 Game Jam Winners
 description: Announcing the winners to Gaming Like It's 1926
-
 ---
+
 [Gaming Like It's 1926](https://itch.io/jam/gaming-like-its-1926), our annual public domain game jam, had a great turnout this year – we had 31 entries and there are some great games in the mix.
 
 We've just announced the winners:

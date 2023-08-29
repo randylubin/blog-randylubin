@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2019-04-21
+title: Kyoto & Nara
+date: 2019-04-21 00:00:00 Z
+permalink: "/post/184340198883/kyoto-nara"
 tags:
 - japan
 - japan2019
 - kyoto
 - nara
-title: "Kyoto & Nara"
-permalink: /post/184340198883/kyoto-nara
-description: "Kyoto & Nara"
+layout: post
+template: post
+description: Kyoto & Nara
 ---
+
 <figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/f444570f4dc75b34e05b07bb74dd647377d8c07172457cd361247660f22c0b42.png" data-orig-height="1024" data-orig-width="1024"></figure><p>I’m traveling this week with Avital’s parents and we’ve spent the past couple days in Kyoto and Nara. Previously, I’d only spent about 24 hours in Kyoto and it’s been great to see more of the city.</p><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/58e002c1c900e10462668145b3100f3cc66841751e13c0c16632359212c34e40.png" data-orig-height="1024" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/bc6cc071946c627db95eb96afa6267657ee72c6b454ae08e1e66194b65794676.png" data-orig-height="1024" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="769" data-orig-width="1024"><img src="/images/849d65e0c98b823cee749f2beb8057201cb8de6c7e623b653e54e2ae552e36ba.png" data-orig-height="769" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/77b7aa40a4d16f04803838246b7f56a7eb9a0d001d6939ceb271bc7ca10d17fb.png" data-orig-height="1024" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/2b80eae433eea59814a6fd9501443e404157e76e0e9a39bc4562f6dc14c29e51.png" data-orig-height="1024" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="3024" data-orig-width="4032"><img src="/images/9205fe0b43aa75990143a95ad435032927bd1606b71aefe776db81776d471a15.jpg" data-orig-height="3024" data-orig-width="4032"></figure><p>We spent most of today in Nara, capital of Japan before Kyoto, and visited temples, shrines, and gardens while hanging out with the tame local deer.</p><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/5be342a99a9becced84f268ada1ec7df92dfee0663fd7b7e926f7745a5567c2d.png" data-orig-height="1024" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="768"><img src="/images/c73d8b47b1f427d64f8c6740de70d2eb28749fcbb68711fc81c88a796d1674b0.png" data-orig-height="1024" data-orig-width="768"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/06903a2b0be0e062c9f9acdfd9c311ba8b40bc470f399a1289fcde2787f6ac2c.png" data-orig-height="1024" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/efbd300ef77f89a70b2acd7de6cb1d503a068977cfe23c9a37b15d75f72caf13.png" data-orig-height="1024" data-orig-width="1024"></figure>

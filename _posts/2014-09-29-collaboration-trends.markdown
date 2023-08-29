@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-09-29
+title: Collaboration Trends
+date: 2014-09-29 00:00:00 Z
+permalink: "/post/98761786493/collaboration-trends"
 tags:
 - collaboration
-title: "Collaboration Trends"
-permalink: /post/98761786493/collaboration-trends
-description: "Collaboration Trends"
+layout: post
+template: post
+description: Collaboration Trends
 ---
+
 I was recently asked for my thoughts on the future of collaboration. Some of the quotes from my response were collected into this [panel](https://medium.com/@alexschiff/collaboration-3-0-7010281f1426). Below is the full length of my response.
 
 ### Prompt from Alex Schiff

@@ -1,11 +1,12 @@
 ---
+title: 'Fixing Unemployment: Part 2'
+date: 2012-06-11 00:00:00 Z
+permalink: "/post/24873667375/fixing-unemployment-part-2"
 layout: post
 template: post
-date: 2012-06-11
-title: "Fixing Unemployment: Part 2"
-permalink: /post/24873667375/fixing-unemployment-part-2
-description: "Fixing Unemployment: Part 2"
+description: 'Fixing Unemployment: Part 2'
 ---
+
 <p>Last week I wrote about the high level of unemployment and what we might to do fix it: <a href="http://blog.randylubin.com/post/24392366236/fixing-unemployment">Fixing Unemployment: Part 1</a>. The post led to some great conversations (online and off) and I read several different economists' points of view. I'll attempt to summarize my learnings and offer a few more thoughts.</p>&#13;
 <p>It seems that, at least in public debate, economists have take one of two positions:</p>&#13;
 <ul><li>Unemployment is a result of a mismatch in aggregate demand and aggregate supply, thus we should provide economic stimulus to 'prime the pump'.</li>&#13;

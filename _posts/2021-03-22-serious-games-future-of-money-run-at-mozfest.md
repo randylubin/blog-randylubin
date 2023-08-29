@@ -1,12 +1,11 @@
 ---
+title: 'Serious Games: Future of Money (run at Mozfest)'
+date: 2021-03-22 01:08:38 Z
 layout: post
 template: post
-date: 2021-03-22 01:08:38 +0000
-tags: []
-title: 'Serious Games: Future of Money (run at Mozfest)'
 description: ''
-
 ---
+
 _Update: we've released a facilitator guide and all assets under a CC-BY license,_ [_check it out_](https://copia.is/projects/money-city/)_!_
 
 Over the past two weeks we've run a game about the Future of Money at Mozilla's conference MozFest. The game was sponsored by [Grant for the Web](grantfortheweb.org) and I co-designed it with Mike Masnick and Leigh Beadon of [Techdirt](https://www.techdirt.com/) / [Copia](https://copia.is/). The sessions went smoothly and players seemed to have a great time!

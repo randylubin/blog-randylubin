@@ -1,7 +1,7 @@
 ---
-layout: post
-template: post
-date: 2014-06-11
+title: Sightseeing in India
+date: 2014-06-11 00:00:00 Z
+permalink: "/post/88467937968/sightseeing-in-india"
 tags:
 - india
 - agra
@@ -10,10 +10,11 @@ tags:
 - agra fort
 - red fort
 - travel
-title: "Sightseeing in India"
-permalink: /post/88467937968/sightseeing-in-india
-description: "Sightseeing in India"
+layout: post
+template: post
+description: Sightseeing in India
 ---
+
 I've been in India since June 1st, [for Innovate Delhi](http://blog.randylubin.com/post/88360762718/innovate-delhi-week-one). Over the past week and a half I've seen some very cool buildings.
 
 First up was the Red Fort in Delhi. The complex was the palace / residence of Mughal rulers, built in 1648 by Emperor Shah Jahan (we'll see more of him). It's in the center of Old Delhi and contains many impressive red sandstone buildings. Here are some photos we took while walking around.

@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2019-03-31
+title: An Overnight in Hakone
+date: 2019-03-31 00:00:00 Z
+permalink: "/post/183841334013/an-overnight-in-hakone"
 tags:
 - Japan
 - japan2019
 - hakone
-title: "An Overnight in Hakone"
-permalink: /post/183841334013/an-overnight-in-hakone
-description: "An Overnight in Hakone"
+layout: post
+template: post
+description: An Overnight in Hakone
 ---
+
 <p>Last weekend we stayed overnight in Hakone, a mountain region about two hours from Tokyo, known for its hotsprings.</p><p>The best part was probably the Hakone Open Air Museum, with it’s wonderful outdoor sculptures:</p><figure data-orig-width="1024" data-orig-height="768" class="tmblr-full"><img src="/images/d68dfbdef26ab58a9d131e806f126ae8761e906e302e217f45b026886dbacc91.png" data-orig-width="1024" data-orig-height="768"></figure><figure data-orig-width="1024" data-orig-height="1024" class="tmblr-full"><img src="/images/64d819c2f01c9563319db09ec47578270e092c56399b3e75ed5054fb28e72d35.png" data-orig-width="1024" data-orig-height="1024"></figure><figure data-orig-width="1024" data-orig-height="1024" class="tmblr-full"><img src="/images/2f71deae243d1a71e465ae19981167b7346c7712d26d04c70d6467ba787f4d1c.png" data-orig-width="1024" data-orig-height="1024"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/0a1b17180af0cf3ff566a459b671b4cadce30cf058fb5d1145c594d72ec6cd10.png" data-orig-height="1024" data-orig-width="1024"></figure><figure data-orig-width="1024" data-orig-height="768" class="tmblr-full"><img src="/images/ee1d023f9d7df50a9e96f3878a3255bc4a5e04808a6a7a4cd740ec7833e4f092.png" data-orig-width="1024" data-orig-height="768"></figure><p>It also had an outdoor hotspring footbath!<br></p><figure data-orig-width="1024" data-orig-height="768" class="tmblr-full"><img src="/images/c00eaa3b726451c3880b92910ad1ba3f3fc16477213bdaf49a194750ff4d6a77.png" data-orig-width="1024" data-orig-height="768"></figure><p>The main theme for the region really seemed to be transportation, we took multiple different trains, trams, gondolas, busses, and even a pirate ship. Fun in theory but they were the bottleneck in the system and it felt like we spent half the trip waiting in line for our next bit of transit.<br></p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/372738fc3926d3bb2a31a787e37cae839083c8d0402a14297876154e20a62538.png" data-orig-height="768" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/fcde72f6847d4c33a862b6c79b297c45e16cc45a3581772f6fb2360e9f00043a.png" data-orig-height="1024" data-orig-width="1024"></figure><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/22fce49bd449e9e2f067ccbd4474fd7fd748d294cdf380d73afaf0ac50ed046e.png" data-orig-height="1024" data-orig-width="1024"></figure><p>We had a good trip overall but I wouldn’t recommend it for anyone visiting Japan for a short trip – there are more exciting places to visit!</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024" style=""><img src="/images/ccc8ab4c974bc3ebdace9059d2257cdd6c6312e838585b1bd4fa4d93edefca44.png" data-orig-height="768" data-orig-width="1024"></figure>

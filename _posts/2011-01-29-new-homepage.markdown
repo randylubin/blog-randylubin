@@ -1,11 +1,12 @@
 ---
+title: New Homepage
+date: 2011-01-29 00:00:00 Z
+permalink: "/post/2985151750/new-homepage"
 layout: post
 template: post
-date: 2011-01-29
-title: "New Homepage"
-permalink: /post/2985151750/new-homepage
-description: "New Homepage"
+description: New Homepage
 ---
+
 <p>I'm continuing my programming journey and delving into web development.</p>&#13;
 <p>Check out my site in progress here: <a target="_blank" href="http://randylubin.com">randylubin.com</a></p>&#13;
 <p>Along the way I'm learning:</p>&#13;

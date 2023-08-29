@@ -1,11 +1,12 @@
 ---
+title: Criteria for choosing projects
+date: 2014-02-17 00:00:00 Z
+permalink: "/post/76931145128/criteria-for-choosing-projects"
 layout: post
 template: post
-date: 2014-02-17
-title: "Criteria for choosing projects"
-permalink: /post/76931145128/criteria-for-choosing-projects
-description: "Criteria for choosing projects"
+description: Criteria for choosing projects
 ---
+
 My weeks are filled with opportunities to brainstorm, build, and collaborate. Recently, I've thought a bit abut the criteria I use to choose to be productive. Here's some of my filtering:
 
 **Brainstorms:** I thoroughly enjoy exploring ideas. I'll brainstorm with most people about almost any idea - as long as it's not too malicious / evil.

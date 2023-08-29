@@ -1,9 +1,10 @@
 ---
+title: 'A Big Week in Game Design: CIA Game and Honor Bound'
+date: 2018-05-27 00:00:00 Z
+permalink: "/post/174303323213/a-big-week-in-game-design-cia-game-and-honor"
 layout: post
 template: post
-date: 2018-05-27
-title: "A Big Week in Game Design: CIA Game and Honor Bound"
-permalink: /post/174303323213/a-big-week-in-game-design-cia-game-and-honor
-description: "A Big Week in Game Design: CIA Game and Honor Bound"
+description: 'A Big Week in Game Design: CIA Game and Honor Bound'
 ---
+
 <p>This week I hit two big milestones related to game design. Our CIA Game’s Kickstarter campaign finished and I released my first game through Patreon.</p><h2>CIA: Collect It All Kickstarter</h2><p>On Tuesday, our <a href="https://www.kickstarter.com/projects/mmasnick/cia-collect-it-all">Kickstarter campaign</a> ended with $151,000 in funding – five times our goal! We were thrilled at the last minute surge of backers with brought in $40,000 in the last two days. Now we just need to produce the game. We already have a manufacturer lined up and working to get the final version of the cards ready for printing. If you missed the Kickstarter but still want a copy, you can <a href="https://www.techdirt.com/ciagame">pre-order here</a>.</p><h2>Honor Bound on Patreon</h2><p>Also on Tuesday, Jason Morningstar and I released Honor Bound. It’s a game that explores honor culture and masculinity through the lens of an old fashioned duel. It starts just after a challenge is issued and follows the duelists, seconds, doctor, and judge as they struggle to de-escalate a fraught situation in a society that values reputation above all else. Working with Jason was a treat and I’m proud of how the game turned out.</p><p>The game is available to anyone who backs <a href="https://www.patreon.com/randylubin">my Patreon</a> or <a href="https://d.rip/bullypulpitgames">his Drip</a>.</p><figure class="tmblr-full" data-orig-height="992" data-orig-width="1374"><img src="/images/0ad642849f2d1832d21e16e1ca0964370cf7661f2a82dea6f8125817b3f9106e.png" data-orig-height="992" data-orig-width="1374"></figure>

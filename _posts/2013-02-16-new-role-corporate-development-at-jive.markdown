@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2013-02-16
+title: 'New Role: Corporate Development at Jive'
+date: 2013-02-16 00:00:00 Z
+permalink: "/post/43188070205/new-role-corporate-development-at-jive"
 tags:
 - work
-title: "New Role: Corporate Development at Jive"
-permalink: /post/43188070205/new-role-corporate-development-at-jive
-description: "New Role: Corporate Development at Jive"
+layout: post
+template: post
+description: 'New Role: Corporate Development at Jive'
 ---
+
 I'm excited to announce I'm transitioning to a role in Corporate Development at [Jive Software](http://en.wikipedia.org/wiki/Jive_Software). In this role I'll be focused on M&amp;A and partnerships with startups.
  
 Following Jive's acquisition of [Meetings.io](http://meetings.io/) in November, I took on the Product Manager role for the new Real Time team. I focused on ensuring a smooth transition and creating an exciting product roadmap. With that accomplished, I'm switching into Corporate Development.

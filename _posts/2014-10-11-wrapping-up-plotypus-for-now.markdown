@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2014-10-11
+title: Wrapping Up Plotypus (For Now)
+date: 2014-10-11 00:00:00 Z
+permalink: "/post/99691964793/wrapping-up-plotypus-for-now"
 tags:
 - plotypus
 - game design
 - board games
-title: "Wrapping Up Plotypus (For Now)"
-permalink: /post/99691964793/wrapping-up-plotypus-for-now
-description: "Wrapping Up Plotypus (For Now)"
+layout: post
+template: post
+description: Wrapping Up Plotypus (For Now)
 ---
+
 This week I mailed out all the copies of Plotypus for the first small-batch run. This was a limited print for friends and family.
 
 ![](/images/6fbf30702a7c5abd268dd3f2baf72ad6eec44ff112ec27be9a89ec11bfe182c1.jpg)

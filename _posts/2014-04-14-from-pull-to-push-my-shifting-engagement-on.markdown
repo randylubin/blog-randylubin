@@ -1,11 +1,12 @@
 ---
+title: 'From Pull to Push: My Shifting Engagement on Facebook and Twitter'
+date: 2014-04-14 00:00:00 Z
+permalink: "/post/82668515759/from-pull-to-push-my-shifting-engagement-on"
 layout: post
 template: post
-date: 2014-04-14
-title: "From Pull to Push: My Shifting Engagement on Facebook and Twitter"
-permalink: /post/82668515759/from-pull-to-push-my-shifting-engagement-on
-description: "From Pull to Push: My Shifting Engagement on Facebook and Twitter"
+description: 'From Pull to Push: My Shifting Engagement on Facebook and Twitter'
 ---
+
 Over the years, my Facebook and Twitter usage has changed significantly. Most notable is that my engagement has shifted from Pull to Push
 
 **Pull**: When a user frequently visits a site, unprompted

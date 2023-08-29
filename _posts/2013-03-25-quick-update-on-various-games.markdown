@@ -1,11 +1,12 @@
 ---
+title: Quick Update on Various Games
+date: 2013-03-25 00:00:00 Z
+permalink: "/post/46233053684/quick-update-on-various-games"
 layout: post
 template: post
-date: 2013-03-25
-title: "Quick Update on Various Games"
-permalink: /post/46233053684/quick-update-on-various-games
-description: "Quick Update on Various Games"
+description: Quick Update on Various Games
 ---
+
 It's been a few weeks so I wanted to give an update on the various game projects in which I'm involved.
 
 ## Nation Building

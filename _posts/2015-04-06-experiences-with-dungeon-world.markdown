@@ -1,16 +1,17 @@
 ---
-layout: post
-template: post
-date: 2015-04-06
+title: Experiences with Dungeon World
+date: 2015-04-06 00:00:00 Z
+permalink: "/post/115645201903/experiences-with-dungeon-world"
 tags:
 - rpg
 - dungeon world
 - storytelling games
 - games
-title: "Experiences with Dungeon World"
-permalink: /post/115645201903/experiences-with-dungeon-world
-description: "Experiences with Dungeon World"
+layout: post
+template: post
+description: Experiences with Dungeon World
 ---
+
 I've taken a short break from my Future of Work and Labor series but hope to resume it next week. I'm fairly tired but didn't want to miss a week of I[ron Blogger](http://iron-blogger-sf.com/)&nbsp;so I’ll write a quick post on my latest explorations into tabletop RPGs.
 
 In the last few weeks I’ve run two no-prep one-shot sessions of Dungeon World (DW). No-prep means that I didn’t do any work on the story or world in advance and one-shot means that the story is self contained in one session (rather than over multiple days). I used [this guide](https://docs.google.com/document/d/17ypjtlHfcwqrU_-x4b7o0e8tZ_dN2TiNLUu48MLAw7Y/edit) to run the session.

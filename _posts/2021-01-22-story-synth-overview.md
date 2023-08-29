@@ -1,14 +1,14 @@
 ---
-layout: post
-template: post
-date: 2021-01-22 16:31:08 +0000
+title: Overview of Story Synth, my web platform for storytelling games
+date: 2021-01-22 16:31:08 Z
 tags:
 - Story Synth
-title: Overview of Story Synth, my web platform for storytelling games
+layout: post
+template: post
 description: All about Story Synth, a web platform for prompt-driven storytelling
   games.
-
 ---
+
 A few months back I launched Story Synth, a web platform for designing, playing, and sharing prompt-driven storytelling games. I'm loving how it's shaping up and hope to continue expanding it for years to come. This post covers the past, present, and future of the platform.
 
 ![](/images/screen-shot-2021-01-22-at-8-58-21-am.png)

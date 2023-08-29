@@ -1,11 +1,12 @@
 ---
+title: Thoughts on Startup School 2013
+date: 2013-10-20 00:00:00 Z
+permalink: "/post/64596205301/thoughts-on-startup-school-2013"
 layout: post
 template: post
-date: 2013-10-20
-title: "Thoughts on Startup School 2013"
-permalink: /post/64596205301/thoughts-on-startup-school-2013
-description: "Thoughts on Startup School 2013"
+description: Thoughts on Startup School 2013
 ---
+
 Yesterday I attended YC's [Startup School](http://startupschool.org/). It's an annual day of awesome talks and interviews with tech luminaries.
 
 This was my second time going (I went in 2010). Overall it was very entertaining but I don't think I learned anything new. The speakers all had great things to say but it was very much silicon valley consensus. I still enjoyed myself, though, and came away energized.

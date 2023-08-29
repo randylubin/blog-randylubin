@@ -1,7 +1,7 @@
 ---
-layout: post
-template: post
-date: 2015-02-24
+title: 'Future of Work and Labor: Commoditization of Labor'
+date: 2015-02-24 00:00:00 Z
+permalink: "/post/111962448733/future-of-work-and-labor-commoditization-of-labor"
 tags:
 - future of labor
 - future of work
@@ -9,10 +9,11 @@ tags:
 - worker alienation
 - commoditization of labor
 - technology
-title: "Future of Work and Labor: Commoditization of Labor"
-permalink: /post/111962448733/future-of-work-and-labor-commoditization-of-labor
-description: "Future of Work and Labor: Commoditization of Labor"
+layout: post
+template: post
+description: 'Future of Work and Labor: Commoditization of Labor'
 ---
+
 This is the third post in my ‘Future of Work and Labor’ series. The [first post](http://blog.randylubin.com/post/111157362883/the-future-of-work-and-labor-macro-trends) covered macro trends and the [second](http://blog.randylubin.com/post/111521237963/future-of-work-and-labor-increasing-productivity) illustrated how increasing productivity opens new markets, to the benefit of entrepreneurs and consumers alike. This post looks at a result of these trends - commoditization of labor - and its positive and negative implications.
 
 Freelancing and outsourcing are becoming widespread, commoditizing labor in the process. More than ever, teams can view contractors as interchangeable and platforms like Uber, TaskRabbit, and Homejoy treat workers as such. For organizations, this is a boon; the endless supply of on-demand workers allows companies to scale up and down their workforce as needed, with little money wasted on unutilized time; new contractors can quickly become productive though low cost training programs. For workers, however, results are very mixed.

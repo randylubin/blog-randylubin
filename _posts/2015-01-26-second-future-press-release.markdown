@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2015-01-26
+title: Link post
+date: 2015-01-26 00:00:00 Z
+permalink: "/post/109214098883/second-future-press-release"
 tags:
 - future press releases
 - futurePR
 - fiction
-title: "Link post"
-permalink: /post/109214098883/second-future-press-release
-description: "Second 'Future Press Release'"
+layout: post
+template: post
+description: Second 'Future Press Release'
 ---
+
 <http://futurepressreleases.tumblr.com/post/109213444916/chef-blake-braddock-opens-new-restaurant-qualia>
 
 I just created my second post for Future Press Releases:

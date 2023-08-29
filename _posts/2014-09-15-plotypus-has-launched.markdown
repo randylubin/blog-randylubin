@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2014-09-15
+title: Plotypus Has Launched!
+date: 2014-09-15 00:00:00 Z
+permalink: "/post/97529787018/plotypus-has-launched"
 tags:
 - plotypus
 - board games
 - game design
-title: "Plotypus Has Launched!"
-permalink: /post/97529787018/plotypus-has-launched
-description: "Plotypus Has Launched!"
+layout: post
+template: post
+description: Plotypus Has Launched!
 ---
+
 I'm am very pleased to announce that I've launched [Plotypus](http://plotypus.com/) - the collaborative story telling card game I've been developing this year. See [this post](http://blog.randylubin.com/post/95053299523/plotypus-collaborative-storytelling-card-game) for an overview of the game.
 
 ![](/images/717a957dd7276e130120281df6eba7e1cd8bbdc9de17c50bcc6737e6d17a9ce6.gif)

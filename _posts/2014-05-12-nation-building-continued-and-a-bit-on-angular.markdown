@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-05-12
+title: Nation Building Continued - and a bit on Angular
+date: 2014-05-12 00:00:00 Z
+permalink: "/post/85503914238/nation-building-continued-and-a-bit-on-angular"
 tags:
 - game design
 - nation building
-title: "Nation Building Continued - and a bit on Angular"
-permalink: /post/85503914238/nation-building-continued-and-a-bit-on-angular
-description: "Nation Building Continued - and a bit on Angular"
+layout: post
+template: post
+description: Nation Building Continued - and a bit on Angular
 ---
+
 This week I've made a lot more progress on my [civilization building game](http://blog.randylubin.com/post/84806005103/nation-building-redux).
 
 There isn't a fully playable game yet but there's a good chunk of early exploration written. I've also built several modules which will help me build the rest of the game more quickly.

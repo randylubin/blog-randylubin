@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-04-08
+title: Nation Builder - Dynamic Growth
+date: 2013-04-08 00:00:00 Z
+permalink: "/post/47438515379/nation-builder-dynamic-growth"
 tags:
 - nation building
 - game design
-title: "Nation Builder - Dynamic Growth"
-permalink: /post/47438515379/nation-builder-dynamic-growth
-description: "Nation Builder - Dynamic Growth"
+layout: post
+template: post
+description: Nation Builder - Dynamic Growth
 ---
+
 I only spent a few hours on Nation Building this week but I have added dynamical growth. You can try it out [here](http://nationbuilding.randylubin.com) but it's still far from a complete game.
 
 For now I'm using a [Logistic Function](http://en.wikipedia.org/wiki/Logistic_growth) to model the growth of the human population and the ecology. A logistic growth function looks like this:

@@ -1,7 +1,7 @@
 ---
-layout: post
-template: post
-date: 2015-02-08
+title: Tabletop Roleplaying Games, Continued
+date: 2015-02-08 00:00:00 Z
+permalink: "/post/110412294103/tabletop-roleplaying-games-continued"
 tags:
 - board games
 - rpg
@@ -9,10 +9,11 @@ tags:
 - pathfinder
 - game design
 - dungeon world
-title: "Tabletop Roleplaying Games, Continued"
-permalink: /post/110412294103/tabletop-roleplaying-games-continued
-description: "Tabletop Roleplaying Games, Continued"
+layout: post
+template: post
+description: Tabletop Roleplaying Games, Continued
 ---
+
 In December I wrote about my foray into [Tabletop (Pen &amp; Paper) RPGs](http://blog.randylubin.com/post/105991687963/pen-and-paper-role-playing-games). Since then I've continued to explore the genre and learn quite a bit.
 
 ### Playing at the World &amp; GNS Theory

@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-01-14
+title: Bro-gramming (teaching my brother to code)
+date: 2013-01-14 00:00:00 Z
+permalink: "/post/40495100863/bro-gramming-teaching-my-brother-to-code"
 tags:
 - programming
 - education
-title: "Bro-gramming (teaching my brother to code)"
-permalink: /post/40495100863/bro-gramming-teaching-my-brother-to-code
-description: "Bro-gramming (teaching my brother to code)"
+layout: post
+template: post
+description: Bro-gramming (teaching my brother to code)
 ---
+
 I've been trying to get my brother into coding for years now. He's expressed interest but has always been too busy. Last week, having just finished his first semester at college - and bored at home on winter break - was finally ready to learn.
 
 I was in San Francisco and he was in NJ so we started over video chat. I outlined the various parts of web development, described how they fit together, and then let him pick where to start. He opted to begin with front-end coding as he liked the quick feedback loop and wanted to create a personal website. He found back-end programming interesting but didn't have any project ideas about which he was excited.

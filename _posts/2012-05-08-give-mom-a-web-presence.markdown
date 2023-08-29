@@ -1,11 +1,12 @@
 ---
+title: Give Mom a Web Presence
+date: 2012-05-08 00:00:00 Z
+permalink: "/post/22681334980/give-mom-a-web-presence"
 layout: post
 template: post
-date: 2012-05-08
-title: "Give Mom a Web Presence"
-permalink: /post/22681334980/give-mom-a-web-presence
-description: "Give Mom a Web Presence"
+description: Give Mom a Web Presence
 ---
+
 <p>Mother's Day is this Sunday - give Mom the gift of web presence.</p>&#13;
 <p>For under $10 and less than an hour's work you can buy a domain and connect it to Tumblr (micro-blogging platform).  Featuring:</p>&#13;
 <ul><li>Her own domain name (i.e. your-mom's-name.com)</li>&#13;

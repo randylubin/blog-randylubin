@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2014-12-01
+title: Frontiers - My Next Storytelling Game
+date: 2014-12-01 00:00:00 Z
+permalink: "/post/104060436293/frontiers-my-next-storytelling-game"
 tags:
 - game design
 - board games
 - frontiers
-title: "Frontiers - My Next Storytelling Game"
-permalink: /post/104060436293/frontiers-my-next-storytelling-game
-description: "Frontiers - My Next Storytelling Game"
+layout: post
+template: post
+description: Frontiers - My Next Storytelling Game
 ---
+
 After the fun and successful launch of [Plotypus](http://plotypus.com/), I'm excited to announce my next game - Frontiers (working title). If you're interested in Frontiers related update, sign-up for the [email list](http://eepurl.com/cvSa2f).
 
 ### The Inspiration

@@ -1,11 +1,12 @@
 ---
+title: 'Cognitive Surplus: Retirees'
+date: 2012-01-30 00:00:00 Z
+permalink: "/post/16753734669/cognitive-surplus-retirees"
 layout: post
 template: post
-date: 2012-01-30
-title: "Cognitive Surplus: Retirees"
-permalink: /post/16753734669/cognitive-surplus-retirees
-description: "Cognitive Surplus: Retirees"
+description: 'Cognitive Surplus: Retirees'
 ---
+
 <p>This is a follow-up to my previous post <a href="http://blog.randylubin.com/post/16753318582/cognitive-surplus-intro" title="cognitive-surplus-intro" target="_blank">Cognitive Surplus: Intro</a></p>&#13;
 <p>Retirees are one group which have a remarkable amount of cognitive surplus and represent an immense untapped asset.  Many retirees while away their days watching TV and playing golf or cards.  At first this may be a nice reprieve from decades of hard work but many find it unfulfilling; they are left bored and bereft of meaningful activity.</p>&#13;
 <p>When people (especially young people) think of retirees they envision infirm elders lacking in energy or intellectual vigor.  There are large numbers of retirees for whom this couldn't be further from the truth.</p>&#13;

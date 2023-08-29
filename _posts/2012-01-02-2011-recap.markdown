@@ -1,11 +1,12 @@
 ---
+title: 2011 Recap
+date: 2012-01-02 00:00:00 Z
+permalink: "/post/15162266483/2011-recap"
 layout: post
 template: post
-date: 2012-01-02
-title: "2011 Recap"
-permalink: /post/15162266483/2011-recap
-description: "2011 Recap"
+description: 2011 Recap
 ---
+
 <p>2011 was an awesome year for me, full of change.</p>&#13;
 <p>I spent the first half of the year wrapping up my MBA program at Stanford.  The final quarter was bittersweet-tons of fun classes, events, and parties but we weren't ready for it to end; the two years had gone by incredibly quickly.  Graduation weeks was excellent and I loved having my parents and grandparents in town.</p>&#13;
 <p>Once school ended, I decided to give myself 3 to 6 months to settle on a start-up idea to build.  I've been churning through concepts since coming to Stanford (earlier, really) and have been ruthless in killing them.  I developed a few theses I liked but couldn't settle on an implementation... I'll try to write separate posts about the different areas of focus.</p>&#13;

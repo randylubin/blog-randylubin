@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2013-06-15
+title: London / Ungrounded
+date: 2013-06-15 00:00:00 Z
+permalink: "/post/52984425893/london-ungrounded"
 tags:
 - travel
 - london
 - ungrounded
-title: "London / Ungrounded"
-permalink: /post/52984425893/london-ungrounded
-description: "London / Ungrounded"
+layout: post
+template: post
+description: London / Ungrounded
 ---
+
 It's been a crazy few days. 
 
 The Ungrounded flight was fun but exhausting. Everyone on the flight was incredible - brilliant, accomplished, and really nice. It was a bit tough doing a hackathon in flight but IDEO did a good job facilitating. You can see a full writeup of the flight by Chrissy: http://venturebeat.com/2013/06/14/brainstorming-at-30k-feet-reflections-from-the-hackathon-in-the-sky/

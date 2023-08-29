@@ -1,11 +1,12 @@
 ---
+title: 'Cognitive Surplus: Intro'
+date: 2012-01-30 00:00:00 Z
+permalink: "/post/16753318582/cognitive-surplus-intro"
 layout: post
 template: post
-date: 2012-01-30
-title: "Cognitive Surplus: Intro"
-permalink: /post/16753318582/cognitive-surplus-intro
-description: "Cognitive Surplus: Intro"
+description: 'Cognitive Surplus: Intro'
 ---
+
 <p>I love talking about cognitive surplus...   Clay Shirky coined the term in his book <a href="http://www.amazon.com/gp/product/0143119583/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=randylubincom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0143119583">Cognitive Surplus: How Technology Makes Consumers into Collaborators</a><img border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=randylubincom-20&amp;l=as2&amp;o=1&amp;a=0143119583" width="1" />.  I'll provide a brief overview of the concept in this post and then elaborate on possibilites in follow-ups.</p>&#13;
 <p>First, an awesome fact from the book:</p>&#13;
 <p>The cumulative amount of volunteer time that has gone into creating the English version of Wikipedia (authoring, editing, discussing content): 100 million hours.</p>&#13;

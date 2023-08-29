@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-12-29
+title: 2015 Goals
+date: 2014-12-29 00:00:00 Z
+permalink: "/post/106531740593/2015-goals"
 tags:
 - goals
-title: "2015 Goals"
-permalink: /post/106531740593/2015-goals
-description: "2015 Goals"
+layout: post
+template: post
+description: 2015 Goals
 ---
+
 My last post [recapped 2014](http://blog.randylubin.com/post/106430683533/2014-recap), this post will look at some goals for 2015.
 
 ### Full-time Endeavors

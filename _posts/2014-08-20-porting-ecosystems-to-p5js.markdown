@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-08-20
+title: Porting Ecosystems to p5.js
+date: 2014-08-20 00:00:00 Z
+permalink: "/post/95259972368/porting-ecosystems-to-p5js"
 tags:
 - processing
 - programming
-title: "Porting Ecosystems to p5.js"
-permalink: /post/95259972368/porting-ecosystems-to-p5js
-description: "Porting Ecosystems to p5.js"
+layout: post
+template: post
+description: Porting Ecosystems to p5.js
 ---
+
 [Check out Ecosystem with p5.js](http://randylubin.github.io/ecosystem-p5js/)
 
 Back in 2012, I was experimenting with Processing, a programing language / environment optimized for generative art. My main output was 'Ecosystem' which I talked about [here](http://blog.randylubin.com/post/22111666178/ecosystem-a-little-art-project).

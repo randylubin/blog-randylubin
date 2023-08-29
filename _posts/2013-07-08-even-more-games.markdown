@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2013-07-08
+title: Even more games!
+date: 2013-07-08 00:00:00 Z
+permalink: "/post/54896173072/even-more-games"
 tags:
 - board games
-title: "Even more games!"
-permalink: /post/54896173072/even-more-games
-description: "Even more games!"
+layout: post
+template: post
+description: Even more games!
 ---
+
 Continuing on from my [last post](http://blog.randylubin.com/post/54322246262/another-summer-of-board-games) - I've played four new games this week. Here are some quick thoughts on them.
 
 ###Tales of the Arabian Nights

@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2013-09-03
+title: Last day at Jive
+date: 2013-09-03 00:00:00 Z
+permalink: "/post/60216595121/last-day-at-jive"
 tags:
 - jive
-title: "Last day at Jive"
-permalink: /post/60216595121/last-day-at-jive
-description: "Last day at Jive"
+layout: post
+template: post
+description: Last day at Jive
 ---
+
 Today was my last day at Jive - I'm heading back to the startup world!
 
 I've been with Jive since we [sold Meetings.io](http://blog.randylubin.com/post/35532405132/meetings-io-acquisition) last year. I've had a great time working with everyone there - first as PM of Real Time, then on the Corp Dev team - and I learned a lot about how big companies operate.

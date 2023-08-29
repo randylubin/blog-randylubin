@@ -1,11 +1,12 @@
 ---
+title: Technological Unemployment and 'Race Against the Machine'
+date: 2012-07-16 00:00:00 Z
+permalink: "/post/27300807822/technological-unemployment-and-race-against-the"
 layout: post
 template: post
-date: 2012-07-16
-title: "Technological Unemployment and 'Race Against the Machine'"
-permalink: /post/27300807822/technological-unemployment-and-race-against-the
-description: "Technological Unemployment and 'Race Against the Machine'"
+description: Technological Unemployment and 'Race Against the Machine'
 ---
+
 <p>This week I read an awesome short book: <a href="http://raceagainstthemachine.com/">Race Against the Machine</a> by McAfee and Brynjolfsson. They dive into accelerating technological change, technological unemployment, and the future of the economy, and then make recommendations as to how we need to adapt. I highly recommend it.</p>&#13;
 <p>For my regular readers, it's like a highly articulate and well cited version of my previous posts <em>Fixing Unemployments Parts <a href="http://blog.randylubin.com/post/24392366236/fixing-unemployment-part-1">One</a>, <a href="http://blog.randylubin.com/post/24873667375/fixing-unemployment-part-2">Two</a>, and <a href="http://blog.randylubin.com/post/25841298247/fixing-unemployment-part-3">Three</a></em>. If you enjoyed those posts or are at all interested in the massive disruptive change we'll encounter in the near future - it's worth a read.</p>&#13;
 <p>The only problem I have with the book is the recommendations section. The recommendations fall into four catagories:</p>&#13;

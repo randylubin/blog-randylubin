@@ -1,11 +1,12 @@
 ---
+title: 2014 Goals
+date: 2014-01-06 00:00:00 Z
+permalink: "/post/72444792327/2014-goals"
 layout: post
 template: post
-date: 2014-01-06
-title: "2014 Goals"
-permalink: /post/72444792327/2014-goals
-description: "2014 Goals"
+description: 2014 Goals
 ---
+
 My last post [recapped 2013](http://blog.randylubin.com/post/71609909624/2013-recap). This post will talk a bit about my goals for 2014.
 
 My primary goal is to be more productive. Borrowing from a friend's idea - I'm going to start measuring the daily percentage of time spent productively and aim to keep improving that number.

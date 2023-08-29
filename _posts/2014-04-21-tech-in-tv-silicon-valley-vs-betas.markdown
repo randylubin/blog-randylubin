@@ -1,11 +1,12 @@
 ---
+title: Tech in TV - Silicon Valley vs Betas
+date: 2014-04-21 00:00:00 Z
+permalink: "/post/83391259789/tech-in-tv-silicon-valley-vs-betas"
 layout: post
 template: post
-date: 2014-04-21
-title: "Tech in TV - Silicon Valley vs Betas"
-permalink: /post/83391259789/tech-in-tv-silicon-valley-vs-betas
-description: "Tech in TV - Silicon Valley vs Betas"
+description: Tech in TV - Silicon Valley vs Betas
 ---
+
 There are two recent fictional TV shows that feature the tech scene in the Bay Area: HBO's _Silicon Valley_ and Amazon's _Betas_. As I watch this show, I'm sensitive to how well they capture what it's like to capture the bizarre, unique culture that is the startup scene in SF. 
 
 

@@ -1,17 +1,18 @@
 ---
-layout: post
-template: post
-date: 2015-09-07
+title: More musings on RPGs and GMing
+date: 2015-09-07 00:00:00 Z
+permalink: "/post/128537876723/more-musings-on-rpgs-and-gming"
 tags:
 - rpg
 - GMing
 - games
 - game design
 - role playing games
-title: "More musings on RPGs and GMing"
-permalink: /post/128537876723/more-musings-on-rpgs-and-gming
-description: "More musings on RPGs and GMing"
+layout: post
+template: post
+description: More musings on RPGs and GMing
 ---
+
 Through the past many months, I've continued to play and run tabletop role playing games. I've seen many types of systems, players, and game masters (GMs) and I've gathered some of my observations here. A disclaimer - there are many different ways to play and these observations relate to my preferred play styles; there are plenty of other ways to enjoy the hobby.
 
 ### Three GMing Skills

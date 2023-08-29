@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-11-11
+title: 'Review: Rocksmith 2014'
+date: 2013-11-11 00:00:00 Z
+permalink: "/post/66654578147/review-rocksmith-2014"
 tags:
 - review
 - rocksmith
-title: "Review: Rocksmith 2014"
-permalink: /post/66654578147/review-rocksmith-2014
-description: "Review: Rocksmith 2014"
+layout: post
+template: post
+description: 'Review: Rocksmith 2014'
 ---
+
 ![](/images/afeb57e7b72edbb0ca0fe28dd2309c4c9d779a4a7abbb8a0d917f726e11e1c30.jpg)
 
 I have seen the future of education in the video game Rocksmith 2014. 

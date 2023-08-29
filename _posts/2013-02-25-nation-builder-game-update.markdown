@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-02-25
+title: Nation Builder (Game Update)
+date: 2013-02-25 00:00:00 Z
+permalink: "/post/43971448957/nation-builder-game-update"
 tags:
 - nation building
 - game design
-title: "Nation Builder (Game Update)"
-permalink: /post/43971448957/nation-builder-game-update
-description: "Nation Builder (Game Update)"
+layout: post
+template: post
+description: Nation Builder (Game Update)
 ---
+
 Just a quick post tonight, as it's already pretty late.
 
 I've been building the game I mentioned in [this post](http://blog.randylubin.com/post/42250698277/game-idea-inspired-by-the-origins-of-political-order). The working title is Nation Builder but I'll likely change it soon.

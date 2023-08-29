@@ -1,11 +1,12 @@
 ---
+title: Journey to the End of the Night
+date: 2014-10-27 00:00:00 Z
+permalink: "/post/101055871793/journey-to-the-end-of-the-night"
 layout: post
 template: post
-date: 2014-10-27
-title: "Journey to the End of the Night"
-permalink: /post/101055871793/journey-to-the-end-of-the-night
-description: "Journey to the End of the Night"
+description: Journey to the End of the Night
 ---
+
 This weekend I participated in the excellent [Journey to the End of the Night](http://ichaseyou.com/). Journey is the annual capstone to the always fun outdoor games festival [Come Out and Play](http://comeoutandplaysf.org/).
 
 This was my first year participating in Journey and it was a blast. The goal of Journey is to make it from the start zone to six different checkpoint stations across the city, get your map stamped, and then make it to the home base. However, there are enemy zombies everywhere and if they tag you, you become a zombie too. The checkpoints and public transit are safe zones where you can't be tagged; the rest of the city is a danger zone. The game takes place over about four square miles.

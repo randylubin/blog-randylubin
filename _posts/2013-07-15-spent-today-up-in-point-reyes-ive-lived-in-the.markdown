@@ -1,13 +1,14 @@
 ---
+title: Photo post
+date: 2013-07-15 00:00:00 Z
+permalink: "/post/55492316594/spent-today-up-in-point-reyes-ive-lived-in-the"
 layout: post
 template: post
-date: 2013-07-15
-title: "Photo post"
-permalink: /post/55492316594/spent-today-up-in-point-reyes-ive-lived-in-the
-description: "Spent today up in Point Reyes. I've lived in the Bay Area for almost four years and this was my first time there.
-
-We (my..."
+description: |-
+  Spent today up in Point Reyes. I've lived in the Bay Area for almost four years and this was my first time there.
+  We (my...
 ---
+
 ![Alamere Falls](/images/5ee48b4b7c440a96a068c149d2b47e55b60f2254f2f096ecbd1630162f2a145f.jpg)
 
 Spent today up in Point Reyes. I've lived in the Bay Area for almost four years and this was my first time there.

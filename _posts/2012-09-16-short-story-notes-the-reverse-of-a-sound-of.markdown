@@ -1,11 +1,12 @@
 ---
+title: Short Story Notes, the Reverse of 'A Sound of Thunder'
+date: 2012-09-16 00:00:00 Z
+permalink: "/post/31689315945/short-story-notes-the-reverse-of-a-sound-of"
 layout: post
 template: post
-date: 2012-09-16
-title: "Short Story Notes, the Reverse of 'A Sound of Thunder'"
-permalink: /post/31689315945/short-story-notes-the-reverse-of-a-sound-of
-description: "Short Story Notes, the Reverse of 'A Sound of Thunder'"
+description: Short Story Notes, the Reverse of 'A Sound of Thunder'
 ---
+
 <p>Here's another idea for a short story which I may or may not write in full: a reverse version of Bradbury's <em>A Sound of Thunder</em>.</p>&#13;
 <p>Bradbury's classic story, in full form <a href="http://www.lasalle.edu/~didio/courses/hon462/hon462_assets/sound_of_thunder.htm">here</a>, is about a group of time travelers who go on a safari to kill a dinosaur and inadvertently change the future by stepping on a butterfly. I'd like to explore the implications of a time traveler who visits the <em>future</em> and realizes how subtle actions he takes in the <em>present </em>can dramatically affect the course of society.</p>&#13;
 <p>Some notes on how this might play out:</p>&#13;

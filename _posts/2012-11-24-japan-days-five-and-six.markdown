@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2012-11-24
+title: 'Japan: Days Five and Six'
+date: 2012-11-24 00:00:00 Z
+permalink: "/post/36417645113/japan-days-five-and-six"
 tags:
 - japan
 - travel
-title: "Japan: Days Five and Six"
-permalink: /post/36417645113/japan-days-five-and-six
-description: "Japan: Days Five and Six"
+layout: post
+template: post
+description: 'Japan: Days Five and Six'
 ---
+
 <p>It's Saturday afternoon and we just checked into our hotel in Yamaguchi. Let me backtrack to where the last post left off.</p>
 <p>We spent Friday morning in Hiroshima and toured the Hiroshima Peace Memorial Museum. It covered what Hiroshima was like before the bomb, the affects of the bomb, and the rebuilding of the city. The museum was well done and moving.</p>
 <p>We then walked round&nbsp;Hiroshima&nbsp;a bit before catching a train to Tsuwano. Tsuwano is a small mountain town in rural Japan, about three hours ride from&nbsp;Hiroshima. After throwing our bags at the hotel, we started exploring the town. There are small irrigation ditches running along the roads and most are filled with koi.</p>

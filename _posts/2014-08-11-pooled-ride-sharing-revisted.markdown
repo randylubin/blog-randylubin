@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-08-11
+title: Pooled ride sharing revisted
+date: 2014-08-11 00:00:00 Z
+permalink: "/post/94405644823/pooled-ride-sharing-revisted"
 tags:
 - technology
 - startups
-title: "Pooled ride sharing revisted"
-permalink: /post/94405644823/pooled-ride-sharing-revisted
-description: "Pooled ride sharing revisted"
+layout: post
+template: post
+description: Pooled ride sharing revisted
 ---
+
 Over two years ago, I wrote [this post](http://blog.randylubin.com/post/21635542675/thought-experiment-uber-meets-super-shuttle) exploring the concept of Uber-meets-Shuttles to get point-to-point car service at a lower cost with only slightly less convenience.  I spent some time exploring the model but chose not to pursue it.
 
 ![](/images/322d02947cd46927547fb32a74ba50c0da0415cd10f5572ade996a2463e07428.png)

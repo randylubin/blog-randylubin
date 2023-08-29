@@ -1,11 +1,12 @@
 ---
+title: Two New Series of Posts
+date: 2012-01-16 00:00:00 Z
+permalink: "/post/15934880043/two-new-series-of-posts"
 layout: post
 template: post
-date: 2012-01-16
-title: "Two New Series of Posts"
-permalink: /post/15934880043/two-new-series-of-posts
-description: "Two New Series of Posts"
+description: Two New Series of Posts
 ---
+
 <p>As part of my effort to blog more frequently I'm going to start two new series of posts.</p>&#13;
 &#13;
 <p><strong>Steal This Idea</strong></p>&#13;

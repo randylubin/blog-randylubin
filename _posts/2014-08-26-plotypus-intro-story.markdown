@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-08-26
+title: Plotypus Intro Story
+date: 2014-08-26 00:00:00 Z
+permalink: "/post/95808125998/plotypus-intro-story"
 tags:
 - plotypus
 - fiction
-title: "Plotypus Intro Story"
-permalink: /post/95808125998/plotypus-intro-story
-description: "Plotypus Intro Story"
+layout: post
+template: post
+description: Plotypus Intro Story
 ---
+
 _Update: I've launched the game at [Plotypus.com](http://plotypus.com/) and am [taking orders](https://docs.google.com/forms/d/11JkmwRjOYLij3mYyOxODymbVG3jB3fj5bhIpfKU5QB8/viewform?usp=send_form) for a limited time._
 
 Last week I [wrote about Plotypus](http://blog.randylubin.com/post/95053299523/plotypus-collaborative-storytelling-card-game), the storytelling game I've been developing. I wrote a (very) short story to introduce the game. It might not make it into the final game manual but I'm happy with how it turned out.

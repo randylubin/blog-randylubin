@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-08-04
+title: 'Two Hikes: King Mountain and Mt. Tam'
+date: 2014-08-04 00:00:00 Z
+permalink: "/post/93757010068/two-hikes-king-mountain-and-mt-tam"
 tags:
 - hiking
 - marin
-title: "Two Hikes: King Mountain and Mt. Tam"
-permalink: /post/93757010068/two-hikes-king-mountain-and-mt-tam
-description: "Two Hikes: King Mountain and Mt. Tam"
+layout: post
+template: post
+description: 'Two Hikes: King Mountain and Mt. Tam'
 ---
+
 I went on two nice hikes recently: King Mountain and Mount Tam.
 
 ### King Mountain

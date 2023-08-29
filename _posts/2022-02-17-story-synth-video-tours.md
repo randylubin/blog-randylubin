@@ -1,12 +1,11 @@
 ---
+title: Story Synth Video Tours
+date: 2022-02-17 01:20:38 Z
 layout: post
 template: post
-date: 2022-02-17 01:20:38 +0000
-tags: []
-title: Story Synth Video Tours
 description: Links to the new video tours of Story Synth
-
 ---
+
 In support of the newly announced [Story Synth Microgrant Program](https://www.bigbadcon.com/story-synth-microgrants/), I've been recording video tours of Story Synth.
 
 Check them out:

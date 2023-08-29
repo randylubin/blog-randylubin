@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2013-07-01
+title: Another summer of board games
+date: 2013-07-01 00:00:00 Z
+permalink: "/post/54322246262/another-summer-of-board-games"
 tags:
 - board games
-title: "Another summer of board games"
-permalink: /post/54322246262/another-summer-of-board-games
-description: "Another summer of board games"
+layout: post
+template: post
+description: Another summer of board games
 ---
+
 Last summer I got pretty [hooked](http://blog.randylubin.com/post/32659440239/board-games-and-the-mechanics-of-fun) on board games. I didn't realize how interesting / awesome modern board games could be.
 
  This summer is shaping up to be board game heavy as well, aided in part by my brother staying with me and always being up to play. So far we've played 7 Wonders, Munchkins, Arkham Horror, Descent: Journeys in the Dark, and the new Game of Thrones expansion: A Feast For Crows. The last two are new games for me and I'm very excited about them.

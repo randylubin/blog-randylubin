@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2014-06-01
+title: Trekking in Nepal (Days One and Two)
+date: 2014-06-01 00:00:00 Z
+permalink: "/post/87496937233/trekking-in-nepal-days-one-and-two"
 tags:
 - nepal
 - trekking
 - travel
-title: "Trekking in Nepal (Days One and Two)"
-permalink: /post/87496937233/trekking-in-nepal-days-one-and-two
-description: "Trekking in Nepal (Days One and Two)"
+layout: post
+template: post
+description: Trekking in Nepal (Days One and Two)
 ---
+
 ![](/images/347996d341e660814a271f44a157cbd70d9a2b893bfcd051bd86d39fd1725b31.jpg)
 
 This past week I spent some time trekking in Nepal. The views, food, exercise, and experience were awesome.

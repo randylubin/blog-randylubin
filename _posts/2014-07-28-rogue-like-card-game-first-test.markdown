@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-07-28
+title: Rogue-like card game - first test
+date: 2014-07-28 00:00:00 Z
+permalink: "/post/93089686343/rogue-like-card-game-first-test"
 tags:
 - board games
 - game design
-title: "Rogue-like card game - first test"
-permalink: /post/93089686343/rogue-like-card-game-first-test
-description: "Rogue-like card game - first test"
+layout: post
+template: post
+description: Rogue-like card game - first test
 ---
+
 Following on [this post](http://blog.randylubin.com/post/91717539753/rogue-like-card-game)
 
 I came up with a quick set of rules to start testing my card game rouge-like via Munchkins. I filtered the monsters treasures into four 'levels' of the dungeon and added a health and revised combat system.

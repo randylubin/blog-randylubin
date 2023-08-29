@@ -1,11 +1,12 @@
 ---
+title: 'Arrested Development: Season 4 - final thoughts'
+date: 2013-06-03 00:00:00 Z
+permalink: "/post/52035799943/arrested-development-season-4-final-thoughts"
 layout: post
 template: post
-date: 2013-06-03
-title: "Arrested Development: Season 4 - final thoughts"
-permalink: /post/52035799943/arrested-development-season-4-final-thoughts
-description: "Arrested Development: Season 4 - final thoughts"
+description: 'Arrested Development: Season 4 - final thoughts'
 ---
+
 Following up on last week's [post](http://blog.randylubin.com/post/51456112870/arrested-development-season-4-first-thoughts):
 
 Though the fourth season got off to a strange start - I thoroughly enjoyed it. As the season went on, some of the quirks faded (e.g. less narration) and the plotting improved. There were also a few story arcs (Tobias and G.O.B.) that turned excellent.

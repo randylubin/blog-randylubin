@@ -1,11 +1,12 @@
 ---
+title: Meaning and Silicon Valley
+date: 2012-03-20 00:00:00 Z
+permalink: "/post/19641312830/meaning-and-silicon-valley"
 layout: post
 template: post
-date: 2012-03-20
-title: "Meaning and Silicon Valley"
-permalink: /post/19641312830/meaning-and-silicon-valley
-description: "Meaning and Silicon Valley"
+description: Meaning and Silicon Valley
 ---
+
 <p>Nick Pinkston just posted a very interesting <a href="http://postscarcity.tumblr.com/post/19618489412/meaning-is-the-new-perk-or-how-silicon-valley-needs-a">article</a> on the role of meaning in the current Silicon Valley ecosystem.  Here are a few of my thoughts in response:</p>&#13;
 <p><strong>Meaning as a Competitive Advantage</strong></p>&#13;
 <p>Nick mentions Meaning as a perk for employees.  I totally agree and think that companies with meaningful visions have a serious advantage in recruiting.  Competition over engineers is incredibly fierce and the opportunity to make a positive impact on the world has serious allure (especially when compared with Zynga or yet another daily deals site).</p>&#13;

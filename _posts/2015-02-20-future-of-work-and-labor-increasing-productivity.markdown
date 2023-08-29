@@ -1,17 +1,18 @@
 ---
-layout: post
-template: post
-date: 2015-02-20
+title: 'Future of Work and Labor: Increasing Productivity Opens Myriad Opportunities'
+date: 2015-02-20 00:00:00 Z
+permalink: "/post/111521237963/future-of-work-and-labor-increasing-productivity"
 tags:
 - future of work
 - future of labor
 - technology
 - startups
 - productivity
-title: "Future of Work and Labor: Increasing Productivity Opens Myriad Opportunities"
-permalink: /post/111521237963/future-of-work-and-labor-increasing-productivity
-description: "Future of Work and Labor: Increasing Productivity Opens Myriad Opportunities"
+layout: post
+template: post
+description: 'Future of Work and Labor: Increasing Productivity Opens Myriad Opportunities'
 ---
+
 [Last post I talked about macro trends](http://blog.randylubin.com/post/111157362883/the-future-of-work-and-labor-macro-trends) that are shaping the future of work and labor. Over the next few posts, I’ll explore the trends’ ramifications and how they combine to induce greater economic shifts. This post focuses on increasing productivity opening new markets.
 
 In the previous post, I highlighted how access to capital and labor are increasing while the costs of production - both transaction, fixed, and marginal costs - are decreasing. I’m going to quickly summarize those trends and then show how they enable teams to pursue new markets. I’ll use ‘lower costs’ and ‘increased productivity’ interchangeably; they mean that new platforms and technologies enable a given team to accomplish more with the same resources (workers or funding). Here is a quick summary of factors changing the productivity and availability of both labor (expertise) and capital (financing):

@@ -1,15 +1,16 @@
 ---
-layout: post
-template: post
-date: 2014-11-06
+title: Competitive Advantage of Cooperatives and DAOs
+date: 2014-11-06 00:00:00 Z
+permalink: "/post/101950195063/competitive-advantage-of-cooperatives-and-daos"
 tags:
 - economy
 - work
 - startups
-title: "Competitive Advantage of Cooperatives and DAOs"
-permalink: /post/101950195063/competitive-advantage-of-cooperatives-and-daos
-description: "Competitive Advantage of Cooperatives and DAOs"
+layout: post
+template: post
+description: Competitive Advantage of Cooperatives and DAOs
 ---
+
 My friend groups and blog feeds have been buzzing about  [worker cooperatives](https://en.wikipedia.org/wiki/Worker_cooperative) (coops) and [decentralized autonomous organizations](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization) / corporations (DAOs). In this post I'll explain both and explore when they might have an advantage over traditional forms of organization (e.g. traditional C-corporations).
 
 I'm interested in both as social / digital technologies that could play a meaningful role in the economy. In general, alternate forms of organizations are exciting in their potential to positively transform labor and productivity. However, in order to be viable, new organizations must have some intrinsic competitive advantage over traditional corporations in at least some set of market scenarios.

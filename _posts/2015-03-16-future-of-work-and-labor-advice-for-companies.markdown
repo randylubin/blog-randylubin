@@ -1,7 +1,7 @@
 ---
-layout: post
-template: post
-date: 2015-03-16
+title: 'Future of Work and Labor: Advice for Companies'
+date: 2015-03-16 00:00:00 Z
+permalink: "/post/113748103823/future-of-work-and-labor-advice-for-companies"
 tags:
 - future of work
 - future of labor
@@ -9,10 +9,11 @@ tags:
 - freelance
 - strategy
 - technology
-title: "Future of Work and Labor: Advice for Companies"
-permalink: /post/113748103823/future-of-work-and-labor-advice-for-companies
-description: "Future of Work and Labor: Advice for Companies"
+layout: post
+template: post
+description: 'Future of Work and Labor: Advice for Companies'
 ---
+
 This is the fifth post in my series on the future of work and labor. Here are the earlier posts:
 
 *   [Macro Trends](http://blog.randylubin.com/post/111157362883/the-future-of-work-and-labor-macro-trends)

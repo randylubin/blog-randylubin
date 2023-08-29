@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-12-28
+title: 2014 Recap
+date: 2014-12-28 00:00:00 Z
+permalink: "/post/106430683533/2014-recap"
 tags:
 - annual recap
-title: "2014 Recap"
-permalink: /post/106430683533/2014-recap
-description: "2014 Recap"
+layout: post
+template: post
+description: 2014 Recap
 ---
+
 It's been another great year! In this post, I'll summarize some of my highlights.
 
 ### Travel

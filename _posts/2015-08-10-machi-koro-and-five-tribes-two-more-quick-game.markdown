@@ -1,12 +1,13 @@
 ---
-layout: post
-template: post
-date: 2015-08-10
+title: 'Machi Koro and Five Tribes: Two More Quick Game Reviews'
+date: 2015-08-10 00:00:00 Z
+permalink: "/post/126316360078/machi-koro-and-five-tribes-two-more-quick-game"
 tags:
 - board games
 - reviews
-title: "Machi Koro and Five Tribes: Two More Quick Game Reviews"
-permalink: /post/126316360078/machi-koro-and-five-tribes-two-more-quick-game
-description: "Machi Koro and Five Tribes: Two More Quick Game Reviews"
+layout: post
+template: post
+description: 'Machi Koro and Five Tribes: Two More Quick Game Reviews'
 ---
+
 <p>On the heels of <a href="http://blog.randylubin.com/post/125732898238/tsuro-and-fluxx-two-quick-game-reviews">last week’s reviews</a>, I’ll give quick reviews of the other two games I bought: <a href="https://boardgamegeek.com/boardgame/143884/machi-koro">Machi Koro</a> and <a href="https://boardgamegeek.com/boardgame/157354/five-tribes">Five Tribes</a>.</p><h2>Machi Koro</h2><p>Machi Koro is a fun, light game in which players compete to build the best city most quickest. Each player is the mayor of a different town and they spend money to buy new establishments (e.g. cheese factory). Each turn, the player rolls a die (or dice); each establishment has an ability associated with it (e.g. earn two coins) that is triggered when the number(s) on the dice match the number on the card.</p><p>The game accelerates as more establishments bring in more money and bigger establishments are purchased. The ultimate goal is to be the first player to build four landmarks.</p><p>The game is quick - 15-30 minutes - and pretty light weight. There’s definitely a heavy element of luck but there’s still room for an adaptive strategy. I’ve played Machi Koro a bunch since I bought it and heartily recommend it.</p><h2>Five Tribes</h2><p>Five Tribes is a moderately complex euro-style game and is a bit longer than the other games I’ve recently reviewed. The theme is Arabian Nights but like most euros, players are competing for victory points. There are many ways to get victory points and plenty of potential strategies.</p><p>The board is a grid of different desert tiles that start with different colored figures on them. One thing that makes Five Tribes unique and fresh is the core mechanic involves picking up all the figures from a tile and then dropping them on adjacent tiles one at a time until you get an action based on the color of the last figure dropped. This mechanic feels like a more tactical twist on mancala.</p><p>I’ve only played Five Tribes once so far but I’m looking forward to playing it more. Once you’ve learned the rules, it plays in under an hour but has a good deal of complexity to it. There’s a lot of room for strategy but it’s tough to plan too far ahead.&nbsp;</p>

@@ -1,11 +1,12 @@
 ---
+title: Data Visualization for Reddit Karma
+date: 2012-03-06 00:00:00 Z
+permalink: "/post/18835881296/data-visualization-for-reddit-karma"
 layout: post
 template: post
-date: 2012-03-06
-title: "Data Visualization for Reddit Karma"
-permalink: /post/18835881296/data-visualization-for-reddit-karma
-description: "Data Visualization for Reddit Karma"
+description: Data Visualization for Reddit Karma
 ---
+
 <p>I'm happy to announce the soft launch of the data visualization app that I've been building with&nbsp;<a href="http://www.chrismaury.com">Chris Maury</a>. &nbsp;We're still doing minor tweaks, so it may change. &nbsp;Also- we need a name for it and would love any suggestions!</p>
 <p><strike>We're hosting the demo version here: <a href="karma.randylubin.com">karma.randylubin.com</a></strike></p><p><i>The site is down indefinitely</i></p>
 <h2>About The Site</h2>

@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-03-02
+title: Nation Builder - Update 2
+date: 2013-03-02 00:00:00 Z
+permalink: "/post/44354891835/nation-builder-update-2"
 tags:
 - nation building
 - game design
-title: "Nation Builder - Update 2"
-permalink: /post/44354891835/nation-builder-update-2
-description: "Nation Builder - Update 2"
+layout: post
+template: post
+description: Nation Builder - Update 2
 ---
+
 This week I was able to put in a few more hours after work on the game I've been [talking about](http://blog.randylubin.com/post/43971448957/nation-builder-game-update).
 
 Early in the week, I built it to a point where it:

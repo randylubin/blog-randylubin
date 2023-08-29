@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-07-14
+title: Rogue-like card game
+date: 2014-07-14 00:00:00 Z
+permalink: "/post/91717539753/rogue-like-card-game"
 tags:
 - game design
 - board games
-title: "Rogue-like card game"
-permalink: /post/91717539753/rogue-like-card-game
-description: "Rogue-like card game"
+layout: post
+template: post
+description: Rogue-like card game
 ---
+
 I'm noodling on an idea for a card game that borrows heavily from the [Roguelike](https://en.wikipedia.org/wiki/Roguelike) genre.
 
 The Roguelike elements that I want to dive into are fast leveling (getting very powerful very quickly), perma-death (once your character dies, there's no bringing them back), and randomly generated levels.

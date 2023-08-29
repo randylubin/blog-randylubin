@@ -1,11 +1,12 @@
 ---
-layout: post
-template: post
-date: 2015-09-13
+title: Tour of the Santa Clara Advanced Water Purification Center
+date: 2015-09-13 00:00:00 Z
+permalink: "/post/129009753788/tour-of-the-santa-clara-advanced-water"
 tags:
 - infrastructure
-title: "Tour of the Santa Clara Advanced Water Purification Center"
-permalink: /post/129009753788/tour-of-the-santa-clara-advanced-water
-description: "Tour of the Santa Clara Advanced Water Purification Center"
+layout: post
+template: post
+description: Tour of the Santa Clara Advanced Water Purification Center
 ---
+
 <p>Saturday morning I attended the Bay Area Infrastructure Observatory tour of the Santa Clara Advanced Water Purification Center. It's a cool new facility where they're taking waste water and purifying it for reuse (rather than dumping it into the bay).<br></p><p>The tour was interesting and we got to follow water throughout the whole process (from treated waste water in, through various sized filters, and then through uv light).</p><p>Here are some photos from the tour:</p><p><br></p><p>Waste water intake:</p><figure data-orig-width="1024" data-orig-height="1024" class="tmblr-full"><img src="/images/6f9bf2c698f8fa26b2848bd602f28a5cf1f25e0bdb742831c370b73549e19d3c.png" data-orig-width="1024" data-orig-height="1024"></figure><figure data-orig-width="1024" data-orig-height="1024" class="tmblr-full"><img src="/images/840cc954c201b0fe6f0dab089168eaa3de640587896917cddf90912b67a6c5e8.png" data-orig-width="1024" data-orig-height="1024"></figure><p>Microfilters</p><figure data-orig-width="1024" data-orig-height="1024" class="tmblr-full"><img src="/images/043c2aa48ce6c764791b9f10e2294b6174cc75e7ac5ef52024c68b55516a3413.png" data-orig-width="1024" data-orig-height="1024"></figure><figure data-orig-width="1024" data-orig-height="1024" class="tmblr-full"><img src="/images/81cc38a3b86edd90f0641ae44e8f225e81ebbeaaace4d1d5c401999b6cd4c749.png" data-orig-width="1024" data-orig-height="1024"></figure><p>Reverse Osmosis Filters (0.1 nanometers)</p><figure data-orig-width="1024" data-orig-height="1024" class="tmblr-full"><img src="/images/250afd66d80523d4c94427682650e38e683794fdd0b96a1ec3159e5939e7a5fd.png" data-orig-width="1024" data-orig-height="1024"></figure><p><br></p><p>UV Pipes</p><figure data-orig-width="1024" data-orig-height="768" class="tmblr-full"><img src="/images/5ce9f6f401c8983dda0d2e496381409086edbc62c707f003be08970e64a0ec3c.png" data-orig-width="1024" data-orig-height="768"></figure><p><br></p><p>Crazy dashboard of the whole system</p><figure data-orig-width="1024" data-orig-height="768" class="tmblr-full"><img src="/images/35b974a3fd5f122370f5c97ef246953111b710a2505a5f656c9c2a78226b6a43.png" data-orig-width="1024" data-orig-height="768"></figure>

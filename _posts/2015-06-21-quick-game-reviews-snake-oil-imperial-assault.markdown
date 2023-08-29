@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2015-06-21
+title: 'Quick Game Reviews: Snake Oil, Imperial Assault, Welcome to the Dungeon'
+date: 2015-06-21 00:00:00 Z
+permalink: "/post/122116829758/quick-game-reviews-snake-oil-imperial-assault"
 tags:
 - games
 - board games
-title: "Quick Game Reviews: Snake Oil, Imperial Assault, Welcome to the Dungeon"
-permalink: /post/122116829758/quick-game-reviews-snake-oil-imperial-assault
-description: "Quick Game Reviews: Snake Oil, Imperial Assault, Welcome to the Dungeon"
+layout: post
+template: post
+description: 'Quick Game Reviews: Snake Oil, Imperial Assault, Welcome to the Dungeon'
 ---
+
 It's been a while since I reviewed board games here so I'll provide three quick ones of games I've played lately.
 
 ### Snake Oil

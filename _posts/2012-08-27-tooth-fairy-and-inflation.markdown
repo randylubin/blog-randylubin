@@ -1,11 +1,12 @@
 ---
+title: Tooth Fairy and Inflation
+date: 2012-08-27 00:00:00 Z
+permalink: "/post/30304378793/tooth-fairy-and-inflation"
 layout: post
 template: post
-date: 2012-08-27
-title: "Tooth Fairy and Inflation"
-permalink: /post/30304378793/tooth-fairy-and-inflation
-description: "Tooth Fairy and Inflation"
+description: Tooth Fairy and Inflation
 ---
+
 <p>I was going to write out a short story for this week but ran out of time. Instead I'll provide a quick overview of where it might have gone...</p>&#13;
 <p>Premise: it would explore the impact of the tooth fairy injecting money into the economy by leaving it under pillows.</p>&#13;
 <div>&#13;

@@ -1,12 +1,11 @@
 ---
+title: Positive AI Economic Futures Workshop
+date: 2021-01-06 04:56:54 Z
 layout: post
 template: post
-date: 2021-01-06 04:56:54 +0000
-tags: []
-title: Positive AI Economic Futures Workshop
 description: An overview of the Positive AI and Economic Futures workshop run in December
-
 ---
+
 _A few weeks ago, Mike Masnick and I ran a 4-hour workshop to explore positive futures involving transformational artificial intelligence. Afterwards, I wrote two Twitter threads covering the game contents and a behind the scenes of the facilitation patterns we used. Here's a slightly edited version of those threads._
 
 ## Game Overview and Highlights

@@ -1,12 +1,11 @@
 ---
+title: Gaming Like It's 1927
+date: 2023-01-02 21:44:20 Z
 layout: post
 template: post
-date: 2023-01-02 21:44:20 +0000
-tags: []
-title: Gaming Like It's 1927
 description: Our annual public domain game jam has started, focused on 1927
-
 ---
+
 ![](/images/gaming-like-it-s-1927-logo.png)
 
 It’s a new year and that means a new round of works entering the public domain!

@@ -1,11 +1,12 @@
 ---
+title: 'Thought Experiment: Uber meets Super Shuttle'
+date: 2012-04-23 00:00:00 Z
+permalink: "/post/21635542675/thought-experiment-uber-meets-super-shuttle"
 layout: post
 template: post
-date: 2012-04-23
-title: "Thought Experiment: Uber meets Super Shuttle"
-permalink: /post/21635542675/thought-experiment-uber-meets-super-shuttle
-description: "Thought Experiment: Uber meets Super Shuttle"
+description: 'Thought Experiment: Uber meets Super Shuttle'
 ---
+
 <p>Earlier this week, Hamish McKenzie had an <a href="http://pandodaily.com/2012/04/20/lets-build-a-future-without-cars/" target="_blank">interesting article</a>&nbsp;on a future without cars. &nbsp;The article lays out a great vision but lacks near term solutions. &nbsp;Here's one which could go a ways in eliminating the need for cars.&nbsp;</p>
 <p><img alt="Shuttle" height="265" src="http://i.imgur.com/Ka2ry.jpg" width="388"></p>
 <h2>The Vision</h2>

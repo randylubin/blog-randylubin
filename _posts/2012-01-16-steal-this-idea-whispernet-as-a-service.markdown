@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2012-01-16
+title: 'Steal This Idea: Whispernet as a Service'
+date: 2012-01-16 00:00:00 Z
+permalink: "/post/15936856790/steal-this-idea-whispernet-as-a-service"
 tags:
 - Steal This Idea
-title: "Steal This Idea: Whispernet as a Service"
-permalink: /post/15936856790/steal-this-idea-whispernet-as-a-service
-description: "Steal This Idea: Whispernet as a Service"
+layout: post
+template: post
+description: 'Steal This Idea: Whispernet as a Service'
 ---
+
 <p><strong>The Vision</strong></p>&#13;
 <p>There should be an easy way for start-ups to build data connectivity (3G/4G) into any device.  This idea is inspired by Amazon's Whispernet so I'll refer to it as Wispernet as a Service (WaaS).</p>&#13;
 <p>An ideal solution would involve a small chip that could be attached to an <a href="http://en.wikipedia.org/wiki/Arduino" target="_blank">Arduino</a> or similar board.   There would be various financing options which allow either company or customer to shoulder data costs.</p>&#13;

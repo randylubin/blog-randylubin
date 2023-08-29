@@ -1,11 +1,12 @@
 ---
+title: Laws and Norms, Complexity and Reputation
+date: 2013-12-02 00:00:00 Z
+permalink: "/post/68769537090/laws-and-norms-complexity-and-reputation"
 layout: post
 template: post
-date: 2013-12-02
-title: "Laws and Norms, Complexity and Reputation"
-permalink: /post/68769537090/laws-and-norms-complexity-and-reputation
-description: "Laws and Norms, Complexity and Reputation"
+description: Laws and Norms, Complexity and Reputation
 ---
+
 Lately I’ve been musing about laws and norms (socially expected behaviors, contextual to a group). As society becomes more complex, I think we’ll have to rely much more heavily on norms than on laws.
 
 First, a tangent about norms and games (where rules are the laws). When my friends and I play games, our primary goal is always to have fun together, rather than to place first. Though the play can be fiercely competitive, we rarely (if ever) let our zeal to win blind us from the primary goal: fun. This goal of fun is a norm for us - few instruction manuals explicitly call out fun as an objective; in other game environments, the primary goal might not be be fun (e.g. game tournaments, professional games).

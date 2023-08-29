@@ -1,11 +1,12 @@
 ---
+title: Microscope - awesome game (and worldbuilding tool)
+date: 2013-11-18 00:00:00 Z
+permalink: "/post/67349867799/microscope-awesome-game-and-worldbuilding-tool"
 layout: post
 template: post
-date: 2013-11-18
-title: "Microscope - awesome game (and worldbuilding tool)"
-permalink: /post/67349867799/microscope-awesome-game-and-worldbuilding-tool
-description: "Microscope - awesome game (and worldbuilding tool)"
+description: Microscope - awesome game (and worldbuilding tool)
 ---
+
 This weekend I had the pleasure of playing [Microscope](http://www.lamemage.com/microscope/), a collaborative storytelling game. Over the course of the game, the players build and explore a new world with fractal complexity.
 
 There is no board; players take turns writing new information about the world on index cards. Top level cards are Periods which take place on the scales of decades, centuries, or eons. The next level down are Events. Events are always within Periods. Events can contain multiple Scenes. Where as Events and Periods are often one line descriptions, Scenes start with a question, stage, and characters and then the players roleplay until they reach an answer to the question.

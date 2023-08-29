@@ -1,11 +1,12 @@
 ---
+title: Work / Life Balance, Integration, and Beyond
+date: 2015-05-18 00:00:00 Z
+permalink: "/post/119256197593/work-life-balance-integration-and-beyond"
 layout: post
 template: post
-date: 2015-05-18
-title: "Work / Life Balance, Integration, and Beyond"
-permalink: /post/119256197593/work-life-balance-integration-and-beyond
-description: "Work / Life Balance, Integration, and Beyond"
+description: Work / Life Balance, Integration, and Beyond
 ---
+
 I was recently chatting with some friends about work / life balance and also having work aligned with one's values. I ended up drawing a pyramid on the whiteboard that felt a bit like [Maslow's Heirarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). Here were the levels:
 
 *  Working all the time to survive

@@ -1,11 +1,12 @@
 ---
+title: 'Eagerly Anticipating: Google Glasses + Social Intelligence'
+date: 2012-02-22 00:00:00 Z
+permalink: "/post/18079173691/eagerly-anticipating-google-glasses-social"
 layout: post
 template: post
-date: 2012-02-22
-title: "Eagerly Anticipating: Google Glasses + Social Intelligence"
-permalink: /post/18079173691/eagerly-anticipating-google-glasses-social
-description: "Eagerly Anticipating: Google Glasses + Social Intelligence"
+description: 'Eagerly Anticipating: Google Glasses + Social Intelligence'
 ---
+
 <p>The killer app for augmented reality glasses will likely be social intelligence.</p>&#13;
 <h3>Google Glasses</h3>&#13;
 <p>The New York Times recently <a href="http://bits.blogs.nytimes.com/2012/02/21/google-to-sell-terminator-style-glasses-by-years-end/?ref=technology">reported</a> that Google is developing augmented reality (AR) glasses.  The glasses will overlay various types of information onto the user's view.  It will be an Android device and thus (hopefully) be open to myriad third party apps.  The design is supposed to be similar to Oakley Thumps.</p>&#13;

@@ -1,11 +1,12 @@
 ---
+title: Board Games and the Mechanics of Fun
+date: 2012-10-01 00:00:00 Z
+permalink: "/post/32659440239/board-games-and-the-mechanics-of-fun"
 layout: post
 template: post
-date: 2012-10-01
-title: "Board Games and the Mechanics of Fun"
-permalink: /post/32659440239/board-games-and-the-mechanics-of-fun
-description: "Board Games and the Mechanics of Fun"
+description: Board Games and the Mechanics of Fun
 ---
+
 <h2>A Summer of Games</h2>&#13;
 <p>I've been playing quite a bit of board games this summer with roommates and friends. We've evolved well beyond the games of our childhood into <a href="http://en.wikipedia.org/wiki/German-style_board_game">German Style</a> board games which involve more nuanced strategy and downplay the role of chance.</p>&#13;
 <p>The gateway game which got me hooked was Settlers of Catan but here's a more exaustive list of what I've played recenty:</p>&#13;

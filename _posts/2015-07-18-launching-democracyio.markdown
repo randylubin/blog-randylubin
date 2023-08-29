@@ -1,16 +1,17 @@
 ---
-layout: post
-template: post
-date: 2015-07-18
+title: Launching Democracy.io
+date: 2015-07-18 00:00:00 Z
+permalink: "/post/124417803773/launching-democracyio"
 tags:
 - democracy.io
 - eff
 - projects
 - coding
-title: "Launching Democracy.io"
-permalink: /post/124417803773/launching-democracyio
-description: "Launching Democracy.io"
+layout: post
+template: post
+description: Launching Democracy.io
 ---
+
 This week EFF launched a side project I’ve been working on - [Democracy.io](https://democracy.io/#/)!
 ![](/images/a87cf52efaa316837c704e6a60d7e2a584321d19f62553a306883de119e3c679.png)
 

@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2012-11-21
+title: 'Japan: Day Three'
+date: 2012-11-21 00:00:00 Z
+permalink: "/post/36243986675/japan-day-three"
 tags:
 - travel
 - japan
-title: "Japan: Day Three"
-permalink: /post/36243986675/japan-day-three
-description: "Japan: Day Three"
+layout: post
+template: post
+description: 'Japan: Day Three'
 ---
+
 <p>Third day in Japan was great but exhausting. We woke up early and caught the Shinkansen (bullet train) from Tokyo to Kyoto. Our first order of business was booking the rest of our trip - it's a three day weekend here in Japan and everything is booking up quickly. Luckily we were able to plot a great&nbsp;itinerary&nbsp;for the next few days, but it wasn't easy.</p>
 <p>With our travel plans solidified, we set out to explore the local temples and shrines. First up was&nbsp;Fushimi Inari-taisha a Shinto shrine founded in 711.</p>
 <p><figure class="tmblr-full" data-orig-height="375" data-orig-width="500"><img src="/images/4270587411293336bc46142388fccceeb4453da09e1d0fc4fdeb2c2a1c6d8487.jpg" alt="image" data-orig-height="375" data-orig-width="500"></figure></p>

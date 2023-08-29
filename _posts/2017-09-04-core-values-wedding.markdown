@@ -1,11 +1,12 @@
 ---
-layout: post
-template: post
-date: 2017-09-04
+title: Core Values + Wedding(!!!)
+date: 2017-09-04 00:00:00 Z
+permalink: "/post/164960420008/core-values-wedding"
 tags:
 - wedding
-title: "Core Values + Wedding(!!!)"
-permalink: /post/164960420008/core-values-wedding
-description: "Core Values + Wedding(!!!)"
+layout: post
+template: post
+description: Core Values + Wedding(!!!)
 ---
+
 <p>Last weekend I married my amazing partner, Avital!</p><figure data-orig-width="1024" data-orig-height="768" class="tmblr-full"><img src="/images/bac5d1ee12c05609f891aadfdcb1f95a13922345b0dbb3c0feb2b15219ee76f3.png" alt="image" data-orig-width="1024" data-orig-height="768"></figure><p><br></p><p>Leading up to the wedding, we wrote a set of core values to guide us as a couple. We started by mapping out a wide array of values and norms we care about and then distilled them into a final set of six. Here’s the list:</p><p><b>Compassionate Communication</b></p><p>We communicate in a direct yet compassionate manner, striving to fully understand the other’s perspective and their needs while clearly conveying our own.</p><p><b>Pragmatic Optimism</b><br></p><p>We keep a positive outlook while staying grounded in reality, especially when facing challenges. We make thoughtful decisions that work toward our goals and balance our needs.</p><p><b>Kaizen</b><br></p><p>We push ourselves to continuously improve and actively encourage and support each other’s growth.</p><p><b>Build for Impact</b><br></p><p>We have a bias toward taking actions that create scalable positive impact on local and global communities.</p><p><b>Persistent Curiosity</b><br></p><p>We maintain an inquisitive, often playful, mindset to better understand the world and to generate more creative options.</p><p><b>Nurture Connections</b><br></p><p>We continually strengthen our own relationship and our bonds with our family and friends by actively creating shared experiences, storytelling, intimacy, and fun.</p><figure data-orig-width="1024" data-orig-height="768" class="tmblr-full"><img src="/images/8bd920e446dea5c7f53f929b12c2c4556aa76632b6cca550a3c6a1b205c5851a.png" alt="image" data-orig-width="1024" data-orig-height="768"></figure><p><br></p><figure data-orig-width="1024" data-orig-height="768" class="tmblr-full"><img src="/images/7eb165200520d3a3bc2f85fb72bf95d3c0361b44267f397184a9e0fb910fc2ef.png" alt="image" data-orig-width="1024" data-orig-height="768"></figure>

@@ -1,11 +1,12 @@
 ---
+title: Just Signed Up for 23andMe
+date: 2012-08-13 00:00:00 Z
+permalink: "/post/29306630411/just-signed-up-for-23andme"
 layout: post
 template: post
-date: 2012-08-13
-title: "Just Signed Up for 23andMe"
-permalink: /post/29306630411/just-signed-up-for-23andme
-description: "Just Signed Up for 23andMe"
+description: Just Signed Up for 23andMe
 ---
+
 <p>I've just signed up for <a href="https://www.23andme.com">23andMe</a>, the personal genomics company; I'm very excited.</p>&#13;
 <p>Here's how it works:</p>&#13;
 <ol><li>They mail me a vial for a spit sample and I send it back</li>&#13;

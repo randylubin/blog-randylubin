@@ -1,7 +1,7 @@
 ---
-layout: post
-template: post
-date: 2015-04-19
+title: Future of Work and Labor: Long-term Trends and Possible Futures
+date: 2015-04-19 00:00:00 Z
+permalink: "/post/116862405573/future-of-work-and-labor-long-term-trends-and"
 tags:
 - future of work
 - future of labor
@@ -9,10 +9,11 @@ tags:
 - utopia
 - dystopia
 - self actualization
-title: "Future of Work and Labor: Long-term Trends and Possible Futures"
-permalink: /post/116862405573/future-of-work-and-labor-long-term-trends-and
-description: "Future of Work and Labor: Long-term Trends and Possible Futures"
+layout: post
+template: post
+description: Future of Work and Labor: Long-term Trends and Possible Futures
 ---
+
 This is the seventh post in my series on the future of work and labor. Here are the earlier posts:
 
 *   [Macro Trends](http://blog.randylubin.com/post/111157362883/the-future-of-work-and-labor-macro-trends)

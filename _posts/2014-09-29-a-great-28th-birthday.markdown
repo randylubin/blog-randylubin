@@ -1,11 +1,12 @@
 ---
+title: A Great 28th Birthday
+date: 2014-09-29 00:00:00 Z
+permalink: "/post/98704031498/a-great-28th-birthday"
 layout: post
 template: post
-date: 2014-09-29
-title: "A Great 28th Birthday"
-permalink: /post/98704031498/a-great-28th-birthday
-description: "A Great 28th Birthday"
+description: A Great 28th Birthday
 ---
+
 For my birthday, today, my girlfriend planned an awesome string of activities!
 
 We started out at Dynamo Donuts - the Kaffir Lime and Strawberry and Earl Grey ones were great.

@@ -1,11 +1,12 @@
 ---
+title: 'Arrested Development: Season 4 - First Thoughts'
+date: 2013-05-27 00:00:00 Z
+permalink: "/post/51456112870/arrested-development-season-4-first-thoughts"
 layout: post
 template: post
-date: 2013-05-27
-title: "Arrested Development: Season 4 - First Thoughts"
-permalink: /post/51456112870/arrested-development-season-4-first-thoughts
-description: "Arrested Development: Season 4 - First Thoughts"
+description: 'Arrested Development: Season 4 - First Thoughts'
 ---
+
 Netflix released the new season of Arrested Development today and I've made it through seven episodes. I'm going to share my initial reaction but try to keep things spoiler free.
 
 I've been watching it with one of my roommates and we can't get over how bizarre the show feels. It's not bad, just very strange. It think some of the weirdness comes from:

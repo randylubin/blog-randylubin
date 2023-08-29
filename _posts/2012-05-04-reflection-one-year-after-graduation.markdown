@@ -1,11 +1,12 @@
 ---
+title: 'Reflection: one year after graduation'
+date: 2012-05-04 00:00:00 Z
+permalink: "/post/22390852675/reflection-one-year-after-graduation"
 layout: post
 template: post
-date: 2012-05-04
-title: "Reflection: one year after graduation"
-permalink: /post/22390852675/reflection-one-year-after-graduation
-description: "Reflection: one year after graduation"
+description: 'Reflection: one year after graduation'
 ---
+
 <p>This weekend is the Stanford GSB one year reunion. I figure now's a good time reflect on the time since graduation.</p>&#13;
 <h2>Founder Ambitions</h2>&#13;
 <p>When I graduated last June, I aimed to start my own company.  I hadn't settled on an idea but knew I loved entrepreneurship.  My intention was to spend three to six months iterating on ideas, trying to find one I liked enough to build a team and raise funding.</p>&#13;

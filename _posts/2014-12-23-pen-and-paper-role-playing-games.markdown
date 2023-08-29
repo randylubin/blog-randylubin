@@ -1,7 +1,7 @@
 ---
-layout: post
-template: post
-date: 2014-12-23
+title: Pen-and-Paper Role Playing Games
+date: 2014-12-23 00:00:00 Z
+permalink: "/post/105991687963/pen-and-paper-role-playing-games"
 tags:
 - rpg
 - edge of the empire
@@ -11,10 +11,11 @@ tags:
 - board games
 - blackbird
 - games
-title: "Pen-and-Paper Role Playing Games"
-permalink: /post/105991687963/pen-and-paper-role-playing-games
-description: "Pen-and-Paper Role Playing Games"
+layout: post
+template: post
+description: Pen-and-Paper Role Playing Games
 ---
+
 Over the past few years, I’ve spent considerable time exploring two interests: board games and storytelling. It seems inevitable that I would find my way to traditional pen-and-paper roleplaying games (RPGs) in the mold of Dungeons and Dragons (D&D).
 
 The defining aspects of the genre are:

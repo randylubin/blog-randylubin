@@ -1,12 +1,11 @@
 ---
+title: Story Synth Grant Program
+date: 2022-01-24 20:00:02 Z
 layout: post
 template: post
-date: 2022-01-24 20:00:02 +0000
-tags: []
-title: Story Synth Grant Program
 description: Announcing the new story synth microgrant program
-
 ---
+
 ![](/images/story-synth-and-big-bad-con-microgrant-banner.png)
 
 I'm thrilled to announce the a new program offering microgrants for game designers to make games in Story Synth. The program is being administered by [Big Bad Con](https://www.bigbadcon.com/) and is funded by [Grant for the Web](https://www.grantfortheweb.org/) – you can find out all the details and apply by visiting [Big Bad Con's Grant Page](https://www.bigbadcon.com/story-synth-microgrants/).

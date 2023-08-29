@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-03-17
+title: Going to India!
+date: 2014-03-17 00:00:00 Z
+permalink: "/post/79847846814/going-to-india"
 tags:
 - India
-title: "Going to India!"
-permalink: /post/79847846814/going-to-india
-description: "Going to India!"
+layout: post
+template: post
+description: Going to India!
 ---
+
 I'm extremely excited to announce that I'm helping with [Innovate Delhi](http://www.innovatedelhi.com/) this June!
 
 Innovate Delhi is a three week entrepreneurial bootcamp run by two friends at Stanford - Professor [Sharique Hasan](https://twitter.com/shariqueorg) and [Rem Koning](https://twitter.com/orgRem). They're awesome and are trying something bold with this program. They'll be training 200 top Indian students in entrepreneurship and collecting great data on innovation and collaboration.

@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2012-11-25
+title: 'Japan: Day Seven (Final Day)'
+date: 2012-11-25 00:00:00 Z
+permalink: "/post/36497051623/japan-day-seven-final-day"
 tags:
 - Japan
 - travel
-title: "Japan: Day Seven (Final Day)"
-permalink: /post/36497051623/japan-day-seven-final-day
-description: "Japan: Day Seven (Final Day)"
+layout: post
+template: post
+description: 'Japan: Day Seven (Final Day)'
 ---
+
 <p>A solid last day in Japan. We woke up early and caught the Shinkansen to Osaka. After stowing our bags in a locker, we caught a local train to check out Osaka Castle. There was a nice park surrounding the castle and the fortress itself was impressive.</p>&#13;
 <p><img src="/images/618ca8ce9896a8f4c92f3cba19cf06549e94ef129abf2396b87151ea4641e52c.jpg" alt="image" /></p>&#13;
 <p>There was also a pretty impressive sand castle version:</p>&#13;

@@ -1,13 +1,12 @@
 ---
+title: Prerendering Vue for Story Synth Unfurls
+date: 2021-02-08 16:20:15 Z
 layout: post
 template: post
-date: 2021-02-08 16:20:15 +0000
-tags: []
-title: Prerendering Vue for Story Synth Unfurls
 description: A look into how I refactored my Vue.js app Story Synth to have custom
   unfurls for different games.
-
 ---
+
 This weekend I went down a bit of a rabbit hole trying to get social media unfurls to work properly for specific games in Story Synth (which is built in Vue.js). In the end, I got it working but I had to make tweaks up and down the stack to get there. Warning - this will be fairly technical and in the weeds but if someone else shares this problem hopefully it saves them some time!
 
 ![Around the Realm unfurl, showing the game's logo](/images/screen-shot-2021-02-07-at-8-22-04-am.png "The final unfurl for Around the Realm")

@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-01-21
+title: Site Revamp - Learning Visual Design
+date: 2013-01-21 00:00:00 Z
+permalink: "/post/41079139893/site-revamp-learning-visual-design"
 tags:
 - programming
 - design
-title: "Site Revamp - Learning Visual Design"
-permalink: /post/41079139893/site-revamp-learning-visual-design
-description: "Site Revamp - Learning Visual Design"
+layout: post
+template: post
+description: Site Revamp - Learning Visual Design
 ---
+
 It's surprisingly hard to teach yourself visual design.
 
 If you are learning to code, there are myriad courses, guides, and tutorials which provide rich context for the concepts and a roadmap for gaining new skills. If you trying to improve your intuition for design, there are far fewer resources. While there are some great overviews for narrow topics, there is little help for someone trying to build a broad intuition for design.

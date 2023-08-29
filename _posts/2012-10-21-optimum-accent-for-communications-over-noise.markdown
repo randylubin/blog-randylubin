@@ -1,11 +1,12 @@
 ---
+title: Optimum Accent for Communications Over Noise?
+date: 2012-10-21 00:00:00 Z
+permalink: "/post/34059547970/optimum-accent-for-communications-over-noise"
 layout: post
 template: post
-date: 2012-10-21
-title: "Optimum Accent for Communications Over Noise?"
-permalink: /post/34059547970/optimum-accent-for-communications-over-noise
-description: "Optimum Accent for Communications Over Noise?"
+description: Optimum Accent for Communications Over Noise?
 ---
+
 <h3>The Problem</h3>&#13;
 <p>I was waiting for BART today when there was a station announcement made over the PA system. Between the noise on the platform and the poor quality of the speakers, it was very difficult to understand the content of the announcement - this is a pretty common occurrence in any public forum where announcements are made over speakers.</p>&#13;
 <h3>The Solution</h3>&#13;

@@ -1,16 +1,17 @@
 ---
-layout: post
-template: post
-date: 2013-06-18
+title: London / Scotland
+date: 2013-06-18 00:00:00 Z
+permalink: "/post/53310404141/london-scotland"
 tags:
 - travel
 - london
 - scotland
 - edinburgh
-title: "London / Scotland"
-permalink: /post/53310404141/london-scotland
-description: "London / Scotland"
+layout: post
+template: post
+description: London / Scotland
 ---
+
 ## London Continued
 
 With the highly programmed, Ungrounded portion of the trip [behind me](http://blog.randylubin.com/post/52984425893/london-ungrounded), I've been free to explore at my own pace.

@@ -1,11 +1,12 @@
 ---
+title: SciFi for the Startup Soul
+date: 2012-07-09 00:00:00 Z
+permalink: "/post/26820790515/scifi-for-the-startup-soul"
 layout: post
 template: post
-date: 2012-07-09
-title: "SciFi for the Startup Soul"
-permalink: /post/26820790515/scifi-for-the-startup-soul
-description: "SciFi for the Startup Soul"
+description: SciFi for the Startup Soul
 ---
+
 <p>I love thinking about the future of, well, everything. I consume tons of blogs, books, and videos by thought leaders and seek out conversations with those who are <em>way</em> more informed than me. Often, though, I get my inspiration from Science Fiction.</p>&#13;
 <p>I love science fiction that extrapolates current trends into the near future and focuses on the impact of technology on society; I'm talking about stories that strive for scientific accuracy and grapple with the implications of disrupting the complex systems and norms of our civilization (as opposed to stories using space as a backdrop for an old fashioned adventure).</p>&#13;
 <p>The best scifi inspires me to explore new interplays between technology and human behavior and foster ambitious, contrarian dreams for my own entrepreneurial journey. Here are a few authors and books I highly recommend.</p>&#13;

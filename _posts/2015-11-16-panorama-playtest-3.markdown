@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2015-11-16
+title: 'Panorama: Playtest 3'
+date: 2015-11-16 00:00:00 Z
+permalink: "/post/133324841228/panorama-playtest-3"
 tags:
 - panorama
 - game design
-title: "Panorama: Playtest 3"
-permalink: /post/133324841228/panorama-playtest-3
-description: "Panorama: Playtest 3"
+layout: post
+template: post
+description: 'Panorama: Playtest 3'
 ---
+
 Today I did another playtest of Panorama - the worldbuilding game, formerly called Frontiers. I'm liking the name Panorama and it will probably be the final title.
 
 The main addition here was a 'status' card (I need a better name for it). It lets a player go back to previous character (and maybe organization) and add some additional details like scheme, items, fears, etc. This is to address previous feedback that players wanted to revist characters.

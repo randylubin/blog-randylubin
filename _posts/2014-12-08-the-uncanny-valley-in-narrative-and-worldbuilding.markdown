@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2014-12-08
+title: The Uncanny Valley in Narrative and Worldbuilding
+date: 2014-12-08 00:00:00 Z
+permalink: "/post/104655385258/the-uncanny-valley-in-narrative-and-worldbuilding"
 tags:
 - storytelling
 - worldbuilding
-title: "The Uncanny Valley in Narrative and Worldbuilding"
-permalink: /post/104655385258/the-uncanny-valley-in-narrative-and-worldbuilding
-description: "The Uncanny Valley in Narrative and Worldbuilding"
+layout: post
+template: post
+description: The Uncanny Valley in Narrative and Worldbuilding
 ---
+
 When consuming a narrative (especially a movie), I'm frequently torn about how close to examine its internal consistency. By consistency, I mean: does the world and plot stand up to close analysis; are the internal laws and logic upheld or are there emergent contradictions? TV Tropes has relevant pages on types of [Consistency](http://tvtropes.org/pmwiki/pmwiki.php/Main/Consistency) and [Fridge Logic](http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic).
 
 Successful films (and other media) exist across of broad spectrum of consistency. Some great films are horribly inconsistent and some hold up to rigorous scrutiny. However I think there's a gap where films can get into trouble - an uncanny valley for consistency. I'm okay with both types of movies but I get frustrated when a movie sets out to be consistent yet contains major contradictions.

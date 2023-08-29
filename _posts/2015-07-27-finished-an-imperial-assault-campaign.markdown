@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2015-07-27
+title: Finished an Imperial Assault Campaign
+date: 2015-07-27 00:00:00 Z
+permalink: "/post/125145818778/finished-an-imperial-assault-campaign"
 tags:
 - games
 - board games
 - imperial assault
-title: "Finished an Imperial Assault Campaign"
-permalink: /post/125145818778/finished-an-imperial-assault-campaign
-description: "Finished an Imperial Assault Campaign"
+layout: post
+template: post
+description: Finished an Imperial Assault Campaign
 ---
+
 <p>A few weeks back, I mentioned buying the Star Wars themed, tactical combat board game <a href="http://blog.randylubin.com/post/122116829758/quick-game-reviews-snake-oil-imperial-assault">Imperial Assault</a>. One way to play the game is to link the missions together into an 11 session campaign where the heroes and villain evolve and power up. Yesterday, I finished my first campaign and it was very satisfying.</p><p>Imperial Assault is the successor to Descent: Journeys in the Dark. The rules are similar but more refined - the game developers applied what they’ve learned in the years since Descent’s publication. I’ve tried to do two Descent campaigns in the past but the crew always fell apart, usually due to travel or moving out of town. This summer, by brother and I were determined to see the campaign all the way through and we enlisted our friend Nick to help us.</p><p>We only had a two month window between my brother coming to SF and Nick leaving for travel so we set an ambitious pace. We averaged a few missions per week, culminating in a three mission marathon yesterday which lasted ~8 hours with breaks.</p><p>Overall, the game was a lot of fun - the streamlined rules enabled interesting tactics and strategy without being too clunky. There were a few exceptions, when it felt like we were abusing loopholes, but otherwise I was pretty happy with this iteration of the game. By the end of the campaign, the heroes were incredibly powerful and able to pull of crazy combos and my imperial footsoldiers were outfitted with lots of upgrades making them a menacing force.</p><p>The missions themselves were fun, though some of them felt a bit bland, mechanically - Descent missions tended to have crazier maps with unique mechanics.</p><p>My biggest concern at the start of the campaign was balance - Descent was known for having some terribly balanced missions that were near-hopeless for one side. Imperial Assault was generally better but there were several missions in which the Heroes didn’t have a chance. I’m not sure whether it was due to the timing of when we played the missions or if it was tied to the number or mix of Heroes we had but it definitely took some of the fun out of the campaign.</p><p>Overall the campaign was a blast and I would definitely check it out again. After playing as the Empire, I’m keen to play it from the heroes side. Flipping through the campaign guide, there were plenty of cool looking missions that never made it to the table.</p>

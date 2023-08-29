@@ -1,12 +1,11 @@
 ---
+title: 'Award: Next Generation Foresight Practitioner – Innovative Methods'
+date: 2021-09-15 04:14:21 Z
 layout: post
 template: post
-date: 2021-09-15 04:14:21 +0000
-tags: []
-title: 'Award: Next Generation Foresight Practitioner – Innovative Methods'
 description: ''
-
 ---
+
 I'm excited and honored to announce that I've won an award: the Next Generation Foresight Practitioners Special Award for Innovative Methods.
 
 You can learn more about the awards and my fellow awardees at: [https://nextgenforesight.org/2021-awards/](https://nextgenforesight.org/2021-awards/ "https://nextgenforesight.org/2021-awards/")

@@ -1,11 +1,12 @@
 ---
+title: Rocksmith thoughts, after one month
+date: 2013-12-09 00:00:00 Z
+permalink: "/post/69463683961/rocksmith-thoughts-after-one-month"
 layout: post
 template: post
-date: 2013-12-09
-title: "Rocksmith thoughts, after one month"
-permalink: /post/69463683961/rocksmith-thoughts-after-one-month
-description: "Rocksmith thoughts, after one month"
+description: Rocksmith thoughts, after one month
 ---
+
 I've now had Rocksmith for over a month and want to follow up. I first wrote a review here: http://blog.randylubin.com/post/66654578147/review-rocksmith-2014
 
 After five weeks and maybe 60 hours of play, my esteem of Rocksmith completely holds up! I've definitely been improving. I started as an intermediate guitarist and now feel intermediate / advanced. Further, I feel much more confident jamming with others. Session mode is great for practicing improvisation, though I wish it would walk me through different chord progressions.

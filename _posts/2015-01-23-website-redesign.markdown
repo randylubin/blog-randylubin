@@ -1,11 +1,12 @@
 ---
+title: Website Redesign
+date: 2015-01-23 00:00:00 Z
+permalink: "/post/108929105603/website-redesign"
 layout: post
 template: post
-date: 2015-01-23
-title: "Website Redesign"
-permalink: /post/108929105603/website-redesign
-description: "Website Redesign"
+description: Website Redesign
 ---
+
 It's been two years since I updated my website / blog design; I spend some time this week updating the look and unifying the blog with my main site.
 
 ![](/images/21b980b8a293c2b2358c86af0797eb86c26f55fd3e3abe6b19aa2f7bcdf268e0.png)

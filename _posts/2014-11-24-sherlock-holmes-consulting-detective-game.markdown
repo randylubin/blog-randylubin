@@ -1,13 +1,14 @@
 ---
-layout: post
-template: post
-date: 2014-11-24
+title: 'Sherlock Holmes: Consulting Detective (game)'
+date: 2014-11-24 00:00:00 Z
+permalink: "/post/103443517593/sherlock-holmes-consulting-detective-game"
 tags:
 - board games
-title: "Sherlock Holmes: Consulting Detective (game)"
-permalink: /post/103443517593/sherlock-holmes-consulting-detective-game
-description: "Sherlock Holmes: Consulting Detective (game)"
+layout: post
+template: post
+description: 'Sherlock Holmes: Consulting Detective (game)'
 ---
+
 This past week I played through most of the cases of the classic board game [Sherlock Holmes: Consulting Detective](http://www.boardgamegeek.com/boardgame/2511/sherlock-holmes-consulting-detective).
 
 It's a cooperative game from the 1980's in which you play the role of detective. The original game consists of ten cases. Each case starts with a one - three page story laying out the mystery. Then you can turn to a map of London, a three page newspaper for that day, or flip through the address directory for all of London. You choose where you want to visit and then flip through a clue book to see what happens when you reach that place. You keep exploring until you're ready to solve the case, then you compare how you did to how Sherlock solved it.

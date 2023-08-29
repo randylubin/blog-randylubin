@@ -1,14 +1,15 @@
 ---
-layout: post
-template: post
-date: 2013-06-10
+title: London!
+date: 2013-06-10 00:00:00 Z
+permalink: "/post/52609887784/london"
 tags:
 - london
 - travel
-title: "London!"
-permalink: /post/52609887784/london
-description: "London!"
+layout: post
+template: post
+description: London!
 ---
+
 I'm heading to London this week as part of [ungroundedthinking.com](http://ungroundedthinking.com)
 
 You can read more about the trip through that link but the short of it:  British Airways is flying out 100 entrepreneurs from the Bay Area to brainstorm ways to change the world.

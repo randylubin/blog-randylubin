@@ -1,11 +1,12 @@
 ---
+title: Learning via Projects
+date: 2012-03-17 00:00:00 Z
+permalink: "/post/19477076346/learning-via-projects"
 layout: post
 template: post
-date: 2012-03-17
-title: "Learning via Projects"
-permalink: /post/19477076346/learning-via-projects
-description: "Learning via Projects"
+description: Learning via Projects
 ---
+
 <h2>What Codecademy Has Backwards</h2>&#13;
 <p><em>Quick disclaimer: Codecademy is only five months old and have way more to build than the current staff has bandwidth to achieve.  I have tons of respect for their progress so far and can't wait to see how they evolve.</em></p>&#13;
 <p>I'm extremely pleased with the popularity of Codecademy  / CodeYear.  Many of my friends are finally learning CS and will soon be able to create their own basic web apps.  Alas, the current CodeYear method has one thing backwards: projects are an afterthought.</p>&#13;

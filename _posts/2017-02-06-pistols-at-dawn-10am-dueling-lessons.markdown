@@ -1,12 +1,13 @@
 ---
-layout: post
-template: post
-date: 2017-02-06
+title: 'Pistols at Dawn (10am): Dueling Lessons'
+date: 2017-02-06 00:00:00 Z
+permalink: "/post/156876091048/pistols-at-dawn-10am-dueling-lessons"
 tags:
 - dueling
 - broderick-terry
-title: "Pistols at Dawn (10am): Dueling Lessons"
-permalink: /post/156876091048/pistols-at-dawn-10am-dueling-lessons
-description: "Pistols at Dawn (10am): Dueling Lessons"
+layout: post
+template: post
+description: 'Pistols at Dawn (10am): Dueling Lessons'
 ---
+
 <figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/eaf6a91b9ad42cc0dd4349ff163204e1c4855481f3ba2f3c7d8de7a16ac22538.png" data-orig-height="768" data-orig-width="1024"></figure><p>On the border of San Francisco and Daly City is&nbsp;<i>Broderick Terry Duel Landmark Park</i>&nbsp;a small patch of green that, in1859, hosted California’s <a href="https://www.wikiwand.com/en/Broderick%E2%80%93Terry_duel">last legal duel</a>. David Broderick was a State Senator, David Terry was the California Chief Justice and they were good friends until they had a falling out over abolition.&nbsp;Yesterday, Avital and I met friends in the park to learn how to duel.</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/8c82a452d2a294c7722fc733ddf32d5056912bcb3e492c47261c403c950e3fb0.png" data-orig-height="768" data-orig-width="1024"></figure><p><i>The stone markers were where the duelists stood – close!</i></p><p>Our instructor was Benjamin Bowles of <a href="http://www.goldengatearms.com/">Golden Gate Arms</a>. He gave us a terrific overview of the history of dueling, dueling in California, and the specifics of the Broderick-Terry duel. After teaching us the proper etiquette and procedures for arranging a duel, we went through several mock duels, rotating the roles of duelist, second (friend / negotiator), and doctor / witness. We used replica pistols for a dry run but then switched to nerf guns with foam bullets.</p><figure class="tmblr-full" data-orig-height="1024" data-orig-width="1024"><img src="/images/2d2016cfff93286c58c9b3df420418015f528efa5806824bc4a509a997ce08fd.png" data-orig-height="1024" data-orig-width="1024"></figure><p>The duels were a lot of fun and we hammed it up with silly causes (e.g. “you impinged on my honor by saying I left the toilet seat up!”). I personally went three for three in my duels and only suffered a bullet to the foot. Fastest gun in the west!</p><p>All in all a wonderful outing and a solid reason to be grateful that we’re not living in an&nbsp;<a href="https://www.wikiwand.com/en/Culture_of_honor_(Southern_United_States)">honor culture</a>!</p><figure class="tmblr-full" data-orig-height="768" data-orig-width="1024"><img src="/images/c1a6ffbbe856b1876bdeec15f17b899decb42bec6795374813c64ba72f3891a0.png" data-orig-height="768" data-orig-width="1024"></figure>
