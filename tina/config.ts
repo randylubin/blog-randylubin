@@ -6,7 +6,7 @@ export default defineConfig({
     process.env.HEAD ||
     "master",
 
-  clientId: process.env.TINA_CLIENT_ID || "297cf63d-ad73-4084-a841-6ad39449a04b",
+  clientId: process.env.TINA_PUBLIC_CLIENT_ID || "297cf63d-ad73-4084-a841-6ad39449a04b",
   token: process.env.TINA_TOKEN,
 
   build: {
