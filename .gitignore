@@ -4,3 +4,8 @@ _site
 .jekyll-metadata
 .DS_Store
 vendor
+
+# Node / Tina CMS
+node_modules
+tina/__generated__
+.env

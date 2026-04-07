@@ -1,0 +1,27 @@
+{
+  "name": "blog-randylubin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tinacms dev -c \"bundle exec jekyll serve --livereload\"",
+    "build": "npx tinacms build && bundle exec jekyll build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randylubin/blog-randylubin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/randylubin/blog-randylubin/issues"
+  },
+  "homepage": "https://github.com/randylubin/blog-randylubin#readme",
+  "dependencies": {
+    "@tinacms/cli": "^2.2.1",
+    "tinacms": "^3.7.1"
+  }
+}
