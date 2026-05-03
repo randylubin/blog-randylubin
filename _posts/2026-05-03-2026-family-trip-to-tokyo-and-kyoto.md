@@ -17,6 +17,12 @@ We spent about ten days in the country – half in Tokyo and half in Kyoto. Our 
 
 ![The family in front of Tokyo Station](</images/Tokyo Station Family.jpeg> "The family in front of Tokyo Station")
 
+In Tokyo we walked around the Palace Gardens, Iidabashi, Shibuya, Azabu-Juban, Shibuya, Harajuku, Yoyogi Park, Ueno, Asakusa, Ginza, and more. We hit the big shrines and temples but also delighted in wandering the quiet side streets. The exchange rate was highly favorable and we took advantage of it by buying new glasses and tons of Uniqlo (for me) and a hoard of ceramics (for Avital).
+
+![The family in Teamlab Borderless, surrounded by glowing lights](</images/Teamlab Family.jpeg> "The family in Teamlab Borderless")
+
+##
+
 ## The Food
 
 ## Other Highlights
