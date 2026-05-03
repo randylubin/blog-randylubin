@@ -31,4 +31,6 @@ We took the family to some old favorites, including Nijo Castle and Fushimi Inar
 
 ## The best food in the world
 
+One of our favorite things about Japan is the food. This trip, we revisited some of our old favorites and found some great new restaurants, too. We a huge array of Japanese cuisines with the family and most were hit. Curio and my parents tried: oden, donburi, sushi, takoyaki, imagawayaki, kaiseki, wagashi, soba, udon, kakigori, okonomiyaki, and much more. We dined at Michelin stars and bib gourmands, department stores, and Konbinis and were delighted at every turn. 
+
 ##
