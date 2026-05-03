@@ -8,3 +8,13 @@ template: post
 ---
 
 Seven years ago, Avital and I lived in Tokyo for three months. Ever since, we've been yearning to return and, this April, we finally made it back. We brought Curio (just turned four) and my parents, who had never been. It was a fantastic trip and Japan as every bit as wonderful as we remembered.
+
+![Exploring Shibuya with the family](</images/Shibuya Family.jpeg> "Exploring Shibuya with the family")
+
+## The Itinerary
+
+We spent about ten days in the country – half in Tokyo and half in Kyoto. Our goal was to show Curio and my parents some of the greatest hits and give them a sense of our life in Japan. Each day we'd aim to hit about one major activity, plus plenty of walking around neighborhoods (often from one meal or snack to the next). This was a reasonable pace for a four-year-old and Curio was generally an easy traveller.
+
+## The Food
+
+## Other Highlights
