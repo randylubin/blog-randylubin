@@ -21,7 +21,11 @@ In Tokyo, we walked around the Palace Gardens, Iidabashi, Shibuya, Azabu-Juban, 
 
 ![The family in Teamlab Borderless, surrounded by glowing lights](</images/Teamlab Family.jpeg> "The family in Teamlab Borderless")
 
-In Kyoto, we stayed in a lovely old Machiya which had two gigantic bath tubs that we enjoyed each night. We took the family to some old favorites, including Nijo Castle and Fushimi Inari and we explored some sites new to us, including the Imperial Palace gardens and Kodai-ji temple.
+In Kyoto, we stayed in a lovely old Machiya which had two gigantic bath tubs that we enjoyed each night.
+
+![The family at our bath in the Machiya](</images/Machiya Bath .jpeg> "Bathtime in Kyoto")
+
+We took the family to some old favorites, including Nijo Castle and Fushimi Inari and we explored some sites new to us, including the Imperial Palace gardens and Kodai-ji temple.
 
 ![The family in the Kyoto Imperial Palace Garden](</images/Imperial Garden Curio.jpeg> "The family in the Kyoto Imperial Palace Garden")
 
