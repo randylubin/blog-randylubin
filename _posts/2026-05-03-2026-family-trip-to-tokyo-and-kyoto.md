@@ -51,4 +51,10 @@ One night in Kyoto, Avital and I snuck away for a Michelin Star meal at KOKE. We
 
 ![small bites in beautiful dishes](/images/Koke.jpeg "Just one of our 14 courses, served in Okinawan lacquerware")
 
+## またね Japan!
+
+Ten days was too short but it was still incredible being back. We're already scheming about how to return in the next few years, and maybe this time we'll do one of the famous hikes, like the Kumano Kodo. Until then, we say またね (see you soon) and dream of great food and wonderful adventures.
+
+##
+
 ##
