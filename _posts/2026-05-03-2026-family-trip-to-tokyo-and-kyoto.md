@@ -35,10 +35,12 @@ One of our favorite things about Japan is the food. This trip, we revisited some
 
 ![Gary and Randy eating sushi in Shibuya](</images/Gary Randy Sushi.jpeg> "Gary and Randy eating sushi in Shibuya")
 
-Since leaving Japan in 2019 we've dreamed of once again eating our favorite pizza in the world: the tuna sashimi pizza at Savoy Tomato to Cheese. The pizza was as good as we remembered but we also tried the wagyu beef pizza special which was somehow even better.
+Since leaving Japan in 2019 we've dreamed of once again eating our favorite pizza in the world: the tuna sashimi pizza at Savoy Tomato to Cheese. The pizza was as good as we remembered but we also tried the wagyu beef pizza special which was even better – maybe the best pizza in the world.
 
 ![The family eating pizza at Savoy](</images/Savoy Family.jpeg> "The family eating pizza at Savoy")
 
-##
+Curio was an adventurous eater, trying everything we asked and often going back for seconds. Here he is devouring octopus on a skewer:
+
+![Curio eating Octopus](</images/Curio eating octopus.jpeg> "Curio eating Octopus")
 
 ##
