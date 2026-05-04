@@ -43,4 +43,10 @@ Curio was an adventurous eater, trying everything we asked and often going back 
 
 ![Curio eating Octopus](</images/Curio eating octopus.jpeg> "Curio eating Octopus")
 
+One highlight was trying the Kakigōri at Azuki to Kōri, which elevated the shaved ice dessert to its highest form. We tried two shaved ice (blood orange and strawberry with crème brûlée) and they were amazing. Curio drank the melted remains from the bottom of the bowl.
+
+![Curio getting ready to eat shaved ice](</images/Shaved Ice.jpeg> "Curio getting ready to eat shaved ice")
+
+##
+
 ##
