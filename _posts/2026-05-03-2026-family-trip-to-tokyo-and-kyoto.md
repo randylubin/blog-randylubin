@@ -47,6 +47,8 @@ One highlight was trying the Kakigōri at Azuki to Kōri, which elevated the sha
 
 ![Curio getting ready to eat shaved ice](</images/Shaved Ice.jpeg> "Curio getting ready to eat shaved ice")
 
-##
+One night in Kyoto, Avital and I snuck away for a Michelin Star meal at KOKE. We had 14 delicious courses of Okinawan food with Spanish twists, many of which had unusual combinations of sweet and savory flavors. It was a treat – the type of food we couldn't get anywhere else.
+
+![small bites in beautiful dishes](/images/Koke.jpeg "Just one of our 14 courses, served in Okinawan lacquerware")
 
 ##
