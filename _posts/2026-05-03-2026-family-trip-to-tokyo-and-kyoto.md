@@ -1,7 +1,7 @@
 ---
 title: 2026 Family Trip to Tokyo and Kyoto
 date: 2026-05-03T22:41:38.608Z
-published: false
+published: true
 description: A recap of our 2026 family trip to Tokyo and Kyoto
 layout: post
 template: post
