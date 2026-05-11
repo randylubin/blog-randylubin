@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/randylubin/blog-randylubin#readme",
   "dependencies": {
-    "@tinacms/cli": "^2.2.1",
-    "tinacms": "^3.7.1"
+    "@tinacms/cli": "^2.2.6",
+    "tinacms": "^3.7.6"
   }
 }
